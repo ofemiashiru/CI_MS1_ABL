@@ -1,10 +1,48 @@
+/* Navigation Bar */
+
+#search-bar{
+    border-radius: 20px;
+    
+}
+.search-icon-label::after{
+    font-family: "Font Awesome 5 Free";
+    content: "\f002";
+    font-size: 20px;
+    font-weight: 900;
+    color:grey;
+    
+}
+
+
+
 /* Hero Section */
 .hero-container{
-    height: 50vh;
+    height: 65vh;
+    background: url(https://miro.medium.com/max/4800/1*twXGppFcGdocFY7QdfUy3g.webp) no-repeat bottom right fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+
+    display: flex;
+    align-items: center;
+    justify-content: left;
+    position: relative;
+    /* margin-top: 60px; */
 }
+
+.background-overlay{
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    background-color: rgba(0,0,0, 0.5);
+  }
 
 .hero-container .jumbotron{
     background-color: transparent;
+    color: #FAFAFA;
 }
 
 /* Headers */
@@ -42,21 +80,51 @@
     
  }
 
+/* Update Section */
+
+.update-image img {
+    width: 100%;
+    border-radius: 10px;
+}
+
+.update-text{
+    border-left: 1px solid rgba(0,0,0,.1);
+    margin: auto 0;
+    
+}
+
+.update-text h1 {
+    font-size: 450%;
+}
+
+ /* Stay connected Section */
+
+ .stay-connected-container{
+    margin-bottom: 120px;
+ }
+
 
 /* Music Player */
 
 .music-player{
+    background-color: #f8f9fa;
+    color: rgba(0,0,0,.5);
     position: fixed;
     bottom: 0;
-    left: 0; 
+    left: 0;
+    
+    height: 100px;
 }
 
 
 @media screen and (max-width:943px){
     .song-square:hover::before {
         font-size: 50px;
-    
-     }
+    }
+    .update-text h1 {
+        font-size: 350%;
+        text-align: center;
+    }
 
 }
 
@@ -64,6 +132,5 @@
 
     .song-square:hover::before {
         font-size: 70px;
-    
-     }
+    }
 }
