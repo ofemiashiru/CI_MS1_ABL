@@ -1,4 +1,40 @@
+/* All containers */
+.featured-container,
+.update-container,
+.subscription-container,
+.stay-connected-container{
+    margin-bottom: 90px;
+}
+
+
+.nav-container{
+
+}
+
+.hero-container{
+    margin-bottom: 30px;
+}
+
+.featured-container{
+
+}
+
+.update-container{
+
+}
+
+.subscription-container{
+
+}
+
+.stay-connected-container{
+
+}
+
 /* Navigation Bar */
+.navbar-brand{
+    font-size: 2rem;
+}
 
 #search-bar{
     border-radius: 20px;
@@ -154,8 +190,13 @@
     display: inline;
 }
 
+#social-links a {
+    text-decoration: none;
+}
+
 #social-links i {
-    font-size: 35px;
+    font-size: 220%;
+    padding-right: 10%;
 }
 
 
