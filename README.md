@@ -1,108 +1,305 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+# AfrobeatsLib
+![AfrobeatsLibImage]()
 
-Welcome ofemiashiru,
+[Git Repository]()
 
-This is the Code Institute student template for Gitpod. We have preinstalled all of the tools you need to get started. It's perfectly ok to use this template as the basis for your project submissions.
+[Live Project]()
 
-You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Gitpod and the extensions we use. Some of this information has been updated since the video content was created. The last update to this file was: **September 1, 2021**
+<a name="table-of-contents"></a>
+# Table of Contents 
+* [User Experience](#user-experience)
+  * [Project Goals](#goals)
+  * [User Stories](#user-stories)
+* [Design](#design)
+  * [Site structure](#site-structure)
+  * [Wireframes](#wireframes)
+  * [Color Scheme](#color-scheme)
+  * [Typography](#typography)
+  * [Accessibility](#accessibility)
+* [Features](#features)
+  * [Current features](#current-features)
+  * [Future features](#future-features)
+* [Testing](#testing)
+  * [Navigation Test](#navigation-test)
+  * [Responsive Test](#responsive-test)
+  * [Validator Test](#validator-test)
+    * [HTML5](#html-validator)
+    * [CSS3](#css-validator)
+    * [Lighthouse](#lighthouse-validator)
+  * [Browser Test](#browser-test)
+* [Bugs](#bugs)
+  * [Fixed bugs](#fixed-bugs)
+  * [Unfixed bugs](#unfixed-bugs)
+* [Deployment](#deployment)
+  * [Deployment](#version-control)
+  * [GitHub Pages](#github-pages)
+  * [Clone Repository](#clone-repository)
+* [Technology Used](#tech-used)
+* [Credits](#credits) 
+  * [Content](#credits-content)
+  * [Code](#credits-code)
+  * [Media](#credits-media)
+* [Acknowledgements](#acknowledgements)
 
-## Gitpod Reminders
+<a name="user-experience"></a>
+# User Experience
 
-To run a frontend (HTML, CSS, Javascript only) application in Gitpod, in the terminal, type:
+<a name="goals"></a>
+## Project Goals 
+The primary goal of AfrobeatsLib is to provide users with a streamline and user friendly service that holds the largest catalogue of
+Afrobeat music on the web. It will be the number one source for all things Afrobeat. From news, events and new music releases. The sites goal is to not only provide a single source for Afrobeat fans but to also give artists a platform that they can stream on while getting better royalty rates and pays per stream. This site will be the first phase ushering in the development of an App for both iOS and Android users.
 
-`python3 -m http.server`
+<a name="user-stories"></a>
+## User Stories
 
-A blue button should appear to click: _Make Public_,
+#### Client Goals
+* Allow users to access the site on a range of different devices and be responsive 
+* To allow users to search the sites catalogue of music in a simple and streamline fashion
+* To provide news, updates and events within the world of Afrobeats to the user
+* To help artists have their music streamed and paid appropriate royalties and pays per stream 
 
-Another blue button should appear to click: _Open Browser_.
+#### First Time Visitor Goals
+* I want to be able to find my favourite Afrobeats artists and listen to their music
+* I want to be informed of new events and news happening amongst Afrobeats and the diaspora
+* I want to sign up for free or susbcribe to the a paid monthly service
+* I want to be kept up to date with AfrobeatsLib by signing up to the monthly mailing list
 
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
+#### Returning Visitor Goals
+* I want to see the number of artists and events grow on the site
+* I want to continue to stream and search for new music on the platform
+* I want to use the events page to add my desired events to my calendar
 
-A blue button should appear to click: _Make Public_,
+#### Frequent Visitor Goals
+* I want to be able to able to contact AfrobeatsLib with regards to any issues I am having with my service
 
-Another blue button should appear to click: _Open Browser_.
+[Back to contents](#table-of-contents)
 
-In Gitpod you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the lessons.
+<a name="design"></a>
+# Design
 
-To log into the Heroku toolbelt CLI:
+<a name="site-structure"></a>
+## Site Structure 
 
-1. Log in to your Heroku account and go to *Account Settings* in the menu under your avatar.
-2. Scroll down to the *API Key* and click *Reveal*
-3. Copy the key
-4. In Gitpod, from the terminal, run `heroku_config`
-5. Paste in your API key when asked
+<a name="wireframes"></a>
+## Wireframes 
 
-You can now use the `heroku` CLI program - try running `heroku apps` to confirm it works. This API key is unique and private to you so do not share it. If you accidentally make it public then you can create a new one with _Regenerate API Key_.
+<details>
+<summary>Home</summary>
+<br>
+This is how you dropdown.
+![image of wireframe]()
+</details>
 
-------
+<details>
+<summary>Artists</summary>
+<br>
+This is how you dropdown.
+![image of wireframe]()
+</details>
 
-## Release History
+<details>
+<summary>Genres</summary>
+<br>
+This is how you dropdown.
+![image of wireframe]()
+</details>
 
-We continually tweak and adjust this template to help give you the best experience. Here is the version history:
+<details>
+<summary>News</summary>
+<br>
+This is how you dropdown.
+![image of wireframe]()
+</details>
 
-**September 1 2021:** Remove `PGHOSTADDR` environment variable.
+<details>
+<summary>Events</summary>
+<br>
+This is how you dropdown.
+![image of wireframe]()
+</details>
 
-**July 19 2021:** Remove `font_fix` script now that the terminal font issue is fixed.
+<a name="color-scheme"></a>
+## Color Scheme 
 
-**July 2 2021:** Remove extensions that are not available in Open VSX.
+Used the tool [Coolers](https://coolors.co/) to cycle through a number of color schemes
 
-**June 30 2021:** Combined the P4 and P5 templates into one file, added the uptime script. See the FAQ at the end of this file.
+<a name="typography"></a>
+## Typography
 
-**June 10 2021:** Added: `font_fix` script and alias to fix the Terminal font issue
+<a name="accessibility"></a>
+## Accesibility
 
-**May 10 2021:** Added `heroku_config` script to allow Heroku API key to be stored as an environment variable.
+[Back to contents](#table-of-contents)
 
-**April 7 2021:** Upgraded the template for VS Code instead of Theia.
+<a name="features"></a>
+# Features
 
-**October 21 2020:** Versions of the HTMLHint, Prettier, Bootstrap4 CDN and Auto Close extensions updated. The Python extension needs to stay the same version for now.
+<a name="current-features"></a>
+## Current features 
 
-**October 08 2020:** Additional large Gitpod files (`core.mongo*` and `core.python*`) are now hidden in the Explorer, and have been added to the `.gitignore` by default.
+<a name="future-features"></a>
+## Future features 
 
-**September 22 2020:** Gitpod occasionally creates large `core.Microsoft` files. These are now hidden in the Explorer. A `.gitignore` file has been created to make sure these files will not be committed, along with other common files.
+<a name="testing"></a>
+# Testing 
 
-**April 16 2020:** The template now automatically installs MySQL instead of relying on the Gitpod MySQL image. The message about a Python linter not being installed has been dealt with, and the set-up files are now hidden in the Gitpod file explorer.
+<a name="navigation-test"></a>
+## Navigation Test 
 
-**April 13 2020:** Added the _Prettier_ code beautifier extension instead of the code formatter built-in to Gitpod.
+<a name="responsive-test"></a>
+## Responsive Test 
 
-**February 2020:** The initialisation files now _do not_ auto-delete. They will remain in your project. You can safely ignore them. They just make sure that your workspace is configured correctly each time you open it. It will also prevent the Gitpod configuration popup from appearing.
+<a name="validator-test"></a>
+## Validator Test 
 
-**December 2019:** Added Eventyret's Bootstrap 4 extension. Type `!bscdn` in a HTML file to add the Bootstrap boilerplate. Check out the <a href="https://github.com/Eventyret/vscode-bcdn" target="_blank">README.md file at the official repo</a> for more options.
+<a name="html-validator"></a>
+### HTML5 
 
-------
+<details>
+<summary>Home</summary>
+<br>
+This is how you dropdown.
+![image of test]()
+</details>
 
-## FAQ about the uptime script
+<details>
+<summary>Artists</summary>
+<br>
+This is how you dropdown.
+![image of test]()
+</details>
 
-**Why have you added this script?**
+<details>
+<summary>Genres</summary>
+<br>
+This is how you dropdown.
+![image of test]()
+</details>
 
-It will help us to calculate how many running workspaces there are at any one time, which greatly helps us with cost and capacity planning. It will help us decide on the future direction of our cloud-based IDE strategy.
+<details>
+<summary>News</summary>
+<br>
+This is how you dropdown.
+![image of test]()
+</details>
 
-**How will this affect me?**
+<a name="css-validator"></a>
+### CSS3 
 
-For everyday usage of Gitpod, it doesn’t have any effect at all. The script only captures the following data:
+<details>
+<summary>Home</summary>
+<br>
+This is how you dropdown.
+![image of test]()
+</details>
 
-- An ID that is randomly generated each time the workspace is started.
-- The current date and time
-- The workspace status of “started” or “running”, which is sent every 5 minutes.
+<details>
+<summary>Artists</summary>
+<br>
+This is how you dropdown.
+![image of test]()
+</details>
 
-It is not possible for us or anyone else to trace the random ID back to an individual, and no personal data is being captured. It will not slow down the workspace or affect your work.
+<details>
+<summary>Genres</summary>
+<br>
+This is how you dropdown.
+![image of test]()
+</details>
 
-**So….?**
+<details>
+<summary>News</summary>
+<br>
+This is how you dropdown.
+![image of test]()
+</details>
 
-We want to tell you this so that we are being completely transparent about the data we collect and what we do with it.
+<a name="lighthouse-validator"></a>
+### Lighthouse 
 
-**Can I opt out?**
+Site tested on Chrome Developer tool [Lighthouse](https://developer.chrome.com/docs/lighthouse/overview/).
 
-Yes, you can. Since no personally identifiable information is being captured, we'd appreciate it if you let the script run; however if you are unhappy with the idea, simply run the following commands from the terminal window after creating the workspace, and this will remove the uptime script:
+See below for results of Lighthouse test.
 
-```
-pkill uptime.sh
-rm .vscode/uptime.sh
-```
+<details>
+<summary>Tests</summary>
+<br>
+This is how you dropdown.
+![image of tests]()
+</details>
 
-**Anything more?**
+<a name="browser-test"></a>
+## Browser Test 
 
-Yes! We'd strongly encourage you to look at the source code of the `uptime.sh` file so that you know what it's doing. As future software developers, it will be great practice to see how these shell scripts work.
+<a name="bugs"></a>
+## Bugs 
 
----
+<a name="fixed-bugs"></a>
+### Fixed Bugs 
 
-Happy coding!
+<a name="unfixed-bugs"></a>
+### Unfixed Bugs 
+
+[Back to contents](#table-of-contents)
+
+<a name="deployment"></a>
+# Deployment 
+This project was developed using GitPods Visual Studio IDE, committed to git and pushed to GitHub using the inbuilt terminal on GitPod.
+
+<a name="version-control"></a>
+## Version Control 
+
+<a name="github-pages"></a>
+## GitHub Pages 
+
+<a name="clone-repository"></a>
+## Clone Repository 
+
+To clone this project you will need
+1. A GitHub account [Create a GitHub account here]()
+2. Use the Chrome browser
+
+[Back to contents](#table-of-contents)
+
+<a name="tech-used"></a>
+# Technology Used 
+
+* HTML5
+* CSS3
+* BOOTSTRAP
+
+[Back to contents](#table-of-contents)
+
+<a name="credits"></a>
+# Credits 
+
+<a name="credits-content"></a>
+## Content 
+* The text was sourced from
+  * [Source]()
+  * [Source]()
+  * [Source]()
+
+<a name="credits-code"></a>
+## Code 
+
+* Usage of `code` from [Source]()
+
+<a name="credits-media"></a>
+## Media 
+
+### Animations
+* Animation provided by [person]()
+* Animation provided by [person]()
+
+### images
+* Animation provided by [person]()
+* Animation provided by [person]()
+
+[Back to contents](#table-of-contents)
+
+<a name="acknowledgements"></a>
+# Acknowledgements 
+
+[Back to contents](#table-of-contents)
+
