@@ -45,11 +45,16 @@
     color: #FAFAFA;
 }
 
-/* Headers */
+/* Headers and General */
 
-.section-headers{
+.section-header{
+    
+}
+
+.uppercase{
     text-transform: uppercase;
 }
+
 
 /* Song Squares */
 .song-square{
@@ -82,9 +87,24 @@
 
 /* Update Section */
 
-.update-image img {
+.update-image-bottom img {
     width: 100%;
     border-radius: 10px;
+}
+
+.update-image-background{
+    background: url(/assets/images/update-imge-lg.jpg) no-repeat bottom right scroll; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+
+    height: 100%;
+    border-radius: 10px;
+}
+
+.update-image-bottom img {
+    display: none;
 }
 
 .update-text{
@@ -97,11 +117,38 @@
     font-size: 450%;
 }
 
+/* Subscription */
+.card {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
  /* Stay connected Section */
 
- .stay-connected-container{
+.stay-connected-container{
     margin-bottom: 120px;
- }
+}
+
+.mailing-list{
+
+}
+
+.mailing-list .form-group,
+.mailing-list label,
+.mailing-list input
+.mailing-list button {
+    display: inline;
+    vertical-align: middle;
+}
+
+.mailing-list input{
+    width: 40%;
+}
+
+.form-control{
+    display: inline;
+}
+
 
 
 /* Music Player */
@@ -117,13 +164,22 @@
 }
 
 
-@media screen and (max-width:943px){
+@media screen and (max-width:991px){
     .song-square:hover::before {
         font-size: 50px;
     }
+    
     .update-text h1 {
         font-size: 350%;
         text-align: center;
+    }
+    
+    .update-image img{
+        display: none;
+    }
+
+    .update-image-bottom img{
+        display: block;
     }
 
 }
