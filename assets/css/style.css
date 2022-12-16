@@ -10,9 +10,7 @@
     font-size: 20px;
     font-weight: 900;
     color:grey;
-    
 }
-
 
 
 /* Hero Section */
@@ -82,7 +80,6 @@
     -webkit-transform: translate(-50%,-50%);
     -moz-transform: translate(-50%,-50%);
     -o-transform: translate(-50%, -50%);
-    
  }
 
 /* Update Section */
@@ -149,6 +146,17 @@
     display: inline;
 }
 
+#social-links{
+    padding: 0;
+}
+
+#social-links li{
+    display: inline;
+}
+
+#social-links i {
+    font-size: 35px;
+}
 
 
 /* Music Player */
