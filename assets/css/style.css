@@ -3,7 +3,7 @@
 .update-container,
 .subscription-container,
 .stay-connected-container{
-    margin-bottom: 90px;
+    margin-bottom: 150px;
 }
 
 
@@ -12,7 +12,8 @@
 }
 
 .hero-container{
-    margin-bottom: 30px;
+    margin-top: 50px;
+    margin-bottom: 20px;
 }
 
 .featured-container{
@@ -37,21 +38,22 @@
 }
 
 #search-bar{
-    border-radius: 20px;
     
 }
+
 .search-icon-label::after{
     font-family: "Font Awesome 5 Free";
     content: "\f002";
     font-size: 20px;
     font-weight: 900;
     color:grey;
+    cursor: pointer;
 }
 
 
 /* Hero Section */
 .hero-container{
-    height: 65vh;
+    height: 60vh;
     background: url(https://miro.medium.com/max/4800/1*twXGppFcGdocFY7QdfUy3g.webp) no-repeat bottom right fixed; 
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -99,18 +101,18 @@
 
 .song-square{
     position: relative;
-    margin-bottom: 20px;
     padding-left: 0;
     padding-right: 0;
+    border: 5px solid white;
 
 }
-
 
 .song-overlay{
     width: 100%;
     height: 100%;
     background-color: rgba(255, 255, 255, 0);
     border-radius: 10px;
+    
     position: absolute;
     left: 50%;
     top: 50%;
@@ -258,6 +260,13 @@
     .song-square:hover::before {
         font-size: 50px;
     }
+
+    .featured-container,
+    .update-container,
+    .subscription-container{
+        margin-bottom: 70px;
+    }
+    
     
     .update-text h1 {
         font-size: 350%;
@@ -276,7 +285,18 @@
 
 @media screen and (max-width:768px){
 
+    .featured-container,
+    .update-container,
+    .subscription-container{
+        margin-bottom: 40px;
+    }
+
     .song-square:hover::before {
         font-size: 70px;
+    }
+
+    .update-text h1 {
+        font-size: 250%;
+
     }
 }
