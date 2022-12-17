@@ -7,7 +7,7 @@ body{
 .update-container,
 .subscription-container,
 .stay-connected-container{
-    margin-bottom: 150px;
+    margin-bottom: 100px;
 }
 
 
@@ -59,6 +59,9 @@ body{
     border-style: double;
 }
 
+.navbar-nav .active{
+    font-weight: 700;
+}
 
 .navbar-toggler{
     border: none;
@@ -90,7 +93,7 @@ body{
 /* Hero Section */
 .hero-container{
     height: 60vh;
-    background: url(/assets/images/pexels-yan-krukov-9008836.jpg) no-repeat bottom right fixed; 
+    background: url(/assets/images/pexels-yan-krukov-9008836.jpg) no-repeat center right fixed; 
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -173,8 +176,8 @@ body{
 
 .song-square:hover::before {
     font-family: "Font Awesome 5 Free";
-    content: "\f04b";
-    font-size: 30px;
+    content: "\f144";
+    font-size: 50px;
     font-weight: 900;
     color:#FAFAFA;
     
@@ -244,6 +247,10 @@ body{
 
 }
 
+.mailing-list .form-group{
+    padding-right: 10px
+}
+
 .mailing-list .form-group,
 .mailing-list label,
 .mailing-list input
@@ -261,7 +268,7 @@ body{
 }
 
 #social-links{
-    /* padding: 0; */
+    padding: 0;
 }
 
 #social-links li{
@@ -280,20 +287,21 @@ body{
 
 /* Music Player */
 
-.music-player{
+.music-player-container{
     background-color: #f8f9fa;
     color: rgba(0,0,0,.5);
     position: fixed;
     bottom: 0;
     left: 0;
-    
     height: 100px;
+
+    border-top: 2px groove rgba(0,0,0, 0.5);
 }
 
 /* Media Queries */
 @media screen and (max-width:991px){
     .song-square:hover::before {
-        font-size: 50px;
+        font-size: 70px;
     }
 
     .featured-container,
@@ -322,6 +330,7 @@ body{
     }
 
     #social-links{
+        padding-left: 40px;
     }
 
 }
@@ -335,12 +344,14 @@ body{
     }
 
     .song-square:hover::before {
-        font-size: 70px;
+        font-size: 100px;
     }
 
     .update-text h1 {
         font-size: 250%;
 
     }
-
+    .mailing-list .form-group {
+        padding-right: 2px;
+    }
 }
