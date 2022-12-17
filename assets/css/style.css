@@ -122,6 +122,17 @@ body{
     color: #FAFAFA;
 }
 
+.hero-container .jumbotron{
+    margin: auto 0;
+    padding: 0;
+}
+
+.jumbotron h1{
+   font-size: 350%; 
+}
+
+
+
 .hero-jumbo-row{
     margin: 0 auto;
 }
@@ -378,7 +389,11 @@ body{
 .current-play-cover{
     position: absolute;
     width: 100px;
-    height: 100px;   
+    height: 100px;
+
+    transition: all .3s ease-in-out;
+    -moz-transition: all .3s ease-in-out;
+    -webkit-transition: all .3s ease-in-out;  
 }
 
 .current-play-cover img {
@@ -404,6 +419,11 @@ body{
 .m-control:hover{
     background-color: #0d0d0d;
     color: #FAFAFA;
+}
+
+.m-control i{
+    display: flex;
+    justify-content: center;
 }
 
 .music-player-control .play{
@@ -450,13 +470,13 @@ body{
 
 .volume-container .volume-label {
     position: absolute;
-    top: -15px;
-    right: 62px;
+    top: -10px;
+    right: 47px;
     color: #FAFAFA
 }
 
 .volume-bar{
-    padding: 5em 3em 0em 1em;
+    padding: 5em 2em 0em 1em;
     margin-top: 10px;
     color: #0d0d0d;
     border-left: 4px solid #FAFAFA;
@@ -535,6 +555,18 @@ body{
         margin-bottom: 40px;
     }
 
+    .jumbotron h1{
+        font-size: 220%;
+    }
+
+    .lead{
+        display: none;
+    }
+
+    .btn-apple, .btn-android{
+        margin: 5px;
+    }
+
     .song-square:hover::before {
         font-size: 100px;
     }
@@ -546,4 +578,23 @@ body{
     .mailing-list .form-group {
         padding-right: 2px;
     }
+
+    /* Music Player */
+    .current-play-cover{
+        width: 90px;
+        height: 90px;   
+    }
+
+    .m-control{
+        width: 40px;
+        height: 40px;
+        font-size: 20px;
+    }
+    
+    .music-player-control .play{
+        width: 60px;
+        height: 60px;
+    }
+    
+    
 }
