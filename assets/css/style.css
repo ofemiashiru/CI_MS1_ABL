@@ -1,3 +1,7 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+
 /* All containers */
 .featured-container,
 .update-container,
@@ -32,13 +36,40 @@
 
 }
 
+/* Headers and General */
+
+.section-header{
+    font-weight: 700;
+    letter-spacing: 4px;
+}
+
+.uppercase{
+    text-transform: uppercase;
+}
+
+.letter-space-2 {
+    letter-spacing: 2px;
+}
+
 /* Navigation Bar */
 .navbar-brand{
-    font-size: 2rem;
+    font-size: 2.5rem;
+    font-family: 'Bebas Neue', sans-serif;
+    padding: 5px;
+    border-style: double;
+}
+
+
+.navbar-toggler{
+    border: none;
+}
+
+.navbar-toggler-icon{
+    
 }
 
 #search-bar{
-    
+    width: 80%
 }
 
 .search-icon-label::after{
@@ -50,11 +81,16 @@
     cursor: pointer;
 }
 
+.btn-sign-up{
+    width: 100px;
+    margin-bottom: 5px;
+}
+
 
 /* Hero Section */
 .hero-container{
     height: 60vh;
-    background: url(https://miro.medium.com/max/4800/1*twXGppFcGdocFY7QdfUy3g.webp) no-repeat bottom right fixed; 
+    background: url(/assets/images/pexels-yan-krukov-9008836.jpg) no-repeat bottom right fixed; 
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -79,16 +115,6 @@
 .hero-container .jumbotron{
     background-color: transparent;
     color: #FAFAFA;
-}
-
-/* Headers and General */
-
-.section-header{
-    
-}
-
-.uppercase{
-    text-transform: uppercase;
 }
 
 
@@ -199,6 +225,15 @@
     margin-bottom: 20px;
 }
 
+.subscription-header{
+    font-weight: 800;
+}
+
+.subscription-header span{
+    text-transform: lowercase;
+}
+
+
  /* Stay connected Section */
 
 .stay-connected-container{
@@ -226,7 +261,7 @@
 }
 
 #social-links{
-    padding: 0;
+    /* padding: 0; */
 }
 
 #social-links li{
@@ -255,7 +290,7 @@
     height: 100px;
 }
 
-
+/* Media Queries */
 @media screen and (max-width:991px){
     .song-square:hover::before {
         font-size: 50px;
@@ -281,6 +316,14 @@
         display: block;
     }
 
+    .social-sm{
+        text-align: center;
+        margin-top: 20px;
+    }
+
+    #social-links{
+    }
+
 }
 
 @media screen and (max-width:768px){
@@ -299,4 +342,5 @@
         font-size: 250%;
 
     }
+
 }
