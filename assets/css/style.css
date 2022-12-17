@@ -151,6 +151,10 @@ body{
     color: #FAFAFA;
 }
 
+.hero-jumbo-row{
+    margin: 0 auto;
+}
+
 .btn-apple{
     border: 1px solid #0d0d0d;
 }
