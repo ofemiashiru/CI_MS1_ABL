@@ -184,7 +184,7 @@
                             <li>1 hour of Ad-free music a day</li>
                             <li>Standard Definition</li>
                           </ul>
-
+                          <hr>
                           <button type="button" class="btn-outline-primary btn" name="button">Subscribe</button>
                         </div>
                       </div>
@@ -205,7 +205,7 @@
                             <li>Offline listening</li>
                             <li>Standard Definition</li>
                           </ul>
-
+                          <hr>
                           <button type="button" class="btn-outline-primary btn" name="button">Subscribe</button>
                         </div>
                       </div>
@@ -221,12 +221,12 @@
                         <div class="card-body">
                           <h1 class="pound-sterling-header">£14.99<span class="pricing-month">/mo</span></h1>
                           <ul class="list-unstyled mt-3 mb-4 sub-features">
-                            <li>Standard features plus...</li>
+                            <li>Standard features <span class="badge badge-success uppercase">plus</span></li>
                             <li>Download music</li>
-                            <li>One event per month</li>
+                            <li>One event yearly</li>
                             <li>Hi Resolution</li>
                           </ul>
-
+                          <hr>
                           <button type="button" class="btn-outline-primary btn" name="button">Subscribe</button>
                         </div>
                       </div>
@@ -259,11 +259,11 @@
                                 <form class="mailing-list">
                                     <div class="form-group">
                                         <label class="sr-only" for="name">Name</label>
-                                        <input type="text" class="form-control" id="name" placeholder="Enter name">
+                                        <input type="text" class="form-control" id="name" placeholder="Enter name" required>
                                     </div>
                                     <div class="form-group">
                                       <label class="sr-only" for="email">Email address</label>
-                                      <input type="email" class="form-control" id="email" placeholder="Enter email">
+                                      <input type="email" class="form-control" id="email" placeholder="Enter email" required>
                                     </div>
                                     <div class="form-group">
                                         <button type="submit" class="btn btn-primary uppercase letter-space-2">Submit</button>
@@ -311,35 +311,42 @@
         </footer>
     </div>
 
+    <div class="container-fluid blurred-back">
 
+    </div>
     <!-- Music Player -->
     <div class="container-fluid music-player-container">
+        
         <section class="music-player-section">
             <div class="row text-center">
                 <div class="col-12 music-player-control">
                     <div class="current-play-cover">
-                        <img src="assets/images/Black-Sherif-the-villain-i-never-was.webp" alt="" srcset="">
+                        <img src="assets/images/Black-Sherif-the-villain-i-never-was.webp" alt="song currently playing" >
                     </div>
 
-                    <div class="backward control">
+                    <button type="button" class="btn-outline-primary btn btn-lg m-control backward" name="backward">
                         <i class="fas fa-backward"></i>
-                    </div>
-
-                    <div class="play-button control">
+                    </button>
+                    <button type="button" class="btn-outline-primary btn btn-lg m-control play" name="play">
                         <i class="fas fa-play"></i>
-                    </div>
-                    <div class="forward control">
+                    </button>
+
+                    <button type="button" class="btn-outline-primary btn btn-lg m-control forward" name="forward">
                         <i class="fas fa-forward"></i>
-                    </div>
+                    </button>
                     
 
                     <div class="play-bar">
                         <p></p>
                     </div>
 
-                    <div class="volume-bar">
-                        <p></p>
+                    <div class="volume-container">
+                        <i class="fas fa-volume-off volume-label"></i>
+                        <div class="volume-bar">
+                            <p></p>
+                        </div>
                     </div>
+
                 </div>
 
             </div>
@@ -360,11 +367,11 @@
                     <form>
                         <div class="form-group">
                             <label for="inputEmail1">Email address</label>
-                            <input type="email" class="form-control" id="inputEmail1" aria-describedby="emailHelp">
+                            <input type="email" class="form-control" id="inputEmail1" aria-describedby="emailHelp" required>
                         </div>
                         <div class="form-group">
                             <label for="inputPassword">Password</label>
-                            <input type="password" class="form-control" id="inputPassword">
+                            <input type="password" class="form-control" id="inputPassword" required>
                         </div>
 
                         <button type="submit" class="btn btn-success">Login</button>
@@ -389,16 +396,16 @@
                 <form>
                     <div class="form-group">
                         <label for="inputEmail1">Email address</label>
-                        <input type="email" class="form-control" id="inputEmail1" aria-describedby="emailHelp">
+                        <input type="email" class="form-control" id="inputEmail1" aria-describedby="emailHelp" required>
                         <small id="emailHelp" class="form-text text-muted">We'll never share your email with anyone else.</small>
                     </div>
                     <div class="form-group">
                         <label for="inputPassword">Password</label>
-                        <input type="password" class="form-control" id="inputPassword">
+                        <input type="password" class="form-control" id="inputPassword" required>
                     </div>
                     <div class="form-group">
                         <label for="repeatPassword">Repeat Password</label>
-                        <input type="password" class="form-control" id="repeatPassword">
+                        <input type="password" class="form-control" id="repeatPassword" required>
                     </div>
 
                     <button type="submit" class="btn btn-success">Register</button>

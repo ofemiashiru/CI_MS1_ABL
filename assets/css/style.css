@@ -150,10 +150,6 @@ body{
 
 /* Featured Section */
 
-.featured-container{
-
-}
-
 /* Song Squares */
 
 .song-row {
@@ -225,10 +221,6 @@ body{
 
 /* Update Section */
 
-.update-container{
-
-}
-
 .update-image-bottom img {
     width: 100%;
     border-radius: 10px;
@@ -284,6 +276,7 @@ body{
 
 .pound-sterling-header{
     font-weight: 800;
+    letter-spacing: -3px;
 }
 
 .subscription-header span{
@@ -299,10 +292,6 @@ body{
 
 .stay-connected-container{
     margin-bottom: 150px;
-}
-
-.mailing-list{
-
 }
 
 .mailing-list .form-group{
@@ -358,71 +347,81 @@ body{
     color: rgba(0,0,0, 0.5);
 } 
 
+/* Blurred behind Player */
 
-/* Music Player */
-
-.music-player-container{
-    background-color: #f8f9fa;
-    color: rgba(0,0,0,.5);
+.blurred-back{
     position: fixed;
     bottom: 0;
     left: 0;
     height: 120px;
-    border-top: 1px solid rgba(0,0,0, 0.2);
+    z-index: 0;
 
+    background-color: rgba(0,0,0, 0.5);
+    filter: blur(20px);
+    -webkit-filter: blur(20px);
+}
+
+
+/* Music Player */
+
+.music-player-container{
+    background-color: rgba(0,0,0, 0.5);
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    height: 120px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    z-index: 1;
 }
 
 .current-play-cover{
-    position:absolute;
+    position: absolute;
     width: 100px;
-    height: 100px;
-    
+    height: 100px;   
 }
 
 .current-play-cover img {
     width: 100%;
     height: 100%;
-    border: 1px solid rgba(0,0,0, 0.2);
-    border-radius: 10px;
+    border: 1px solid rgba(250,250,250, 0.2);
 }
 
 .music-player-control{
     padding: 10px;
 }
 
-.music-player-control .control{
-    border: 1px solid #0d0d0d;
+.m-control{
     width: 60px;
     height: 60px;
-    display: inline-block;
+    border: 1px solid rgba(0,0,0, 0.5);
     border-radius: 50%;
-    position: relative;
-}
-
-.control i {
-    color: #0d0d0d;
     font-size: 30px;
-
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    -webkit-transform: translate(-50%,-50%);
-    -moz-transform: translate(-50%,-50%);
-    -o-transform: translate(-50%, -50%);
+    background-color: #FAFAFA;
+    color: #0d0d0d;
 }
 
-.music-player-control .play-button{
-    width: 70px;
-    height: 70px;
+.m-control:hover{
+    background-color: #0d0d0d;
+    color: #FAFAFA;
+}
+
+.music-player-control .play{
+    width: 80px;
+    height: 80px;
+}
+
+.music-player-control .backward,
+.music-player-control .forward{
+    margin-bottom: 5px;
 }
 
 .play-bar{
     padding-top: 10px;
     width: 33%;
     position: relative;
-    color: #FAFAFA;
-    border-bottom: 2px solid #0d0d0d;
+    color: #0d0d0d;
+    border-bottom: 4px solid #FAFAFA;
     margin: 0 auto;
 }
 
@@ -432,21 +431,36 @@ body{
 }
 
 .play-bar p::after{
-    width: 12px;
-    height: 12px;
+    width: 18px;
+    height: 18px;
     position: absolute;
-    bottom: -7px;
+    bottom: -11px;
     left: 50px;
     border-radius: 50%;
+    border: 1px solid rgba(250,250,250, 0.5);
     content: '';
     background-color: #0d0d0d;
 }
 
+.volume-container{
+    position: absolute;
+    top: 20px;
+    right: 0;
+}
+
+.volume-container .volume-label {
+    position: absolute;
+    top: -15px;
+    right: 62px;
+    color: #FAFAFA
+}
+
 .volume-bar{
-    padding: 4em 2em 0em 2em;
+    padding: 5em 3em 0em 1em;
+    margin-top: 10px;
+    color: #0d0d0d;
+    border-left: 4px solid #FAFAFA;
     position: relative;
-    color: #FAFAFA;
-    border-left: 2px solid #0d0d0d;
 }
 
 .volume-bar p {
@@ -454,15 +468,15 @@ body{
     margin: 0;
 }
 
-
 .volume-bar p::after{
-    width: 12px;
-    height: 12px;
+    width: 14px;
+    height: 14px;
     display: block;
     position: absolute;
     top: 1.4em;
-    left: -7px;
+    left: -9px;
     border-radius: 50%;
+    border: 1px solid rgba(250,250,250, 0.5);
     content: '';
     background-color: #0d0d0d;
 }
