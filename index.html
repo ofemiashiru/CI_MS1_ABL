@@ -37,7 +37,7 @@
                 <div class="collapse navbar-collapse" id="navbarSupportedContent">
                 <ul class="navbar-nav mr-auto uppercase letter-space-2">
                     <li class="nav-item active">
-                        <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
+                        <a class="nav-link" href="#">Home <span class="sr-only">(current page)</span></a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="#">Artists</a>
@@ -55,7 +55,7 @@
                 </ul>
                 
                 <form class="form-inline my-2 my-lg-0 mr-2">
-                    <input id="search-bar" class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search">
+                    <input id="search-bar" class="form-control mr-sm-2" type="search" placeholder="Search Catalogue" aria-label="Search Catalogue">
                     <button class="btn-search" type="submit">
                         <i class="fab search-icon-label"> </i>
                     </button>
@@ -262,12 +262,10 @@
                                 <!-- Mailing List Form -->
                                 <form class="mailing-list">
                                     <div class="form-group">
-                                        <label class="sr-only" for="name">Name</label>
-                                        <input type="text" class="form-control" id="name" placeholder="Enter name" required>
+                                        <input type="text" class="form-control" id="name" placeholder="Enter name" aria-label="Enter name" required>
                                     </div>
                                     <div class="form-group">
-                                      <label class="sr-only" for="email">Email address</label>
-                                      <input type="email" class="form-control" id="email" placeholder="Enter email" required>
+                                      <input type="email" class="form-control" id="email" placeholder="Enter email" aria-label="Enter emai"  required>
                                     </div>
                                     <div class="form-group">
                                         <button type="submit" class="btn uppercase letter-space-2">Submit</button>
@@ -335,7 +333,7 @@
                         <i class="fas fa-play"></i>
                     </button>
 
-                    <button type="button" class="btn btn-lg m-control forward" name="forward">
+                    <button type="button" class="btn btn-lg m-control forward" name="forward" >
                         <i class="fas fa-forward"></i>
                     </button>
                     
@@ -396,26 +394,26 @@
                         <span aria-hidden="true">&times;</span>
                     </button>
                 </div>
-            <div class="modal-body">
-                <form>
-                    <div class="form-group">
-                        <label for="inputEmail1">Email address</label>
-                        <input type="email" class="form-control" id="inputEmail1" aria-describedby="emailHelp" required>
-                        <small id="emailHelp" class="form-text text-muted">We'll never share your email with anyone else.</small>
-                    </div>
-                    <div class="form-group">
-                        <label for="inputPassword">Password</label>
-                        <input type="password" class="form-control" id="inputPassword" required>
-                    </div>
-                    <div class="form-group">
-                        <label for="repeatPassword">Repeat Password</label>
-                        <input type="password" class="form-control" id="repeatPassword" required>
-                    </div>
+                <div class="modal-body">
+                    <form>
+                        <div class="form-group">
+                            <label for="inputEmail1">Email address</label>
+                            <input type="email" class="form-control" id="inputEmail1" aria-describedby="emailHelp" required>
+                            <small id="emailHelp" class="form-text text-muted">We'll never share your email with anyone else.</small>
+                        </div>
+                        <div class="form-group">
+                            <label for="inputPassword">Password</label>
+                            <input type="password" class="form-control" id="inputPassword" required>
+                        </div>
+                        <div class="form-group">
+                            <label for="repeatPassword">Repeat Password</label>
+                            <input type="password" class="form-control" id="repeatPassword" required>
+                        </div>
 
-                    <button type="submit" class="btn">Register</button>
-                </form>
+                        <button type="submit" class="btn">Register</button>
+                    </form>
+                </div>
             </div>
-        </div>
         </div>
     </div>
 
