@@ -32,10 +32,10 @@
                 <div class="collapse navbar-collapse" id="navbarSupportedContent">
                 <ul class="navbar-nav mr-auto uppercase letter-space-2">
                     <li class="nav-item active">
-                    <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
+                        <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
                     </li>
                     <li class="nav-item">
-                    <a class="nav-link" href="#">Artists</a>
+                        <a class="nav-link" href="#">Artists</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="#">Genre</a>
@@ -50,18 +50,18 @@
                 </ul>
                 
                 <form class="form-inline my-2 my-lg-0 mr-2">
-                    <input id="search-bar" class="form-control mr-sm-2" type="search" placeholder="" aria-label="Search">
-                    <label class="search-icon-label" for="search-bar"></label>
-                    
-                    <!-- <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button> -->
+                    <input id="search-bar" class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search">
+                    <button class="btn-search" type="submit">
+                        <i class="fab search-icon-label"> </i>
+                    </button>
                 </form>
     
-                <ul class="navbar-nav letter-space-2">
+                <ul class="navbar-nav letter-space-2 uppercase">
                     <li class="nav-item mr-2">
-                        <a class="btn btn-success btn-sign-up">Login</a>
+                        <button type="button" class="btn-outline-primary btn btn-sign-up" data-toggle="modal" data-target="#loginModal" name="button">Login</button>
                     </li>
                     <li class="nav-item mr-2">
-                        <a class="btn btn-success btn-sign-up">Register</a>
+                        <button type="button" class="btn-outline-primary btn btn-sign-up" data-toggle="modal" data-target="#registerModal" name="button">Register</button>
                     </li>
                 </ul>
                 </div>
@@ -79,13 +79,17 @@
                         <h1>
                             The largest collection of Afrobeats Music
                         </h1>
-                        <hr>
                         <p class="lead">
-                            Get unlimited access and stream over 1 million songs from across the African continent and diaspora, spanning almost 60 years of great music from Afrobeat to Zilin.
+                            Get unlimited access and stream over 1 million songs from across the African continent and diaspora, from Afrobeat to Zilin.
                         </p>
                         <!-- Button trigger modal -->
-                        <button class="btn btn-cta btn-success btn-lg letter-space-2" type="button" data-toggle="modal" data-target="#signUpModal">
-                            Sign Up
+                        <button type="button" class="btn-outline-primary btn btn-lg btn-apple" name="button">
+                            <i class="fab fa-apple"></i>
+                            Download
+                        </button>
+                        <button type="button" class="btn-outline-primary btn btn-lg btn-android" name="button">
+                            <i class="fab fa-google-play"></i>
+                            Download
                         </button>
                     </section>
                 </div>
@@ -169,19 +173,19 @@
                     <div class="card">
 
                         <div class="card-header">
-                          <h4 class="subscription-header uppercase letter-space-2">Free</h4>
+                          <h4 class="subscription-header uppercase">Free</h4>
                         </div>
               
                         <div class="card-body">
                           <h1 class="pound-sterling-header">£0<span class="pricing-month">/mo</span></h1>
-                          <ul class="list-unstyled mt-3 mb-4">
+                          <ul class="list-unstyled mt-3 mb-4 sub-features">
                             <li>1 user included</li>
                             <li>Ads included</li>
-                            <li>Email support</li>
+                            <li>1 hour of Ad-free music a day</li>
                             <li>Standard Definition</li>
                           </ul>
 
-                          <button type="button" class="btn-outline-primary btn letter-space-2" name="button">Subscribe</button>
+                          <button type="button" class="btn-outline-primary btn" name="button">Subscribe</button>
                         </div>
                       </div>
                 </div>
@@ -190,41 +194,40 @@
                     <div class="card">
 
                         <div class="card-header">
-                          <h4 class="subscription-header uppercase letter-space-2">Standard</h4>
+                          <h4 class="subscription-header uppercase">Standard</h4>
                         </div>
               
                         <div class="card-body">
                           <h1 class="pound-sterling-header">£6.99<span class="pricing-month">/mo</span></h1>
-                          <ul class="list-unstyled mt-3 mb-4">
+                          <ul class="list-unstyled mt-3 mb-4 sub-features">
                             <li>5 users included</li>
                             <li>Ad-free</li>
                             <li>Offline listening</li>
                             <li>Standard Definition</li>
                           </ul>
 
-                          <button type="button" class="btn-outline-primary btn letter-space-2" name="button">Subscribe</button>
+                          <button type="button" class="btn-outline-primary btn" name="button">Subscribe</button>
                         </div>
                       </div>
                 </div>
                 <div class="col-lg-4">
-                    <!-- HIRES -->
+                    <!-- HiRES -->
                     <div class="card">
 
                         <div class="card-header">
-                          <h4 class="subscription-header uppercase letter-space-2">H<span>i</span>Res</h4>
+                          <h4 class="subscription-header uppercase">H<span>i</span>Res</h4>
                         </div>
               
                         <div class="card-body">
-                          <h1 class="pound-sterling-header">£10.99<span class="pricing-month">/mo</span></h1>
-                          <ul class="list-unstyled mt-3 mb-4">
-                            <li>10 users included</li>
-                            <li>Ad-free</li>
-                            <li>Offline listening</li>
-                            <li>Hi Resolution</li>
+                          <h1 class="pound-sterling-header">£14.99<span class="pricing-month">/mo</span></h1>
+                          <ul class="list-unstyled mt-3 mb-4 sub-features">
+                            <li>Standard features plus...</li>
+                            <li>Download music</li>
                             <li>One event per month</li>
+                            <li>Hi Resolution</li>
                           </ul>
 
-                          <button type="button" class="btn-outline-primary btn letter-space-2" name="button">Subscribe</button>
+                          <button type="button" class="btn-outline-primary btn" name="button">Subscribe</button>
                         </div>
                       </div>
                 </div>
@@ -263,7 +266,7 @@
                                       <input type="email" class="form-control" id="email" placeholder="Enter email">
                                     </div>
                                     <div class="form-group">
-                                        <button type="submit" class="btn btn-primary">Submit</button>
+                                        <button type="submit" class="btn btn-primary uppercase letter-space-2">Submit</button>
                                     </div>
                                   </form>
                             </div>
@@ -326,41 +329,68 @@
         </section>
     </div>
 
+    <!-- Login -->
+    <div class="modal fade" id="loginModal" tabindex="-1" aria-labelledby="loginModalLabel" aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title" id="loginModalLabel">Login</h5>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+                <div class="modal-body">
+                    <form>
+                        <div class="form-group">
+                            <label for="inputEmail1">Email address</label>
+                            <input type="email" class="form-control" id="inputEmail1" aria-describedby="emailHelp">
+                        </div>
+                        <div class="form-group">
+                            <label for="inputPassword">Password</label>
+                            <input type="password" class="form-control" id="inputPassword">
+                        </div>
+
+                        <button type="submit" class="btn btn-success">Login</button>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
     
 
-    <!-- Register and Login -->
-    <div class="modal fade" id="signUpModal" tabindex="-1" aria-labelledby="signUpModalLabel" aria-hidden="true">
+    <!-- Register -->
+    <div class="modal fade" id="registerModal" tabindex="-1" aria-labelledby="registerModalLabel" aria-hidden="true">
         <div class="modal-dialog">
-        <div class="modal-content">
-            <div class="modal-header">
-            <h5 class="modal-title" id="signUpModalLabel">Sign Up</h5>
-            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                <span aria-hidden="true">&times;</span>
-            </button>
-            </div>
-            <div class="modal-body">
-            <form>
-                <div class="form-group">
-                    <label for="inputEmail1">Email address</label>
-                    <input type="email" class="form-control" id="inputEmail1" aria-describedby="emailHelp">
-                    <small id="emailHelp" class="form-text text-muted">We'll never share your email with anyone else.</small>
-                    </div>
-                    <div class="form-group">
-                    <label for="inputPassword">Password</label>
-                    <input type="password" class="form-control" id="inputPassword">
-                    </div>
-                    <div class="form-group">
-                    <label for="repeatPassword">Repeat Password</label>
-                    <input type="password" class="form-control" id="repeatPassword">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title" id="registerModalLabel">Register</h5>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
                 </div>
+            <div class="modal-body">
+                <form>
+                    <div class="form-group">
+                        <label for="inputEmail1">Email address</label>
+                        <input type="email" class="form-control" id="inputEmail1" aria-describedby="emailHelp">
+                        <small id="emailHelp" class="form-text text-muted">We'll never share your email with anyone else.</small>
+                    </div>
+                    <div class="form-group">
+                        <label for="inputPassword">Password</label>
+                        <input type="password" class="form-control" id="inputPassword">
+                    </div>
+                    <div class="form-group">
+                        <label for="repeatPassword">Repeat Password</label>
+                        <input type="password" class="form-control" id="repeatPassword">
+                    </div>
 
-                <button type="submit" class="btn btn-success">Sign Up</button>
-            </form>
+                    <button type="submit" class="btn btn-success">Register</button>
+                </form>
             </div>
-
         </div>
         </div>
     </div>
+
 
     <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ho+j7jyWK8fNQe+A12Hb8AhRq26LrZ/JpcUGGOn+Y7RsweNrtN/tE3MoK7ZeZDyx" crossorigin="anonymous"></script>

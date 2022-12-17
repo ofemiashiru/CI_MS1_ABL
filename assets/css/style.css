@@ -5,8 +5,7 @@ body{
 /* All containers */
 .featured-container,
 .update-container,
-.subscription-container,
-.stay-connected-container{
+.subscription-container{
     margin-bottom: 100px;
 }
 
@@ -29,7 +28,7 @@ body{
 }
 
 .subscription-container{
-
+    margin-bottom: 30px;
 }
 
 .stay-connected-container{
@@ -41,6 +40,8 @@ body{
 .section-header{
     font-weight: 700;
     letter-spacing: 4px;
+    margin-top: 10px;
+    margin-bottom: 20px;
 }
 
 .uppercase{
@@ -51,12 +52,38 @@ body{
     letter-spacing: 2px;
 }
 
+.btn{
+    letter-spacing: 2px;
+    font-weight: 800;
+    text-transform: uppercase;
+
+    background-color: #0d0d0d;
+    color: #FAFAFA;
+    border: 1px solid rgba(0,0,0, 0.5);
+
+    transition: all .3s ease-in-out;
+    -moz-transition: all .3s ease-in-out;
+    -webkit-transition: all .3s ease-in-out;
+
+}
+
+.btn:hover{
+    background-color: rgba(0,0,0, 0.5);
+    border: 1px solid rgba(0,0,0, 0);
+    color: #0d0d0d;
+}
+
 /* Navigation Bar */
+
+.navbar{
+    border-bottom: 1px solid rgba(0,0,0, 0.2);
+}
+
 .navbar-brand{
     font-size: 2.5rem;
     font-family: 'Bebas Neue', sans-serif;
-    padding: 5px;
-    border-style: double;
+    padding: 5px 10px 5px 10px;
+    border: 1px solid rgba(0,0,0, 0.2);
 }
 
 .navbar-nav .active{
@@ -81,11 +108,16 @@ body{
     font-size: 20px;
     font-weight: 900;
     color:grey;
-    cursor: pointer;
 }
 
+.btn-search{
+    border: none;
+    background-color: transparent;
+}
+
+
 .btn-sign-up{
-    width: 100px;
+    width: 110px;
     margin-bottom: 5px;
 }
 
@@ -103,7 +135,6 @@ body{
     align-items: center;
     justify-content: left;
     position: relative;
-    /* margin-top: 60px; */
 }
 
 .background-overlay{
@@ -119,6 +150,29 @@ body{
     background-color: transparent;
     color: #FAFAFA;
 }
+
+.btn-apple{
+    border: 1px solid #0d0d0d;
+}
+
+.btn-apple:hover{
+    background-color:#0d0d0d;
+    border: 1px solid #0d0d0d;
+    color: rgba(250, 250, 250, 0.5);
+}
+
+.btn-android{
+    border: 1px solid #FAFAFA;
+    color: #FAFAFA;
+    background-color: transparent;
+}
+
+.btn-android:hover{
+    color: #0d0d0d;
+    background-color:#FAFAFA;
+    border: 1px solid #FAFAFA;
+}
+
 
 
 /* Song Squares */
@@ -226,9 +280,21 @@ body{
 .card {
     text-align: center;
     margin-bottom: 20px;
+    border: 1px solid #0d0d0d;
+}
+
+.card-header{
+    background-color: #0d0d0d;
+    color: #FAFAFA;
 }
 
 .subscription-header{
+    font-weight: 800;
+    margin-bottom: 0;
+    letter-spacing: 5px;
+}
+
+.pound-sterling-header{
     font-weight: 800;
 }
 
@@ -236,8 +302,12 @@ body{
     text-transform: lowercase;
 }
 
+.sub-features{
+    line-height: 3;
 
- /* Stay connected Section */
+}
+
+/* Stay connected Section */
 
 .stay-connected-container{
     margin-bottom: 120px;
@@ -248,7 +318,12 @@ body{
 }
 
 .mailing-list .form-group{
-    padding-right: 10px
+    padding-right: 10px;
+
+    transition: all .3s ease-in-out;
+    -moz-transition: all .3s ease-in-out;
+    -webkit-transition: all .3s ease-in-out;
+    
 }
 
 .mailing-list .form-group,
@@ -279,10 +354,21 @@ body{
     text-decoration: none;
 }
 
+
 #social-links i {
     font-size: 220%;
     padding-right: 10%;
+    color: #0d0d0d;
+
+    transition: all .3s ease-in-out;
+    -moz-transition: all .3s ease-in-out;
+    -webkit-transition: all .3s ease-in-out;
+
 }
+
+#social-links i:hover{
+    color: rgba(0,0,0, 0.5);
+} 
 
 
 /* Music Player */
@@ -295,7 +381,16 @@ body{
     left: 0;
     height: 100px;
 
-    border-top: 2px groove rgba(0,0,0, 0.5);
+    border-top: 1px solid rgba(0,0,0, 0.2);;
+}
+
+
+/* Modals */
+
+.modal-title{
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    font-weight: 800;
 }
 
 /* Media Queries */
@@ -321,6 +416,7 @@ body{
     }
 
     .update-image-bottom img{
+        margin-top: 40px;
         display: block;
     }
 
