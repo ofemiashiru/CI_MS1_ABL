@@ -59,6 +59,10 @@ body{
     background-color: #EF2D56;
 }
 
+.not-popular{
+    margin-top: 50px;
+}
+
 /* Navigation Bar */
 
 .navbar{
@@ -164,8 +168,6 @@ body{
    font-weight: 500;
    margin-bottom: 0;
 }
-
-
 
 .hero-jumbo-row{
     margin: 0 auto;
@@ -360,11 +362,17 @@ body{
     
 }
 
+.standard-sub .badge,
 .hires-sub .badge{
     font-size: 1rem;
-    color: #0d0d0d;
     background-color: #EF2D56;
+}
 
+.standard-sub .badge{
+    color: #FAFAFA;
+}
+.hires-sub .badge {
+    color: #0d0d0d;
 }
 
 /* Stay connected Section */
@@ -665,6 +673,10 @@ body{
 }
 
 @media screen and (max-width:991px){
+
+    .not-popular{
+        margin-top: 0;
+    }
 
     .search-icon-label{
         display: block;
