@@ -453,7 +453,7 @@ body{
 }
 
 .m-control:hover{
-    background-color: #0d0d0d;
+    background-color: rgba(250,250,250, 0.2);
     color: #FAFAFA;
 }
 
