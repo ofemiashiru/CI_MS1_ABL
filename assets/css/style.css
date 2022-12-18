@@ -36,8 +36,10 @@ body{
     border: 1px solid rgba(0,0,0, 0.5);
 
     transition: all .3s ease-in-out;
-    -moz-transition: all .3s ease-in-out;
     -webkit-transition: all .3s ease-in-out;
+    -moz-transition: all .3s ease-in-out;
+    -o-transition:  all .3s ease-in-out;
+    
 
 }
 
@@ -62,6 +64,12 @@ body{
     font-family: 'Bebas Neue', sans-serif;
     padding: 5px 10px 5px 10px;
     border: 1px solid rgba(0,0,0, 0.2);
+
+    transition: all .3s ease-in-out;
+    -webkit-transition: all .3s ease-in-out;
+    -moz-transition: all .3s ease-in-out;
+    -o-transition:  all .3s ease-in-out;
+
 }
 
 .navbar-nav .active{
@@ -315,6 +323,10 @@ body{
 
 .sub-features li {
     color: #868383;
+}
+
+.hires-sub .badge{
+    border: 1px solid red;
 }
 
 /* Stay connected Section */
@@ -621,22 +633,60 @@ body{
         padding-right: 2px;
     }
 
+    .mailing-list .form-group,
+    .mailing-list label,
+    .mailing-list input
+    .mailing-list button {
+        display: block;
+    }
+
+    .mailing-list input{
+        width: 100%;
+    }
+
     /* Music Player */
+    .music-player-container{
+        height: 110px;
+    }
+
     .current-play-cover{
-        width: 90px;
-        height: 90px;   
+        width: 70px;
+        height: 70px;   
     }
 
     .m-control{
-        width: 40px;
-        height: 40px;
-        font-size: 20px;
+        width: 35px;
+        height: 35px;
+        font-size: 18px;
     }
     
     .music-player-control .play{
-        width: 60px;
-        height: 60px;
+        width: 55px;
+        height: 55px;
+        font-size: 25px;
     }
     
+    .volume-bar{
+        padding: 4em 2em 0 1em;
+    }
     
+}
+
+@media screen and (max-width:320px){
+
+    .jumbotron h1{
+        font-size: 200%;
+    }
+
+    .navbar-brand{
+        font-size: 1.5rem;
+    }
+    .section-header{
+        font-size: 150%;
+    }
+    .update-text h1{
+        font-size: 170%;
+    }
+
+
 }
