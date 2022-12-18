@@ -79,8 +79,17 @@ body{
 
 }
 
+.navbar-light .navbar-nav .nav-link {
+    color: #0d0d0d;
+}
+
+.navbar-light .navbar-nav .nav-link:hover{
+    color: #EF2D56;
+}
+
 .navbar-nav .active{
     font-weight: 700;
+    border-bottom: solid #EF2D56;
 }
 
 .navbar-toggler{
@@ -330,7 +339,7 @@ body{
 
 .pound-sterling-header{
     font-weight: 800;
-    letter-spacing: -3px;
+    letter-spacing: -2px;
 }
 
 .subscription-header span{

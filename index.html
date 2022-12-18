@@ -41,8 +41,8 @@
             
                 <div class="collapse navbar-collapse" id="navbarSupportedContent">
                 <ul class="navbar-nav mr-auto uppercase letter-space-2">
-                    <li class="nav-item active">
-                        <a class="nav-link" href="/">Home <span class="sr-only">(current page)</span></a>
+                    <li class="nav-item">
+                        <a class="nav-link active" href="/">Home <span class="sr-only">(current page)</span></a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="#">Artists</a>
@@ -62,7 +62,8 @@
                 <form class="form-inline my-2 my-lg-0 mr-2">
                     <input id="search-bar" class="form-control mr-sm-2" type="search" placeholder="Search Catalogue" aria-label="Search Catalogue">
                     <button class="btn-search" type="submit">
-                        <i class="fab search-icon-label"> </i>
+                        <span class="sr-only">Search Catalogue</span>
+                        <i class="fab search-icon-label"></i>
                     </button>
                 </form>
     
@@ -265,7 +266,7 @@
                         <div class="row">
                             <div class="col">
                                 <!-- Mailing List Form -->
-                                <form class="mailing-list">
+                                <form action="mailinglist.html" class="mailing-list">
                                     <div class="form-group">
                                         <input type="text" class="form-control" id="name" placeholder="Enter name" aria-label="Enter name" required>
                                     </div>
