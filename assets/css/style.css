@@ -584,6 +584,14 @@ body{
     font-weight: 800;
 }
 
+
+/* 404 Sections */
+
+.lost-container{
+    border: 1px solid red;
+    margin-top: 90px;
+}
+
 /* Media Queries */
 
 @media screen and (max-width:1139px){
