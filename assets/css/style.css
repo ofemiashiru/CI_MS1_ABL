@@ -140,8 +140,10 @@ body{
     padding: 0;
 }
 
-.jumbotron h1{
-   font-size: 350%; 
+.jumbotron .top-header{
+   font-size: 350%;
+   font-weight: 500;
+   margin-bottom: 0;
 }
 
 
@@ -327,16 +329,17 @@ body{
     text-transform: lowercase;
 }
 
-.sub-features{
-    line-height: 3;
-}
 
 .sub-features li {
-    color: #868383;
+    color: #595959;
+    line-height: 3;
+    
 }
 
 .hires-sub .badge{
     font-size: 1rem;
+    color: #0d0d0d;
+    background-color: #EF2D56;
 
 }
 
@@ -632,7 +635,7 @@ body{
         margin-bottom: 40px;
     }
 
-    .jumbotron h1{
+    .jumbotron .top-header{
         font-size: 220%;
     }
 
@@ -697,7 +700,7 @@ body{
 
 @media screen and (max-width:320px){
 
-    .jumbotron h1{
+    .jumbotron .top-header{
         font-size: 200%;
     }
 
