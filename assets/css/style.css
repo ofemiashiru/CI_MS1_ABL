@@ -214,8 +214,9 @@ body{
     -o-transform: translate(-50%, -50%);
 
     transition: all .3s ease-in-out;
+    -webkit-transition: all .3s ease-in-out;
     -moz-transition: all .3s ease-in-out;
-    -webkit-transition: all .3s ease-in-out
+    -o-transition:  all .3s ease-in-out;
 }
 
 .song-overlay:hover{
@@ -340,8 +341,9 @@ body{
     padding-right: 10px;
 
     transition: all .3s ease-in-out;
-    -moz-transition: all .3s ease-in-out;
     -webkit-transition: all .3s ease-in-out;
+    -moz-transition: all .3s ease-in-out;
+    -o-transition:  all .3s ease-in-out;
     
 }
 
@@ -380,8 +382,9 @@ body{
     color: #0d0d0d;
 
     transition: all .3s ease-in-out;
-    -moz-transition: all .3s ease-in-out;
     -webkit-transition: all .3s ease-in-out;
+    -moz-transition: all .3s ease-in-out;
+    -o-transition:  all .3s ease-in-out;
 
 }
 
@@ -423,8 +426,9 @@ body{
     height: 110px;
 
     transition: all .3s ease-in-out;
+    -webkit-transition: all .3s ease-in-out;
     -moz-transition: all .3s ease-in-out;
-    -webkit-transition: all .3s ease-in-out;  
+    -o-transition:  all .3s ease-in-out; 
 }
 
 .current-play-cover img {
