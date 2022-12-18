@@ -587,15 +587,14 @@ body{
     font-weight: 800;
 }
 
-
-/* 404 Section */
-.lost-container{
+/* Miscellaneous Pages - 404.html and messagesent.html */
+.misc-container{
     height: 100vh;
     padding-top: 120px;
     text-align: center;
 }
 
-.lost-container .lost-image {
+.misc-container .misc-image {
     width: 200px;
     height: 200px;
     background-color: #0d0d0d;
@@ -609,7 +608,7 @@ body{
     -o-transition: 0.4s;
 }
 
-.lost-container .lost-image i {
+.misc-container .misc-image i {
     font-size: 700%;
     color: #FAFAFA;
 
@@ -623,25 +622,25 @@ body{
 
 }
 
-.lost-message{
+.misc-message{
     margin-top: 10px;
     padding: 10px;
 }
 
-.lost-message h1{
+.misc-message h1{
     font-weight: 900;
     font-size: 400%;
     padding: 0;
     margin-bottom: 0;
 }
 
-.lost-message p{
+.misc-message p{
     font-size: 2rem;
     color: #595959;
     margin-top: 0;
 }
 
-.lost-message .btn{
+.misc-message .btn{
     font-size: 1.5rem;
 }
 
@@ -802,29 +801,29 @@ body{
         font-size: 170%;
     }
 
-    .lost-container{
+    .misc-container{
         padding-top: 80px;
     }
 
-    .lost-container .lost-image {
+    .misc-container .misc-image {
         width: 120px;
         height: 120px;
     }
 
-    .lost-container .lost-image i {
+    .misc-container .misc-image i {
         font-size: 300%;
     }
 
-    .lost-message h1{
+    .misc-message h1{
         font-size: 300%;
     }
     
 
-    .lost-message p{
+    .misc-message p{
         font-size: 1.3rem;
     }
 
-    .lost-message .btn{
+    .misc-message .btn{
         font-size: 1rem;
     }
 
