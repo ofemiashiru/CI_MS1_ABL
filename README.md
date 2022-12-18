@@ -53,24 +53,24 @@ Afrobeat music on the web. It will be the number one source for all things Afrob
 ## User Stories
 
 #### Client Goals
-* Allow users to access the site on a range of different devices and be responsive 
-* To allow users to search the sites catalogue of music in a simple and streamline fashion
-* To provide news, updates and events within the world of Afrobeats to the user
-* To help artists have their music streamed and paid appropriate royalties and pays per stream 
+1 Allow users to access the site on a range of different devices and be responsive 
+2 To allow users to search the sites catalogue of music in a simple and streamline fashion
+3 To provide news, updates and events within the world of Afrobeats to the user
+4 To help artists have their music streamed and paid appropriate royalties and pays per stream 
 
 #### First Time Visitor Goals
-* I want to be able to find my favourite Afrobeats artists and listen to their music
-* I want to be informed of new events and news happening amongst Afrobeats and the diaspora
-* I want to sign up for free or susbcribe to the a paid monthly service
-* I want to be kept up to date with AfrobeatsLib by signing up to the monthly mailing list
+1 I want to be able to find my favourite Afrobeats artists and listen to their music
+2 I want to be informed of new events and news happening amongst Afrobeats and the diaspora
+3 I want to sign up for free or susbcribe to the a paid monthly service
+4 I want to be kept up to date with AfrobeatsLib by signing up to the monthly mailing list
 
 #### Returning Visitor Goals
-* I want to see the number of artists and events grow on the site
-* I want to continue to stream and search for new music on the platform
-* I want to use the events page to add my desired events to my calendar
+1 I want to see the number of artists and events grow on the site
+2 I want to continue to stream and search for new music on the platform
+3 I want to use the events page to add my desired events to my calendar
 
 #### Frequent Visitor Goals
-* I want to be able to able to contact AfrobeatsLib with regards to any issues I am having with my service
+1 I want to be able to able to contact AfrobeatsLib with regards to any issues I am having with my service
 
 [Back to contents](#table-of-contents)
 
