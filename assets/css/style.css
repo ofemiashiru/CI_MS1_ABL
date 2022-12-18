@@ -585,10 +585,10 @@ body{
 }
 
 
-/* 404 Sections */
+/* 404 Section */
 .lost-container{
     height: 100vh;
-    padding-top: 150px;
+    padding-top: 120px;
     text-align: center;
 }
 
@@ -622,14 +622,24 @@ body{
 
 .lost-message{
     margin-top: 10px;
+    padding: 10px;
 }
 
 .lost-message h1{
-    font-weight: 800;
+    font-weight: 900;
+    font-size: 400%;
+    padding: 0;
+    margin-bottom: 0;
 }
 
 .lost-message p{
     font-size: 2rem;
+    color: #595959;
+    margin-top: 0;
+}
+
+.lost-message .btn{
+    font-size: 1.5rem;
 }
 
 
@@ -790,7 +800,7 @@ body{
     }
 
     .lost-container{
-        padding-top: 100px;
+        padding-top: 80px;
     }
 
     .lost-container .lost-image {
@@ -802,7 +812,18 @@ body{
         font-size: 300%;
     }
 
+    .lost-message h1{
+        font-size: 300%;
+    }
+    
 
+    .lost-message p{
+        font-size: 1.3rem;
+    }
+
+    .lost-message .btn{
+        font-size: 1rem;
+    }
 
 
 }
