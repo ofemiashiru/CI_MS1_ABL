@@ -105,29 +105,21 @@ body{
 /* Hero Section */
 .hero-container{
     height: 60vh;
-    background: url(/assets/images/pexels-yan-krukov-9008836.jpg) no-repeat center left fixed; 
+    background-image: url(/assets/images/pexels-yan-krukov-9008836.jpg); 
+    background-repeat: no-repeat;
+    background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
-    background-size: cover;
-
-    display: flex;
-    align-items: center;
-    justify-content: left;
-    position: relative;
+    background-position-y: center;
 
     margin-top: 50px;
     margin-bottom: 20px;
-}
-
-/* .left-side{
-    background-image: url("../images/MME21m.jpg");
-    background-size: 1500px;
-    background-repeat:no-repeat;
-    background-attachment: fixed;
-    background-position: -490px 0px;
+    display: flex;
+    align-items: center;
+    position: relative;
     transition: 0.4s;
-} */
+}
 
 .background-overlay{
     position: absolute;
