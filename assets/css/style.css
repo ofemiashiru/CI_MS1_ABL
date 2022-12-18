@@ -486,6 +486,10 @@ body{
     color: #FAFAFA;
 }
 
+.m-control:active{
+    background-color: #EF2D56;
+}
+
 .m-control i{
     display: flex;
     justify-content: center;
