@@ -4,9 +4,8 @@ body{
 
 /* Grouped containers */
 .featured-container,
-.update-container,
 .subscription-container{
-    margin-bottom: 100px;
+    margin-bottom: 120px;
 }
 
 /* Headers and General */
@@ -134,7 +133,7 @@ body{
     background-position-y: center;
 
     margin-top: 50px;
-    margin-bottom: 20px;
+    margin-bottom: 50px;
     display: flex;
     align-items: center;
     position: relative;
@@ -279,6 +278,10 @@ body{
 
 /* Update Section */
 
+.update-container{
+    margin-bottom: 60px;
+}
+
 .update-image {
     height: 400px;
     border-right: 1px solid rgba(0,0,0,.1);
@@ -367,7 +370,7 @@ body{
 /* Stay connected Section */
 
 .stay-connected-container{
-    margin-bottom: 150px;
+    margin-bottom: 170px;
 }
 
 .mailing-list .form-group{
