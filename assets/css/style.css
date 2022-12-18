@@ -128,7 +128,7 @@ body{
 /* Hero Section */
 .hero-container{
     height: 60vh;
-    background-image: url(/assets/images/pexels-yan-krukov-9008836.webp); 
+    background-image: url(https://ofemiashiru.github.io/afrobeatslib/assets/images/pexels-yan-krukov-9008836.webp); 
     background-repeat: no-repeat;
     background-size: cover;
     -webkit-background-size: cover;
@@ -290,7 +290,7 @@ body{
 }
 
 .update-image-background{
-    background-image: url(/assets/images/afro_nation_2019.webp); 
+    background-image: url(https://ofemiashiru.github.io/afrobeatslib/assets/images/afro_nation_2019.webp); 
     background-repeat: no-repeat;
     background-size: cover;
     
