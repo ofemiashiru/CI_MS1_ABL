@@ -326,7 +326,8 @@ body{
 }
 
 .hires-sub .badge{
-    border: 1px solid red;
+    font-size: 1rem;
+
 }
 
 /* Stay connected Section */
@@ -394,7 +395,7 @@ body{
     position: fixed;
     bottom: 0;
     left: 0;
-    height: 120px;
+    height: 130px;
     z-index: 0;
 
     background-color: rgba(0,0,0, 0.5);
@@ -410,7 +411,7 @@ body{
     position: fixed;
     bottom: 0;
     left: 0;
-    height: 120px;
+    height: 130px;
     border-top-left-radius: 20px;
     border-top-right-radius: 20px;
     z-index: 1;
@@ -418,8 +419,8 @@ body{
 
 .current-play-cover{
     position: absolute;
-    width: 100px;
-    height: 100px;
+    width: 110px;
+    height: 110px;
 
     transition: all .3s ease-in-out;
     -moz-transition: all .3s ease-in-out;
@@ -444,6 +445,7 @@ body{
     font-size: 30px;
     background-color: #FAFAFA;
     color: #0d0d0d;
+    margin: 5px;
 }
 
 .m-control:hover{
@@ -687,6 +689,5 @@ body{
     .update-text h1{
         font-size: 170%;
     }
-
 
 }
