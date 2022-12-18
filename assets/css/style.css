@@ -13,9 +13,16 @@ body{
 
 .section-header{
     font-weight: 700;
+    font-size: 200%;
     letter-spacing: 4px;
     margin-top: 10px;
     margin-bottom: 20px;
+}
+
+.section-sub-header{
+    font-size: 160%;
+    font-weight: 700;
+    letter-spacing: 4px;
 }
 
 .uppercase{
@@ -316,6 +323,7 @@ body{
 
 .subscription-header{
     font-weight: 800;
+    font-size: 160%;
     margin-bottom: 0;
     letter-spacing: 5px;
 }
