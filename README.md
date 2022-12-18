@@ -1,9 +1,9 @@
 # AfrobeatsLib
 ![AfrobeatsLibImage]()
 
-[Git Repository]()
+[Git Repository](https://github.com/ofemiashiru/afrobeatslib/)
 
-[Live Project]()
+[Live Project](https://ofemiashiru.github.io/afrobeatslib/)
 
 <a name="table-of-contents"></a>
 # Table of Contents 
