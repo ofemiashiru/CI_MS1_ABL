@@ -118,7 +118,7 @@ body{
     left: 0;
     height: 100%;
     width: 100%;
-    background-color: rgba(0,0,0, 0.5);
+    background-color: rgba(0,0,0, 0.7);
   }
 
 .hero-container .jumbotron{
@@ -311,7 +311,10 @@ body{
 
 .sub-features{
     line-height: 3;
+}
 
+.sub-features li {
+    color: #868383;
 }
 
 /* Stay connected Section */
