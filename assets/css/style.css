@@ -413,6 +413,7 @@ body{
 
 #social-links li{
     display: inline;
+    padding-right: 10%;
 }
 
 #social-links a {
@@ -422,7 +423,6 @@ body{
 
 #social-links i {
     font-size: 220%;
-    padding-right: 10%;
     color: #0d0d0d;
 
     transition: all .3s ease-in-out;
