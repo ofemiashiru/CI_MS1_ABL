@@ -28,7 +28,7 @@
     <header>
         <!--Navigation-->
         <div class="container-fluid nav-container">
-            <nav class="navbar navbar-expand-lg navbar-light bg-light fixed-top">
+            <nav class="navbar navbar-expand-xl navbar-light bg-light fixed-top">
             
                 <a class="navbar-brand" href="index.html">
                     <i class="fas fa-music"></i>
@@ -39,41 +39,42 @@
                 </button>
             
                 <div class="collapse navbar-collapse" id="navbarSupportedContent">
-                <ul class="navbar-nav mr-3 uppercase letter-space-2">
-                    <li class="nav-item">
-                        <a class="nav-link" href="index.html">Home </a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="#">Artists</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="#">Genre</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="#">News</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="#">Events</a>
-                    </li>
-    
-                </ul>
-                
-                <form class="form-inline my-2 my-lg-0">
-                    <input id="search-bar" class="form-control mr-sm-2" type="search" placeholder="Search Catalogue" aria-label="Search Catalogue">
-                    <button class="btn-search" type="submit">
-                        <span class="sr-only">Search Catalogue</span>
-                        <i class="fab search-icon-label"></i>
-                    </button>
-                </form>
-    
-                <ul class="navbar-nav letter-space-2 uppercase">
-                    <li class="nav-item mr-2">
-                        <button type="button" class="btn btn-sign-up" data-toggle="modal" data-target="#loginModal" name="button">Login</button>
-                    </li>
-                    <li class="nav-item mr-2">
-                        <button type="button" class="btn btn-sign-up" data-toggle="modal" data-target="#registerModal" name="button">Register</button>
-                    </li>
-                </ul>
+                    <ul class="navbar-nav mr-3 uppercase letter-space-2">
+                        <li class="nav-item">
+                            <a class="nav-link" href="index.html">Home </a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="#">Artists</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="#">Genre</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="#">News</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="#">Events</a>
+                        </li>
+        
+                    </ul>
+                    
+                    <form class="form-inline my-lg-0">
+                        <input id="search-bar" class="form-control mr-sm-2" type="search" placeholder="Search Catalogue" aria-label="Search Catalogue">
+                        <button class="btn-search" type="submit">
+                            <span class="sr-only">Search Catalogue</span>
+                            <i class="fab search-icon-label"></i>
+                        </button>
+                    </form>
+        
+                    <!-- Login and Register -->
+                    <ul class="navbar-nav letter-space-2 uppercase account-btn">
+                        <li class="nav-item mr-2">
+                            <button type="button" class="btn btn-sign-up" data-toggle="modal" data-target="#loginModal" name="login">Login</button>
+                        </li>
+                        <li class="nav-item mr-2">
+                            <button type="button" class="btn btn-sign-up" data-toggle="modal" data-target="#registerModal" name="register">Register</button>
+                        </li>
+                    </ul>
                 </div>
             </nav>
         </div>

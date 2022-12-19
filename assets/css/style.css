@@ -672,11 +672,19 @@ body{
 
 /* Media Queries */
 
+@media screen and (max-width:1200px){
+
+    .account-btn{
+        margin-top: 7px;
+    }
+
+}
+
 @media screen and (max-width:1139px){
 
-.update-text h1{
-    font-size: 400%;
-}
+    .update-text h1{
+        font-size: 400%;
+    }
 
 }
 
