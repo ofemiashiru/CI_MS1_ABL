@@ -473,6 +473,22 @@ body{
     -webkit-transition: all .3s ease-in-out;
     -moz-transition: all .3s ease-in-out;
     -o-transition:  all .3s ease-in-out; 
+
+    cursor: pointer;
+}
+
+.current-play-cover:hover::after{
+    color: #FAFAFA;
+    background-color: #EF2D56;
+    content: attr(data-track);
+    position: absolute;
+    bottom: -5px;
+    left:20px;
+    font-size: .7rem;
+    width: max-content;
+    padding-left: 5px;
+    padding-right: 5px;
+    border-radius: 5px;
 }
 
 .current-play-cover img {
@@ -790,7 +806,7 @@ body{
         height: 55px;
         font-size: 25px;
     }
-    
+
     .volume-bar{
         padding: 4em 2em 0 1em;
     }
@@ -839,5 +855,11 @@ body{
         font-size: 1rem;
     }
 
+    .current-play-cover:hover::after{
+        bottom: -25px;
+        left: -5px;
+        font-size: .6rem;
+        width: max-content;
+    }
 
 }
