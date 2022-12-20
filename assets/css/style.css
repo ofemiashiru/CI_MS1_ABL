@@ -605,11 +605,35 @@ body{
 
 /* Modals */
 
+.modal-header{
+    background-color: #0d0d0d;
+}
+
 .modal-title{
     text-transform: uppercase;
     letter-spacing: 2px;
     font-weight: 800;
+    color: #FAFAFA;
 }
+
+.modal-header .close {
+    color: #FFF;
+    opacity: initial;
+}
+
+.user-type label{
+    vertical-align: text-bottom;
+    
+}
+
+.user-type-radio{
+    font-size: .8rem;
+    width: 10%;
+    height: 10%;
+    height: calc(1.5em + 0.75rem + 2px);
+    margin-right: 10px;
+}
+
 
 /* Miscellaneous Pages - 404.html and messagesent.html */
 .misc-container{
