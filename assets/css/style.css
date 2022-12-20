@@ -700,21 +700,24 @@ body{
     text-align: center;
 }
 
-.alphabet-section a{
-    border: 1px solid #0d0d0d;
-    width: 25px;
-    height: 25px;
-    padding: 3px;
-    font-weight: 800;
-    background-color: #0d0d0d;
-    color: #FAFAFA;
-    text-decoration: none;
-}
-
 .alphabet-section .col-lg-6 {
     margin-bottom: 10px;
 }
 
+.alphabet-section .col-lg-6 div{ 
+    display: inline-block;
+    text-align: center;
+
+    
+    
+    margin: 5px;
+    font-weight: 800;
+
+}
+
+
+
+/* Possible style idead for future */
 /* .alphabet-section a::after{
     content: ' |';
 }
@@ -784,6 +787,10 @@ body{
 
 
 /* Media Queries */
+
+@media screen and (max-width:1264px){
+
+}
 
 @media screen and (max-width:1200px){
 
@@ -990,5 +997,6 @@ body{
     .plural{
         display: none;
     }
+
 
 }
