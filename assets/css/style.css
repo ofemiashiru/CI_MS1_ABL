@@ -692,6 +692,37 @@ body{
 }
 
 
+.alphabet-container{
+    margin-top: 20px;
+}
+
+.alphabet-section{
+    text-align: center;
+}
+
+.alphabet-section a{
+    border: 1px solid #0d0d0d;
+    width: 25px;
+    height: 25px;
+    padding: 3px;
+    font-weight: 800;
+    background-color: #0d0d0d;
+    color: #FAFAFA;
+    text-decoration: none;
+}
+
+.alphabet-section .col-lg-6 {
+    margin-bottom: 10px;
+}
+
+/* .alphabet-section a::after{
+    content: ' |';
+}
+
+.alphabet-section a:last-child::after{
+    content: ' ';
+} */
+
 
 /* Miscellaneous Pages - 404.html and messagesent.html */
 .misc-container{
