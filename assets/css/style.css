@@ -2,10 +2,14 @@ body{
     font-family: 'Roboto', sans-serif;
 }
 
-/* Grouped containers */
+/* Grouped containers and misc containers */
 .featured-container,
 .subscription-container{
     margin-bottom: 120px;
+}
+
+.featured-container-no-hero{
+    margin-top: 120px;
 }
 
 /* Headers and General */
@@ -899,7 +903,7 @@ body{
     
 }
 
-@media screen and (max-width:320px){
+@media screen and (max-width:420px){
 
     .jumbotron .top-header{
         font-size: 200%;
@@ -946,6 +950,14 @@ body{
         left: -5px;
         font-size: .6rem;
         width: max-content;
+    }
+
+    .featured-container-no-hero{
+        margin-top: 100px;
+    }
+
+    .plural{
+        display: none;
     }
 
 }
