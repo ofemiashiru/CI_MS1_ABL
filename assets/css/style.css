@@ -1,8 +1,10 @@
 body{
     font-family: 'Roboto', sans-serif;
+
 }
 
 /* Grouped containers and misc containers */
+
 .featured-container,
 .subscription-container{
     margin-bottom: 120px;
@@ -679,6 +681,7 @@ body{
 
 .alphabet-container{
     margin-top: 20px;
+    margin-bottom: 40px;
 }
 
 .alphabet-section{
@@ -687,7 +690,7 @@ body{
 
 .alphabet-section .col-12 div{ 
     display: inline-block;
-    margin: 5px;
+    margin: 4px;
 }
 
 .artist-square{
@@ -696,6 +699,26 @@ body{
     border-radius: 10px;
 }
 
+/* Each Artist Section */
+.all-artists-container{
+    padding-left: 30px;
+    padding-right: 30px;
+}
+.section-artist{
+    margin-bottom: 100px;
+}
+
+.section-artist figure figcaption{
+    text-align: left;
+    color: #595959;
+    font-size: 120%;
+    font-weight: 900;
+}
+
+.section-artist figure figcaption::before{
+    content:'__';
+    display: block;
+}
 
 .artist-square-overlay{
     width: 100%;
