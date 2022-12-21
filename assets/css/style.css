@@ -754,9 +754,12 @@ body{
 
 .top-link-container{
     position: fixed;
-    bottom: 90px;
-    left: 75%;
-    font-size: .2rem;
+    bottom: 140px;
+    text-align: right;
+}
+
+.top-link-container .btn{
+    border: 2px solid #EF2D56;
 }
 
 
@@ -973,6 +976,13 @@ body{
     
 }
 
+@media screen and (max-width:575px){
+    
+    .plural{
+        display: none;
+    }
+}
+
 @media screen and (max-width:420px){
 
     .jumbotron .top-header{
@@ -1026,8 +1036,9 @@ body{
         margin-top: 100px;
     }
 
-    .plural{
-        display: none;
+    .top-link-container{
+        bottom: 120px;
+    
     }
 
 
