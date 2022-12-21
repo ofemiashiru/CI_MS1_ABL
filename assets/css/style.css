@@ -750,6 +750,15 @@ body{
     border-radius: 10px;
 }
 
+/* Top link in Artist Page */
+
+.top-link-container{
+    position: fixed;
+    bottom: 90px;
+    left: 75%;
+    font-size: .2rem;
+}
+
 
 /* Miscellaneous Pages - 404.html, messagesent.html */
 .misc-container{
