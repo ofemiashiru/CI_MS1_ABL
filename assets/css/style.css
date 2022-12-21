@@ -716,7 +716,7 @@ body{
 }
 
 .section-artist figure figcaption::before{
-    content:'__';
+    content:'___';
     display: block;
 }
 
