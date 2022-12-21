@@ -682,20 +682,12 @@ body{
 }
 
 .alphabet-section{
-    text-align: center;
+    text-align:center;
 }
 
-.alphabet-section .col-lg-6 {
-    margin-bottom: 10px;
-}
-
-.alphabet-section .col-lg-6 div{ 
+.alphabet-section .col-12 div{ 
     display: inline-block;
-    text-align: center;
-
     margin: 5px;
-    font-weight: 800;
-
 }
 
 .artist-square{
@@ -736,18 +728,7 @@ body{
 }
 
 
-
-/* Possible style idead for future */
-/* .alphabet-section a::after{
-    content: ' |';
-}
-
-.alphabet-section a:last-child::after{
-    content: ' ';
-} */
-
-
-/* Miscellaneous Pages - 404.html and messagesent.html */
+/* Miscellaneous Pages - 404.html, messagesent.html */
 .misc-container{
     height: 100vh;
     padding-top: 120px;
@@ -803,7 +784,6 @@ body{
 .misc-message .btn{
     font-size: 1.5rem;
 }
-
 
 
 /* Media Queries */
