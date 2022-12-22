@@ -22,10 +22,11 @@
     <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Roboto:wght@400;500;700&display=swap" rel="stylesheet">
 
     <link rel="stylesheet" href="assets/css/style.css">
-    <title>AfrobeatsLib - The Best Of Afrobeats</title>
+    <title>Genre - AfrobeatsLib</title>
 </head>
 <body>
     <header>
+        <a name="top"></a>
         <!--Navigation-->
         <div class="container-fluid nav-container">
             <nav class="navbar navbar-expand-xl navbar-light bg-light fixed-top">
@@ -41,13 +42,13 @@
                 <div class="collapse navbar-collapse" id="navbarSupportedContent">
                     <ul class="navbar-nav mr-3 uppercase letter-space-2">
                         <li class="nav-item">
-                            <a class="nav-link active" href="index.html">Home <span class="sr-only">(current page)</span></a>
+                            <a class="nav-link" href="index.html">Home <span class="sr-only">(current page)</span></a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link" href="artists.html">Artists</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="genre.html">Genre</a>
+                            <a class="nav-link active" href="genre.html">Genre</a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link" href="#">News</a>
@@ -78,170 +79,148 @@
                 </div>
             </nav>
         </div>
-
-
-        <!--Hero Section-->
-        <div class="container-fluid hero-container">
-            <div class="background-overlay"></div>
-            <div class="row hero-jumbo-row">
-                <div class="col-12">
-                    <section class="jumbotron text-center">
-                        <p class="top-header">
-                            The largest catalogue of African Music
-                        </p>
-                        <p class="lead">
-                            Get unlimited access and stream over 1 million songs from across the African continent and diaspora, from Amapiano to Zilin.
-                        </p>
-                        <!-- Button trigger modal -->
-                        <button type="button" class="btn btn-lg btn-apple" name="button">
-                            <i class="fab fa-apple"></i>
-                            Download
-                        </button>
-                        <button type="button" class="btn btn-lg btn-android" name="button">
-                            <i class="fab fa-google-play"></i>
-                            Download
-                        </button>
-                    </section>
-                </div>
-            </div>
-        </div>
     </header>
 
-    <!-- Featured Section -->
-    <div class="container-fluid featured-container">
-        <section class="featured-songs-section">
+     <!-- Most Searched Genre -->
+     <div class="container-fluid featured-container-no-hero">
+        <section class="featured-artists-section">
             <div class="row">
                 <div class="col-12 text-center">
-                    <h1 class="section-header uppercase">Featured Songs</h1>
+                    <h1 class="section-header uppercase">Most Searched Genre<span class="plural">s</span></h1>
                 </div>
             </div>
             <hr>
-            <div class="row song-row">
-                <a href="#" class="col-lg-2 col-md-4 song-square">
-                    <div class="song-overlay"></div>
-                    <img class="song" src="assets/images/featured_songs/black-sherif-the-villain-i-never-was.webp" alt="Black Sherif album cover">
+            <div class="row artist-row">
+                <a href="#" class="col-lg-4 col-md-4 artist-circle">
+                    <div class="artist-overlay image-label" data-genre="Amapiano"></div>
+                    <img class="artist" src="assets/images/artists/majorleaguedjz.webp" alt="Amapiano">
                 </a>
-                <a href="#" class="col-lg-2 col-md-4 song-square">
-                    <div class="song-overlay"></div>
-                    <img class="song" src="assets/images/featured_songs/asake.webp" alt="Asake album cover">
+                <a href="#" class="col-lg-4 col-md-4 d-none d-sm-block artist-circle not-first-feature">
+                    <div class="artist-overlay image-label"  data-genre="Afrobeats"></div>
+                    <img class="artist" src="assets/images/artists/burna-boy.webp" alt="Afrobeats">
                 </a>
-                <a href="#" class="col-lg-2 col-md-4 d-none d-sm-block song-square">
-                    <div class="song-overlay"></div>
-                    <img class="song" src="assets/images/featured_songs/burna-boy-love-damini-large.webp" alt="Burna Bouy album cover">
+                <a href="#" class="col-lg-4 col-md-4 d-none d-sm-block artist-circle not-first-feature">
+                    <div class="artist-overlay image-label"  data-genre="Juju"></div>
+                    <img class="artist" src="assets/images/artists/king-sunny-ade.webp" alt="Juju">
                 </a>
-                <a href="#"class="col-lg-2 col-md-4 d-none d-sm-block song-square">
-                    <div class="song-overlay"></div>
-                    <img class="song" src="assets/images/featured_songs/naira-marley-gods-timing-the-best-copy.webp" alt="Naira Marley album cover">
-                </a>
-                <a href="#" class="col-lg-2 col-md-4 d-none d-sm-block song-square">
-                    <div class="song-overlay"></div>
-                    <img class="song" src="assets/images/featured_songs/blaqbonez-young-preacher.webp" alt="Blaqbonez album cover">
-                </a>
-                <a href="#" class="col-lg-2 col-md-4 d-none d-sm-block song-square">
-                    <div class="song-overlay"></div>
-                    <img class="song" src="assets/images/featured_songs/adekunle-gold-catch-me-if-you-can.webp" alt="Adekunle Gold album cover">
-                </a>
+                
+            </div>
+        </section>
+    </div>
+
+    <!-- Genre list -->
+    <div class="container-fluid alphabet-container">
+        <section class="alphabet-section">
+            <div class="row">
+                <div class="col-12">
+                    <div>
+                        <a class="btn" href="#afrobeat">Afrobeat</a>
+                    </div>
+                    <div>
+                        <a class="btn" href="#afrobeats">Afrobeats</a>
+                    </div>
+                    <div>
+                        <a class="btn" href="#afrofusion">Afrofusion</a>
+                    </div>
+                    <div>
+                        <a class="btn" href="#afropop">Afropop</a>
+                    </div>
+                    <div>
+                        <a class="btn" href="#amapiano">Amapiano</a>
+                    </div>
+                    <div>
+                        <a class="btn" href="#banku">Banku</a>
+                    </div>
+                    <div>
+                        <a class="btn" href="#fuji">Fuji</a>
+                    </div>
+                    <div>
+                        <a class="btn" href="#gospel">Gospel</a>
+                    </div>
+                    <div>
+                        <a class="btn" href="#highlife">Highlife</a>
+                    </div>
+                    <div>
+                        <a class="btn" href="#hiphop">Hip Hop</a>
+                    </div>
+                    <div>
+                        <a class="btn" href="#isicathamiya">Isicathamiya</a>
+                    </div>
+                    <div>
+                        <a class="btn" href="#jazz">Jazz</a>
+                    </div>
+                    <div>
+                        <a class="btn" href="#juju">Juju</a>
+                    </div>
+                    <div>
+                        <a class="btn" href="#neosoul">Neo Soul</a>
+                    </div>                    
+                    <div>
+                        <a class="btn" href="#rnb">RnB</a>
+                    </div>
+                    <div>
+                        <a class="btn" href="#soul">Soul</a>
+                    </div>
+                    <div>
+                        <a class="btn" href="#world">World</a>
+                    </div>
+                    <div>
+                        <a class="btn" href="#zouglou">Zouglou</a>
+                    </div>
+
+                    
+                </div>
             </div>
         </section>
     </div>
 
 
-    <!-- Update Section -->
-    <div class="container-fluid update-container">
-        <section class="update-section">
-            <div class="row">
-                <div class="col-lg-6 update-image">
-                    <div class="update-image-background" role="img" aria-label="Afro Nation 2019 Portugal" >
+    <!-- All Artists -->
 
+    <div class="container-fluid all-artists-container">
+        <section class="artist-section">
+            <div class="row">
+                <div class="col-12 text-center">
+                    <h1 class="section-header uppercase">Artist by Genre</h1>
+                </div>
+            </div>
+            <hr>
+            <!-- Afrobeat -->
+            <section class="section-artist" aria-label="numbers">
+                <a name="numbers"></a>
+                <div class="row">
+                    <div class="col-12">
+                        <h2 class="section-header uppercase">Afrobeat</h2>
                     </div>
                 </div>
-                <div class="col-lg-6 update-text">
-                    <h1>
-                        Keep up with everything Afrobeats. News, events and fresh new releases!
-                    </h1>
+                <hr>
+                <div class="row">
+                    <div class="col-lg-3 col-md-6">
+                        <!-- Each Artist -->
+                        <figure>
+                            <div class="artist-square">
+                                <a href="#">
+                                    <div class="artist-square-overlay"></div>
+                                    <img class="artist" src="assets/images/artists/fela-kuti.webp" alt="Fela Kuti">
+                                </a>
+                            </div>
+                            <figcaption>2Baba (formerly 2Face)</figcaption>
+                        </figure>
+                    </div>
+                    <div class="col-lg-3 col-md-6">
+                        <!-- Each Artist -->
+                        <figure>
+                            <div class="artist-square">
+                                <a href="#">
+                                    <div class="artist-square-overlay"></div>
+                                    <img class="artist" src="assets/images/artists/9ice.webp" alt="9ice">
+                                </a>
+                            </div>
+                            <figcaption>9ice</figcaption>
+                        </figure>
+                    </div>
                 </div>
-                <div class="col-lg-6 update-image-bottom">
-                    <img src="assets/images/afro_nation_2019.webp" alt="Afro Nation 2019 Portugal">
-                </div>
-            </div>
-        </section>
-    </div>
-
-
-    <!-- Subscription Section -->
-    <div class="container-fluid subscription-container">
-        <section class="subscription-section">
-            <div class="row">
-                <div class="col-12 text-center">
-                    <h1 class="section-header uppercase">Subscriptions</h1>
-                </div>
-            </div>
-            <hr>
-            <div class="row">
-                <div class="col-lg-4">
-                    <!-- FREE -->
-                    <div class="card free-sub not-popular">
-
-                        <div class="card-header">
-                          <h2 class="subscription-header uppercase">Free</h2>
-                        </div>
-              
-                        <div class="card-body">
-                          <h3 class="pound-sterling-header">£0<span class="pricing-month">/mo</span></h3>
-                          <ul class="list-unstyled mt-3 mb-4 sub-features">
-                            <li>1 user included</li>
-                            <li>Ads included</li>
-                            <li>1 hour of Ad-free music a day</li>
-                            <li>Standard Definition</li>
-                          </ul>
-                          <hr>
-                          <button type="button" class="btn" data-toggle="modal" data-target="#registerModal" name="free_subscription">Subscribe</button>
-                        </div>
-                      </div>
-                </div>
-                <div class="col-lg-4">
-                    <!-- STANDARD -->
-                    <div class="card standard-sub">
-
-                        <div class="card-header">
-                          <h2 class="subscription-header uppercase">Standard</h2><span class="uppercase badge badge-success">popular</span>
-                        </div>
-              
-                        <div class="card-body">
-                          <h3 class="pound-sterling-header">£6.99<span class="pricing-month">/mo</span></h3>
-                          <ul class="list-unstyled mt-3 mb-4 sub-features">
-                            <li>5 users included</li>
-                            <li>Ad-free</li>
-                            <li>Offline listening</li>
-                            <li>Standard Definition</li>
-                          </ul>
-                          <hr>
-                          <button type="button" class="btn" data-toggle="modal" data-target="#registerModal" name="standard_subscription">Subscribe</button>
-                        </div>
-                      </div>
-                </div>
-                <div class="col-lg-4">
-                    <!-- HiRES -->
-                    <div class="card hires-sub not-popular">
-
-                        <div class="card-header">
-                          <h2 class="subscription-header uppercase">H<span>i</span>Res</h2>
-                        </div>
-              
-                        <div class="card-body">
-                          <h3 class="pound-sterling-header">£14.99<span class="pricing-month">/mo</span></h3>
-                          <ul class="list-unstyled mt-3 mb-4 sub-features">
-                            <li>Standard features <span class="badge badge-success uppercase">plus</span></li>
-                            <li>Download music</li>
-                            <li>One event yearly</li>
-                            <li>Hi Resolution</li>
-                          </ul>
-                          <hr>
-                          <button type="button" class="btn" data-toggle="modal" data-target="#registerModal" name="hi_res_subscription">Subscribe</button>
-                        </div>
-                      </div>
-                </div>
-            </div>
+            </section>
     
         </section>
     </div>
@@ -325,10 +304,20 @@
 
     <!-- Blurred background behind music player -->
     <div class="container-fluid blurred-back"></div>
+
+    <!-- Back to top link -->
+    <div class="container-fluid top-link-container">
+        <section>
+            <div class="row">
+                <div class="col-12">
+                    <a class="btn" href="#top">&#8593;</a>
+                </div>
+            </div>
+        </section>
+    </div>
     
     <!-- Music Player -->
     <div class="container-fluid music-player-container">
-        
         <section class="music-player-section">
             <div class="row text-center">
                 <div class="col-12 music-player-control">
