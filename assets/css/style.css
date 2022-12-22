@@ -755,7 +755,7 @@ body{
 .top-link-container{
     position: fixed;
     bottom: 140px;
-    text-align: right;
+    text-align: center;
 }
 
 .top-link-container .btn{
