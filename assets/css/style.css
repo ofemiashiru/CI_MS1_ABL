@@ -710,7 +710,8 @@ body{
 }
 
 .section-artist h2{
-    font-size: 300%;
+    font-size: 400%;
+    margin-bottom: 0;
 }
 
 .section-artist figure figcaption{
@@ -718,6 +719,7 @@ body{
     color: #595959;
     font-size: 120%;
     font-weight: 900;
+    margin-bottom: 50px;
 }
 
 .section-artist figure figcaption::before{
