@@ -709,6 +709,10 @@ body{
     margin-bottom: 100px;
 }
 
+.section-artist h2{
+    font-size: 300%;
+}
+
 .section-artist figure figcaption{
     text-align: left;
     color: #595959;
