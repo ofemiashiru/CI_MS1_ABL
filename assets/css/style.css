@@ -763,7 +763,7 @@ body{
 .top-link-container{
     position: fixed;
     bottom: 140px;
-    text-align: center;
+    right:10px;
 }
 
 .top-link-container .btn{
