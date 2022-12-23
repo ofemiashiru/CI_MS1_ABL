@@ -789,6 +789,13 @@ body{
     color: #FAFAFA;
 }
 
+/* Events page */
+
+.hi-res-event:hover{
+    background-color:#0d0d0d;
+    border: 1px solid #0d0d0d;
+    color: rgba(250, 250, 250, 0.5);
+}
 
 
 /* Miscellaneous Pages - 404.html, messagesent.html */
