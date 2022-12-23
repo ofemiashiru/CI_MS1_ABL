@@ -821,8 +821,6 @@ body{
     -moz-transition: all .3s ease-in-out;
     -o-transition:  all .3s ease-in-out;
 
-    cursor: pointer;
-
 }
 
 .each-event .event-overlay:hover{
