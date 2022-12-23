@@ -734,12 +734,8 @@ body{
     background-color: rgba(255, 255, 255, 0);
     border-radius: 10px;
     position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    -webkit-transform: translate(-50%,-50%);
-    -moz-transform: translate(-50%,-50%);
-    -o-transform: translate(-50%, -50%);
+    top: 0;
+    left: 0;
 
     transition: all .3s ease-in-out;
     -webkit-transition: all .3s ease-in-out;
@@ -791,11 +787,74 @@ body{
 
 /* Events page */
 
-.hi-res-event:hover{
-    background-color:#0d0d0d;
-    border: 1px solid #0d0d0d;
-    color: rgba(250, 250, 250, 0.5);
+.events-container{
+    margin-top: 90px;
+    margin-bottom: 50px;
 }
+
+#events{
+    clear: both;
+    line-height: 0;
+    column-count:6;
+    column-gap:0px;
+}
+
+#events .each-event img{
+    width:100%;
+}
+
+.each-event{
+    position: relative;
+}
+
+.each-event .event-overlay{
+    width: 100%;
+    height: 100%;
+    background-color: rgba(255, 255, 255, 0);
+    
+    position: absolute;
+    top: 0;
+    left: 0;
+
+    transition: all .3s ease-in-out;
+    -webkit-transition: all .3s ease-in-out;
+    -moz-transition: all .3s ease-in-out;
+    -o-transition:  all .3s ease-in-out;
+
+    cursor: pointer;
+
+}
+
+.each-event .event-overlay:hover{
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0,0,0, 0.5);
+}
+
+.each-event .event-overlay:hover::before{
+    content: attr(data-event);
+    line-height: 20px;
+    position: absolute;
+    top:5px;
+    left: 5px;
+    font-weight: 900;
+    font-size: 100%;
+    color: #FAFAFA;
+    padding: 5px;
+    background-color: rgba(0,0,0, 0.5);
+}
+
+.each-event .event-overlay:hover::after{
+    content: '\f0c1';
+    position: absolute;
+    bottom:20px;
+    right: 10px;
+    font-weight: 900;
+    font-size: 1rem;
+    font-family: "Font Awesome 5 Free";
+    color: #FAFAFA;
+}
+
 
 
 /* Miscellaneous Pages - 404.html, messagesent.html */
@@ -868,10 +927,9 @@ body{
         margin-top: 7px;
     }
 
-    .genre-search-section {
-    
-        column-count: 3;
 
+    #events{ 
+        column-count:3;
     }
 
 }
@@ -942,6 +1000,10 @@ body{
 
     #social-links{
         padding-left: 40px;
+    }
+
+    #events{ 
+        column-count:2;
     }
 
 }
@@ -1090,9 +1152,12 @@ body{
     .genre-sub-header{
         font-size: 200% !important;
     }
-    .genre-search-section {
-    
-        column-count: 1;
 
+    .events-container{
+        margin-top: 20%;
+    }
+
+    #events{ 
+        column-count:1;
     }
 }
