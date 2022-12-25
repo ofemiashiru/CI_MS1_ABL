@@ -801,7 +801,7 @@ body{
 
 #events .each-event img{
     width:100%;
-    border:2px solid #FAFAFA;
+    border:5px solid #FAFAFA;
 }
 
 .each-event{
