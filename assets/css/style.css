@@ -749,6 +749,24 @@ body{
     background-color: rgba(0,0,0, 0.5);
 }
 
+.artist-square-overlay:hover::after{
+    font-family: "Font Awesome 5 Free";
+    content: '\f0c1';
+    font-weight: 600;
+    font-size: 200%;
+    color: #FAFAFA;
+    
+    position: absolute;
+    top: 50%;
+    left: 50%;
+
+    transform: translate(-50%, -50%);
+    -webkit-transform: translate(-50%,-50%);
+    -moz-transform: translate(-50%,-50%);
+    -o-transform: translate(-50%, -50%);
+
+}
+
 .artist-square .artist{
     width: 100%;
     border-radius: 10px;
