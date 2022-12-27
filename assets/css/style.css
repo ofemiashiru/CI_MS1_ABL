@@ -878,6 +878,10 @@ body{
     margin-bottom: 30px;
 }
 
+.article-box-header{
+    font-size: 160%;
+}
+
 .news-square{
     position: relative;
     padding-left: 0;
@@ -993,7 +997,7 @@ body{
 
 @media screen and (max-width:1264px){
     .article-box-header{
-        font-size: 150%;
+        font-size: 130%;
     }
 }
 
