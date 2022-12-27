@@ -805,11 +805,6 @@ body{
 
 /* Events page */
 
-.events-container{
-    margin-top: 90px;
-    margin-bottom: 50px;
-}
-
 #events{
     clear: both;
     line-height: 0;
