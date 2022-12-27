@@ -869,52 +869,67 @@ body{
 
 /* News Page */
 
-.article-box{
-    margin-bottom: 50px;
+.news-row {
+    margin-left: 0;
+    margin-right: 0;
 }
 
-.article-box h2{
-    font-size: 180%;
+.news-row div {
+    margin-bottom: 30px;
+}
+
+.news-square{
+    position: relative;
+    padding-left: 0;
+    padding-right: 0;
+    border: 5px solid white;
+
 }
 
 .news-overlay{
-
     width: 100%;
-    height: 300px;
-    background-color: rgba(0,0,0, 0.2);
+    height: 100%;
+    background-color: rgba(255, 255, 255, 0);
+    
     position: absolute;
-  
+    top: 0;
+    left: 0;
+
     transition: all .3s ease-in-out;
     -webkit-transition: all .3s ease-in-out;
     -moz-transition: all .3s ease-in-out;
     -o-transition:  all .3s ease-in-out;
-
 }
 
 .news-overlay:hover{
     width: 100%;
-    height: 300px;
-    background-color: rgba(0,0,0, 0.5);   
+    height: 100%;
+    background-color: rgba(0,0,0, 0.2);
+    
 }
 
-.news-overlay:hover::after{
-    content: 'Read More';
-    position: absolute;
+.news-square .news-image{
+    width: 100%;
+    height: 300px;
+    object-fit: cover;
+}
 
+.news-square:hover::before {
+    content: "Read More";
+    font-size: 120%;
+    font-weight: 900;
+    text-transform: uppercase;
+    color:#FAFAFA;
+    
+    position: absolute;
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
     -webkit-transform: translate(-50%,-50%);
     -moz-transform: translate(-50%,-50%);
     -o-transform: translate(-50%, -50%);
-}
+ }
 
-.news-image{
-    width: 100%;
-    height: 300px;
-    object-fit: cover;
-    border: 1px solid rgba(0,0,0, 0.2);
-}
 
 /* Miscellaneous Pages - 404.html, messagesent.html */
 .misc-container{
@@ -977,7 +992,9 @@ body{
 /* Media Queries */
 
 @media screen and (max-width:1264px){
-
+    .article-box-header{
+        font-size: 150%;
+    }
 }
 
 @media screen and (max-width:1200px){
@@ -1065,7 +1082,7 @@ body{
         column-count:2;
     }
 
-    .article-box h2{
+    .article-box-header{
         font-size: 150%;
     }
 
@@ -1148,7 +1165,7 @@ body{
         display: none !important; 
     }
 
-    .article-box h2{
+    .article-box-header{
         font-size: 130%;
     }
 
@@ -1228,7 +1245,7 @@ body{
         column-count:1;
     }
 
-    .article-box h2{
+    .article-box-header{
         font-size: 100%;
     }
 }
