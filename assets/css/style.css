@@ -916,8 +916,7 @@ input:hover, #article-comment:hover, #senderMessage:hover, .select-subject:hover
     width: 100%;
     height: 100%;
     background-color: rgba(255, 255, 255, 0);
-    border-radius: 3px;
-    
+        
     position: absolute;
     top: 0;
     left: 0;
@@ -939,7 +938,6 @@ input:hover, #article-comment:hover, #senderMessage:hover, .select-subject:hover
     width: 100%;
     height: 300px;
     object-fit: cover;
-    border-radius: 3px;
 }
 
 .news-square:hover::before {
