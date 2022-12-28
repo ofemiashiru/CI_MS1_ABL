@@ -2,6 +2,11 @@ body{
     font-family: 'Roboto', sans-serif;
 }
 
+body input:hover, #article-comment:hover{
+    border-style:solid;
+    border-color:  #EF2D56;
+}
+
 /* Grouped containers and misc containers */
 
 .featured-container,
