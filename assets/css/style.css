@@ -194,9 +194,9 @@ body input:hover, #article-comment:hover{
 }
 
 .btn-apple:hover{
-    background-color:#0d0d0d;
-    border: 1px solid #0d0d0d;
-    color: rgba(250, 250, 250, 0.5);
+    background-color: #FAFAFA;
+    border: 1px solid #FAFAFA;
+    color: #0d0d0d;
 }
 
 .btn-apple:active{
