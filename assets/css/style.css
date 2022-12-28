@@ -1273,11 +1273,6 @@ body input:hover, #article-comment:hover{
 
 }
 
-@media screen and (max-width:575px){
-    
-
-}
-
 @media screen and (max-width:420px){
 
     .jumbotron .top-header{
