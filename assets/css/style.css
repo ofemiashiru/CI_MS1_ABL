@@ -50,6 +50,7 @@ body input:hover, #article-comment:hover{
     letter-spacing: 2px;
     font-weight: 800;
     text-transform: uppercase;
+    border-radius: 0;
 
     background-color: #0d0d0d;
     color: #FAFAFA;
