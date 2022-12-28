@@ -875,7 +875,7 @@ body{
 }
 
 .news-row div {
-    margin-bottom: 30px;
+    margin-bottom: 20px;
 }
 
 .article-box-header{
@@ -924,6 +924,7 @@ body{
     font-weight: 900;
     text-transform: uppercase;
     color:#FAFAFA;
+    background-color: #0d0d0d;
     
     position: absolute;
     top: 50%;
@@ -1169,6 +1170,7 @@ body{
         display: none !important; 
     }
 
+    /* News */
     .each-article{
         display: table;
     }
@@ -1179,7 +1181,11 @@ body{
     }
 
     .news-square{
-        /* display: table-footer-group; */
+        margin-top: 10px;
+    }
+
+    .news-square .news-image{
+        height: 150px;
     }
     
 
@@ -1263,4 +1269,6 @@ body{
         font-size: 100%;
         
     }
+
+  
 }
