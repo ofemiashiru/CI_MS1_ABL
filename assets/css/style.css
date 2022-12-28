@@ -85,7 +85,7 @@ body input:hover, #article-comment:hover{
 }
 
 .navbar-brand{
-    font-size: 2.5rem;
+    font-size: 2rem;
     font-family: 'Bebas Neue', sans-serif;
     padding: 5px 10px 5px 10px;
     border: 1px solid rgba(0,0,0, 0.2);
@@ -95,6 +95,10 @@ body input:hover, #article-comment:hover{
     -moz-transition: all .3s ease-in-out;
     -o-transition:  all .3s ease-in-out;
 
+}
+
+.navbar-nav{
+    font-size: .9rem;
 }
 
 .navbar-light .navbar-nav .nav-link {
