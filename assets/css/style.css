@@ -958,6 +958,20 @@ body{
     margin: 30px auto;
 }
 
+/* Comment section */
+
+
+#article-comment{
+    width: 50%;
+}
+
+.comment-section input{
+    margin: 0 auto;
+    display: block;
+    width: 50%;
+    margin-bottom: 10px;
+}
+
 /* Miscellaneous Pages - 404.html, messagesent.html */
 .misc-container{
     height: 100vh;
@@ -1062,6 +1076,8 @@ body{
     .search-icon-label{
         display: none;
     }
+
+
 
 }
 
@@ -1328,6 +1344,16 @@ body{
     .article-full .article-body{
         width: 100%;
     
+    }
+
+    #article-comment{
+        width: 100%;
+    }
+
+
+    .comment-section input{
+        width: 100%;
+        margin-bottom: 10px;
     }
 
   

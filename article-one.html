@@ -53,7 +53,7 @@
                             <a class="nav-link" href="events.html">Events</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link active" href="news.html">News <span class="sr-only">(current page)</span></a>
+                            <a class="nav-link active" href="news.html">News</a>
                         </li>
         
                     </ul>
@@ -85,12 +85,13 @@
             <div class="row">
                 <div class="col-12 text-center">
                     <h1 class="section-header uppercase">
-                        New Music: Kelly Bran feat. Young Eno - Single
+                        New Music: Kelly Bran feat. Young Eno - Single <span class="sr-only">(current page)</span>
                     </h1>
                     <small class="published-by">Published on December 20, 2022 by bellanaija.com</small>
                 </div>
             </div>
             <hr>
+            <!-- Main Article -->
             <div class="row text-center">
                 <div class="article-full">
                     <img src="assets/images/news/article-one-image.webp" alt="New Music: Kelly Bran feat. Young Eno - Single" >
@@ -105,6 +106,26 @@
                             His latest offering produced by X, is a midtempo smooth jam that will undoubtedly get you in the groove.
                         </p>
                         <hr>
+                    </div>
+                    <!-- Comment Section -->
+                    <div class="comment-section">
+                        <h2 class="section-header uppercase">Leave a comment</h2>
+                        <form action="messagesent.html">
+
+                            <div class="form-group">
+                                <label for="article-comment"></label>
+                                <textarea name="article-comment" id="article-comment" placeholder="Enter comment"  aria-label="Enter comment" rows="5" required></textarea>
+                            </div>
+                            
+                            <div class="form-group">
+                                <input type="text" name="comment-name" id="comment-name" placeholder="Enter name" aria-label="Enter name" required>
+                                <input type="email" name="comment-email" id="comment-email" placeholder="Enter email" aria-label="Enter email" required>
+                            </div>
+                            <div class="form-group">
+                                <button class="btn" type="submit">Post comment</button>
+                            </div>
+                            
+                        </form>
                     </div>
                     
                 </div>
