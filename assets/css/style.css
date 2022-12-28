@@ -1169,9 +1169,19 @@ body{
         display: none !important; 
     }
 
+    .each-article{
+        display: table;
+    }
+
     .article-box-header{
         font-size: 130%;
+        display: table-header-group;
     }
+
+    .news-square{
+        /* display: table-footer-group; */
+    }
+    
 
 }
 
@@ -1251,5 +1261,6 @@ body{
 
     .article-box-header{
         font-size: 100%;
+        
     }
 }
