@@ -1305,15 +1305,15 @@
                                 <!-- Mailing List Form -->
                                 <form action="messagesent.html" class="mailing-list">
                                     <div class="form-group">
-                                        <input type="text" class="form-control" id="name" placeholder="Enter name" aria-label="Enter name" required>
+                                        <input type="text" class="form-control" name="name" id="name" placeholder="Enter name" aria-label="Enter name" required>
                                     </div>
                                     <div class="form-group">
-                                      <input type="email" class="form-control" id="email" placeholder="Enter email" aria-label="Enter emai"  required>
+                                      <input type="email" class="form-control" name="email" id="email" placeholder="Enter email" aria-label="Enter emai"  required>
                                     </div>
                                     <div class="form-group">
                                         <button type="submit" class="btn uppercase letter-space-2">Submit</button>
                                     </div>
-                                  </form>
+                                </form>
                             </div>
                         </div>
                     </div>
@@ -1429,11 +1429,11 @@
                     <form>
                         <div class="form-group">
                             <label for="loginEmail">Email address</label>
-                            <input type="email" class="form-control" id="loginEmail" required>
+                            <input type="email" name="loginEmail" class="form-control" id="loginEmail" required>
                         </div>
                         <div class="form-group">
                             <label for="loginPassword">Password</label>
-                            <input type="password" class="form-control" id="loginPassword" required>
+                            <input type="password" name="loginPassword" class="form-control" id="loginPassword" required>
                         </div>
 
                         <button type="submit" class="btn">Login</button>
@@ -1457,23 +1457,23 @@
                     <form>
                         <div class="form-group user-type">
                             <label for="artist">Artist</label>
-                            <input class="user-type-radio" type="radio" name="user_type" id="artist" required>
+                            <input class="user-type-radio" type="radio" name="userType" id="artist" required>
                             <label for="fan">Fan</label>
-                            <input class="user-type-radio" type="radio" name="user_type" id="fan">
+                            <input class="user-type-radio" type="radio" name="userType" id="fan">
                         </div>
 
                         <div class="form-group">
                             <label for="registerEmail">Email address</label>
-                            <input type="email" class="form-control" id="registerEmail" aria-describedby="emailHelp" required>
+                            <input type="email" class="form-control" name="registerEmail" id="registerEmail" aria-describedby="emailHelp" required>
                             <small id="emailHelp" class="form-text text-muted">We'll never share your email with anyone else.</small>
                         </div>
                         <div class="form-group">
                             <label for="registerPassword">Password</label>
-                            <input type="password" class="form-control" id="registerPassword" required>
+                            <input type="password" class="form-control" name="registerPassword" id="registerPassword" required>
                         </div>
                         <div class="form-group">
                             <label for="repeatRegisterPassword">Repeat Password</label>
-                            <input type="password" class="form-control" id="repeatRegisterPassword" required>
+                            <input type="password" class="form-control" name="repeatRegisterPassword" id="repeatRegisterPassword" required>
                         </div>
 
                         <button type="submit" class="btn">Register</button>
