@@ -65,9 +65,9 @@ body input:hover, #article-comment:hover{
 }
 
 .btn:hover{
-    background-color: rgba(0,0,0, 0.5);
-    border: 1px solid rgba(0,0,0, 0);
+    background-color: #FAFAFA;
     color: #0d0d0d;
+    
 }
 
 .btn:active{
@@ -195,9 +195,7 @@ body input:hover, #article-comment:hover{
 }
 
 .btn-apple:hover{
-    background-color: #FAFAFA;
     border: 1px solid #FAFAFA;
-    color: #0d0d0d;
 }
 
 .btn-apple:active{
