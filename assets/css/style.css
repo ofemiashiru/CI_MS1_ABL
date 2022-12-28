@@ -2,7 +2,7 @@ body{
     font-family: 'Roboto', sans-serif;
 }
 
-body input:hover, #article-comment:hover{
+body input:hover, #article-comment:hover, #senderMessage:hover{
     border-style:solid;
     border-color:  #EF2D56;
 }
@@ -990,6 +990,26 @@ body input:hover, #article-comment:hover{
     margin-bottom: 10px;
 }
 
+/* Contact Page */
+
+.contact-form{
+    width: 50%;
+    float: right;
+}
+
+.empty-div{
+    clear: both;
+    margin-bottom: 100px;
+}
+
+#senderMessage{
+    height: 150px;
+}
+
+.contact-btn{
+    text-align: right;
+}
+
 /* Miscellaneous Pages - 404.html, messagesent.html */
 .misc-container{
     height: 100vh;
@@ -1273,6 +1293,14 @@ body input:hover, #article-comment:hover{
         width: 90%;
     }
     
+    /* Contact */
+    .contact-form{
+        width: 100%;
+    }
+
+    .contact-btn{
+        text-align: center;
+    }
 
 }
 
