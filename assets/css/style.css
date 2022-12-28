@@ -103,6 +103,7 @@ body input:hover, #article-comment:hover{
 
 .navbar-light .navbar-nav .nav-link:hover{
     color: #EF2D56;
+    border-bottom: solid #EF2D56;
 }
 
 .navbar-nav .active{
