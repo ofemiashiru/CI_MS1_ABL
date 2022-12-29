@@ -91,40 +91,47 @@
             </div>
         </div>
         <hr>
-        <div class="contact-area">
-            <form class="contact-form" action="messagesent.html">
-
-                <div class="form-group">
-                    <input class="form-control" name="senderName" id="senderName" type="text" placeholder="Enter Name" aria-label="Enter Name" required>
+        <div class="row">
+            <div class="col-lg-6">
+                <div class="contact-area">
+                    <form class="contact-form" action="messagesent.html">
+        
+                        <div class="form-group">
+                            <input class="form-control" name="senderName" id="senderName" type="text" placeholder="Enter Name" aria-label="Enter Name" required>
+                        </div>
+                        
+                        <div class="form-group">
+                            <input class="form-control" name="senderEmail" id="senderEmail" type="email" placeholder="Enter Email" aria-label="Enter email" required>
+                        </div>
+        
+                        <div class="form-group">
+                            <label for="senderSubject">Choose a subject:</label>
+                            <select class="form-control select-subject" id="sender" name="senderSubject" required>
+                                <option value="general">General</option>
+                                <option value="technical">Technical</option>
+                                <option value="fan_account">Fan Account</option>
+                                <option value="artist_account">Artist Account</option>
+                                <option value="sales">Sales</option> 
+                            </select>
+                        </div>
+                        <div class="form-group">
+                            <textarea class="form-control" name="senderMessage" id="senderMessage" placeholder="Enter Message" aria-label="Enter Message"></textarea>
+                        </div>
+                        <div class="form-group contact-btn-container">
+                            <button class="btn" type="submit">Send Message</button>
+                        </div>
+                    </form>
                 </div>
-                
-                <div class="form-group">
-                    <input class="form-control" name="senderEmail" id="senderEmail" type="email" placeholder="Enter Email" aria-label="Enter email" required>
+            </div>
+            <div class="col-lg-6">
+                <div class="map-location">
+                    <p class="uppercase map-heading">Our Office</p>
+                    <iframe src="https://rb.gy/6dpbgn" title="Location of AfrobeatsLib Offices" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
                 </div>
-
-                <div class="form-group">
-                    <label for="senderSubject">Choose a subject:</label>
-                    <select class="form-control select-subject" id="sender" name="senderSubject" required>
-                        <option value="general">General</option>
-                        <option value="technical">Technical</option>
-                        <option value="fan_account">Fan Account</option>
-                        <option value="artist_account">Artist Account</option>
-                        <option value="sales">Sales</option> 
-                    </select>
-                </div>
-                <div class="form-group">
-                    <textarea class="form-control" name="senderMessage" id="senderMessage" placeholder="Enter Message" aria-label="Enter Message"></textarea>
-                </div>
-                <div class="form-group contact-btn">
-                    <button class="btn" type="submit">Send Message</button>
-                </div>
-            </form>
+            </div>
         </div>
     </div>
-    <div class="map-location">
-        <p class="uppercase locations">Cardiff | London | Lagos</p>
-    </div>
-    <div class="empty-div"></div>
+
 
 
     <!-- Stay Connected Section -->
