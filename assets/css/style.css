@@ -124,6 +124,7 @@ input:hover, #article-comment:hover, #senderMessage:hover, .select-subject:hover
 .navbar-nav .active{
     font-weight: 700;
     border-bottom: solid #EF2D56;
+    color: #EF2D56 !important;
 }
 
 .navbar-toggler{
