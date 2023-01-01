@@ -573,10 +573,39 @@ input[type=password]:hover,
 }
 
 .play-bar-container .play-bar{
+    -webkit-appearance: none;
     width: 50%;
     height: 5px;
     cursor: pointer;
+    border-radius: 10px;
+    background-color: rgba(255,255,255, 0.8)
 }
+
+input[type=range]::-webkit-slider-thumb{
+    -webkit-appearance: none;
+    background-color: #0d0d0d;
+    width: 15px;
+    height: 15px;
+    border-radius: 50%;
+    border: 1px solid #FAFAFA;
+
+    transition: all .3s ease-in-out;
+    -webkit-transition: all .3s ease-in-out;
+    -moz-transition: all .3s ease-in-out;
+    -o-transition:  all .3s ease-in-out;
+}
+
+input[type=range]::-webkit-slider-thumb:hover{
+    -webkit-appearance: none;
+    background-color: #FAFAFA;
+    border-color: #0d0d0d;
+}
+
+input[type=range]::-webkit-slider-thumb:active{
+    -webkit-appearance: none;
+    background-color: #EF2D56;
+}
+
 
 
 .volume-container{
@@ -593,12 +622,15 @@ input[type=password]:hover,
 }
 
 .volume-bar{
+    -webkit-appearance: none;
     top:40px;
     left: 14px;
     transform: rotate(270deg);
     position: relative;
     width: 70%;
     height: 5px;
+    border-radius: 10px;
+    background-color: #FAFAFA;
     cursor: pointer;
 }
 
@@ -1259,6 +1291,10 @@ input[type=password]:hover,
     .volume-bar{
         top:30px;
         width: 55%;
+    }
+
+    .play-bar-container .play-bar{
+        width: 50%;
     }
 
     .plural{
