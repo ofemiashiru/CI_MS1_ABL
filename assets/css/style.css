@@ -572,6 +572,12 @@ input[type=password]:hover,
     margin-bottom: 5px;
 }
 
+.start-end{
+    font-size: .8rem;
+    color: #FAFAFA;
+    padding: 0 10px;
+}
+
 .play-bar-container .play-bar{
     appearance: none;
     width: 50%;
@@ -1272,14 +1278,19 @@ input[type=range]::-webkit-slider-thumb:active{
     }
 
     .current-play-cover{
-        width: 70px;
-        height: 70px;   
+        width: 60px;
+        height: 60px;   
     }
 
     .m-control{
         width: 35px;
         height: 35px;
         font-size: 18px;
+    }
+
+    .start-end{
+        font-size: .5rem;
+        padding: 0 5px;
     }
     
     .music-player-control .play{
@@ -1378,6 +1389,10 @@ input[type=range]::-webkit-slider-thumb:active{
 
     .misc-message .btn{
         font-size: 1rem;
+    }
+
+    .start-end{
+        display: none;
     }
 
     .current-play-cover:hover::after{
