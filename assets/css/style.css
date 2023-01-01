@@ -7,13 +7,19 @@ body{
 input[type=text],
 input[type=email], 
 input[type=password], 
-#senderMessage, 
 #article-comment, 
+#senderMessage, 
 .select-subject{
     border-radius: 0;
 }
 
-input:hover, #article-comment:hover, #senderMessage:hover, .select-subject:hover{
+#search-bar:hover,
+input[type=text]:hover,
+input[type=email]:hover, 
+input[type=password]:hover, 
+#article-comment:hover,
+#senderMessage:hover,
+.select-subject:hover{
     border-style:solid;
     border-color:  #EF2D56;
 }
@@ -504,7 +510,6 @@ input:hover, #article-comment:hover, #senderMessage:hover, .select-subject:hover
     -webkit-transition: all .3s ease-in-out;
     -moz-transition: all .3s ease-in-out;
     -o-transition:  all .3s ease-in-out; 
-
     cursor: pointer;
 }
 
@@ -567,32 +572,12 @@ input:hover, #article-comment:hover, #senderMessage:hover, .select-subject:hover
     margin-bottom: 5px;
 }
 
-.play-bar{
-    padding-top: 10px;
-    width: 40%;
-    position: relative;
-    color: #0d0d0d;
-    border-bottom: 4px solid #FAFAFA;
-    margin: 0 auto;
-}
-
-.play-bar p {
-    padding: 0;
-    margin: 0;
-}
-
-.play-bar p::after{
-    width: 18px;
-    height: 18px;
-    position: absolute;
-    bottom: -11px;
-    left: 50px;
-    border-radius: 50%;
-    border: 1px solid rgba(250,250,250, 0.5);
-    content: '';
-    background-color: #0d0d0d;
+.play-bar-container .play-bar{
+    width: 50%;
+    height: 5px;
     cursor: pointer;
 }
+
 
 .volume-container{
     position: absolute;
@@ -602,37 +587,21 @@ input:hover, #article-comment:hover, #senderMessage:hover, .select-subject:hover
 
 .volume-container .volume-label {
     position: absolute;
-    top: -10px;
+    top: -15px;
     right: 47px;
     color: #FAFAFA
 }
 
 .volume-bar{
-    padding: 5em 2em 0em 1em;
-    margin-top: 10px;
-    color: #0d0d0d;
-    border-left: 4px solid #FAFAFA;
+    top:40px;
+    left: 14px;
+    transform: rotate(270deg);
     position: relative;
-}
-
-.volume-bar p {
-    padding: 0;
-    margin: 0;
-}
-
-.volume-bar p::after{
-    width: 14px;
-    height: 14px;
-    display: block;
-    position: absolute;
-    top: 1.4em;
-    left: -9px;
-    border-radius: 50%;
-    border: 1px solid rgba(250,250,250, 0.5);
-    content: '';
-    background-color: #0d0d0d;
+    width: 70%;
+    height: 5px;
     cursor: pointer;
 }
+
 
 /* Modals */
 
@@ -1288,7 +1257,8 @@ input:hover, #article-comment:hover, #senderMessage:hover, .select-subject:hover
     }
 
     .volume-bar{
-        padding: 4em 2em 0 1em;
+        top:30px;
+        width: 55%;
     }
 
     .plural{
