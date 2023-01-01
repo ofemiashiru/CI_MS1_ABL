@@ -573,7 +573,7 @@ input[type=password]:hover,
 }
 
 .play-bar-container .play-bar{
-    -webkit-appearance: none;
+    appearance: none;
     width: 50%;
     height: 5px;
     cursor: pointer;
@@ -582,7 +582,7 @@ input[type=password]:hover,
 }
 
 input[type=range]::-webkit-slider-thumb{
-    -webkit-appearance: none;
+    appearance: none;
     background-color: #0d0d0d;
     width: 15px;
     height: 15px;
@@ -596,7 +596,7 @@ input[type=range]::-webkit-slider-thumb{
 }
 
 input[type=range]::-webkit-slider-thumb:hover{
-    -webkit-appearance: none;
+    appearance: none;
     background-color: #FAFAFA;
     border-color: #0d0d0d;
 }
@@ -622,7 +622,7 @@ input[type=range]::-webkit-slider-thumb:active{
 }
 
 .volume-bar{
-    -webkit-appearance: none;
+    appearance: none;
     top:40px;
     left: 14px;
     transform: rotate(270deg);
