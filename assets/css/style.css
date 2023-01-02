@@ -166,7 +166,7 @@ input[type=password]:hover,
 /* Hero Section */
 .hero-container{
     height: 60vh;
-    background-image: url(https://ofemiashiru.github.io/afrobeatslib/assets/images/pexels-yan-krukov-9008836.webp); 
+    background-image: url(https://ofemiashiru.github.io/CI_MS1_ABL/assets/images/pexels-yan-krukov-9008836.webp); 
     background-repeat: no-repeat;
     background-size: cover;
     -webkit-background-size: cover;
@@ -319,7 +319,7 @@ input[type=password]:hover,
 }
 
 .update-image-background{
-    background-image: url(https://ofemiashiru.github.io/afrobeatslib/assets/images/afro_nation_2019.webp); 
+    background-image: url(https://ofemiashiru.github.io/CI_MS1_ABL/assets/images/afro_nation_2019.webp); 
     background-repeat: no-repeat;
     background-size: cover;
     
