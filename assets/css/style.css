@@ -833,8 +833,7 @@ input[type=range]::-webkit-slider-thumb:active{
 .genre-nav{
     position: fixed;
     float: left;
-    width: 300px;
-    
+    width: 25%;  
 }
 
 .genre-list{
@@ -843,29 +842,16 @@ input[type=range]::-webkit-slider-thumb:active{
 }
 
 .genre-list a{
-    margin: 5px;
+   margin: 2px 0;
 }
 
 .genre-by-artists{
-    position: absolute;
-    left:400px;
+    float: right;
+    width: 75%;
+    padding: 0 20px;
+
 }
 
-.image-label:hover::after{
-    content:attr(data-genre);
-    position: absolute;
-    top: 50%;
-    left: 50%;
-
-    transform: translate(-50%, -50%);
-    -webkit-transform: translate(-50%,-50%);
-    -moz-transform: translate(-50%,-50%);
-    -o-transform: translate(-50%, -50%);
-
-    font-size: 200%;
-    font-weight: 900;
-    color: #FAFAFA;
-}
 
 /* Events page */
 
@@ -1174,6 +1160,23 @@ input[type=range]::-webkit-slider-thumb:active{
 
 
 
+}
+
+@media screen and (max-width:1036px){
+    /* Genre Page */
+
+    .genre-nav{
+        position: static;
+        width: 100%;
+        text-align: center;
+        margin-bottom: 60px;
+    }
+
+
+    .genre-by-artists{
+        width: 100%;
+        text-align: center;
+    }
 }
 
 @media screen and (max-width:991px){
