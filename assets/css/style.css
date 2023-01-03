@@ -826,6 +826,15 @@ input[type=range]::-webkit-slider-thumb:active{
 
 /* Genre Page */
 
+.genre-nav{
+    position: fixed;
+}
+
+.genre-by-artists{
+    position: absolute;
+    left:200px;
+}
+
 .image-label:hover::after{
     content:attr(data-genre);
     position: absolute;
