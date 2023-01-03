@@ -826,13 +826,29 @@ input[type=range]::-webkit-slider-thumb:active{
 
 /* Genre Page */
 
+.genre-container{
+    position: relative;
+}
+
 .genre-nav{
     position: fixed;
+    float: left;
+    width: 300px;
+    
+}
+
+.genre-list{
+    list-style-type: none;
+    padding-left: 0;
+}
+
+.genre-list a{
+    margin: 5px;
 }
 
 .genre-by-artists{
     position: absolute;
-    left:200px;
+    left:400px;
 }
 
 .image-label:hover::after{
