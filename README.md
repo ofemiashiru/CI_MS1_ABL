@@ -1,11 +1,11 @@
 # AfrobeatsLib
 (Developer: Femi Ashiru)
 
-![AfrobeatsLibImage](docs/am-i-responsive.png)
+![AfrobeatsLib Responsive Image](docs/am-i-responsive.png)
 
 [Live Project](https://ofemiashiru.github.io/CI_MS1_ABL)
 
-<a name="table-of-contents"></a>
+## Table of Content
 
 1. [Project Goals](#project-goals)
     1. [User Goals](#user-goals)
@@ -41,7 +41,25 @@
 ## Project Goals 
 
 ### User Goals
-- 
+- Find and stream latest music from their favourite Afrobeat artists
+- See the different options and costs for subscribing to AfrobeatsLib
+- Browse artists by letter or genre
+- Read latest news about everything relating to Afrobeat music gloabally
+- See the latest Afrobeat events and link to their corresponding pages
 
 ### Site Owner Goals
+- Have users subscribe to AfrobeatsLib
+- Collect emails of visitors to grow AfrobeatsLib mailing list
+- Enable visitors to contact AfrobeatsLib with queries relating to sales, technical issues etc.
+- Provide a way for visitors to download the AfrobeatsLib app via the App store or Goolge Play store
+
+## User Experience
+
+### Target Audience
+- People who are fans of Afrobeat music 
+- Artists who would like to upload their own music
+- People who would like to be kept up to date with the most recent Afrobeat news and events
+
+### User Requrements and Expectations
+
 - 
