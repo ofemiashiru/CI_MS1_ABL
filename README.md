@@ -1,9 +1,9 @@
 # AfrobeatsLib
-![AfrobeatsLibImage]()
+(Developer: Femi Ashiru)
 
-[Git Repository](https://github.com/ofemiashiru/afrobeatslib/)
+![AfrobeatsLibImage](/docs/am-i-responsive.png)
 
-[Live Project](https://ofemiashiru.github.io/afrobeatslib/)
+[Live Project](https://ofemiashiru.github.io/CI_MS1_ABL)
 
 <a name="table-of-contents"></a>
 # Table of Contents 
