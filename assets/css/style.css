@@ -719,6 +719,22 @@ input[type=range]::-webkit-slider-thumb:active{
     border-radius: 50%;
 }
 
+.image-label:hover::after{
+    content:attr(data-artist);
+    position: absolute;
+    top: 50%;
+    left: 50%;
+
+    transform: translate(-50%, -50%);
+    -webkit-transform: translate(-50%,-50%);
+    -moz-transform: translate(-50%,-50%);
+    -o-transform: translate(-50%, -50%);
+
+    font-size: 200%;
+    font-weight: 900;
+    color: #FAFAFA;
+}
+
 
 .alphabet-container{
     margin-top: 20px;
