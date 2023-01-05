@@ -66,3 +66,8 @@
 - Easy to use navigation that is responsive
 - Be able to easily browse artists by genre or letter
 - All links to work as expected
+- Appealing design that works well on both desktop and mobile devices
+- Be able to connect easily with events and news
+- Be able to contact AfrobeatsLib in a simple way
+- Gain information about the different subscriptions quickly and easily
+- Accessibility 
