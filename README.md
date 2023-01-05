@@ -52,7 +52,7 @@
 - Collect emails of visitors to grow AfrobeatsLib mailing list
 - Enable visitors to contact AfrobeatsLib with queries relating to sales, technical issues etc.
 - Provide a way for visitors to download the AfrobeatsLib app via the App store or Goolge Play store
-- Prepare site to implement it's own in house streaming service
+- Prepare site to implement it's own in house music player (currently disabled)
 
 ## User Experience
 
