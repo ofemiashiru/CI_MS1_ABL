@@ -71,3 +71,8 @@
 - Be able to contact AfrobeatsLib in a simple way
 - Gain information about the different subscriptions quickly and easily
 - Accessibility 
+
+### User Stories
+
+#### First-time User 
+1. 
