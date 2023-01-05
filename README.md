@@ -63,4 +63,6 @@
 
 ### User Requrements and Expectations
 
-- 
+- Easy to use navigation that is responsive
+- Be able to easily browse artists by genre or letter
+- All links to work as expected
