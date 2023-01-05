@@ -41,23 +41,24 @@
 ## Project Goals 
 
 ### User Goals
-- Find and stream latest music from their favourite Afrobeat artists
+- Link to the latest music from their favourite Afrobeats artists
 - See the different options and costs for subscribing to AfrobeatsLib
 - Browse artists by letter or genre
-- Read latest news about everything relating to Afrobeat music gloabally
-- See the latest Afrobeat events and link to their corresponding pages
+- Read latest news about everything relating to Afrobeats music
+- See the latest Afrobeats events and link to their corresponding pages
 
 ### Site Owner Goals
-- Have users subscribe to AfrobeatsLib
+- Have fans and artist subscribe to AfrobeatsLib
 - Collect emails of visitors to grow AfrobeatsLib mailing list
 - Enable visitors to contact AfrobeatsLib with queries relating to sales, technical issues etc.
 - Provide a way for visitors to download the AfrobeatsLib app via the App store or Goolge Play store
+- Prepare site to implement it's own in house streaming service
 
 ## User Experience
 
 ### Target Audience
 - People who are fans of Afrobeat music 
-- Artists who would like to upload their own music
+- Independent or major Artists who would like to upload their own music
 - People who would like to be kept up to date with the most recent Afrobeat news and events
 
 ### User Requrements and Expectations
