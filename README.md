@@ -247,3 +247,8 @@ The website consists of 6 main pages:
 - Allows user to browse artist by letter (User story - 1, 13)
 
 ![Artists](docs/features/feature-artist-page.png)
+
+### Genre
+- Allows users to browse artust by genre (User story - 1, 13)
+
+![Genre](docs/features/feature-genre.png)
