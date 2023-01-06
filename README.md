@@ -235,3 +235,4 @@ The website consists of 6 main pages:
 - User story - 11
 
 ![Footer](docs/features/feature-footer.png)
+
