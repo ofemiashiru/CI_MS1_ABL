@@ -204,3 +204,10 @@ The website consists of 6 main pages:
 - Navigation indicates to user what page they are currently on
 
 ![Logo Navigation and Search bar](docs/features/feature-navigation-bar.png)
+
+### Login and Register Modals
+- Allow users to login and/or register to AfrobeatsLib
+- This will be a feature that will be developed in future iterations
+
+![Login opens Login Modal](docs/features/feature-login-modal.png)
+![Register opens Register Modal](docs/features/feature-register-modal.png)
