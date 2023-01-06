@@ -234,3 +234,4 @@ The website consists of 6 main pages:
 - Consists of two sections, mailing list and social media links
 - User story - 11
 
+![Footer](docs/features/feature-footer.png)
