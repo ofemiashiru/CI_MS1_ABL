@@ -131,10 +131,21 @@ AfrobeatsLib was designed to have a simple and sleek modern look that is able to
 
 ### Colour
 
-For the colour scheme I opted for a simple shade of black and off white colour using a chalk tone for the majority of the body text. The bright pink was chosen to give familiarity to Apple Musics platform as a way of aligning to two as potential competitors.
+For the colour scheme I opted for a simple shade of black and off white colour using a chalk tone for the majority of the body text. The bright pink was chosen to give familiarity to Apple Music and TikTok platforms as a way of aligning to them as potential competitors.
 
 ![Colour Scheme](docs/features/colour-scheme.png)
 
 ### Fonts
 
 The main body of the text uses Roboto with a fallback of sans-serif, however the brand text adopts the Bebas Neue font also with a fallback of sans-serif. The headings use a heavier font weight of Roboto throughout the site. Both fonts were imported using Google Fonts API.
+
+### Structure
+The website is structured to mimick the style of high end magazines with a simple top down, left to right flow of information. It is user friendly and has recognisable elements such as a fixed navigation bar along the top that consists of the business brand logo, menu for each page, search bar and login & register buttons. Each page is responsive in nature and has been tested on the industry standard width of 320px.
+
+The website consists of 6 main pages:
+- Home page which shows what the site is about, featured albums, and the various subscription options
+- Artist page which allows users to browse the artist they want to listen to by letter and shows the top three featured artists
+- Genre page which allows users to browse the artist they want to listen to by genre
+- Events page which allows users to see the latest events and navigate to their corresponding sites
+- News page which allows users to see and keep up with the latest news
+- Contact page which allows users to contact the business and locate the office
