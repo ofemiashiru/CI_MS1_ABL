@@ -242,3 +242,8 @@ The website consists of 6 main pages:
 - User story - 18
 
 ![Music Player](docs/features/feature-music-player.png)
+
+### Artists
+- Allows user to browse artist by letter (User story - 1, 13)
+
+![Artists](docs/features/feature-artist-page.png)
