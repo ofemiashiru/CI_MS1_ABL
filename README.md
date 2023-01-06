@@ -130,3 +130,7 @@ Features to be built in future releases:
 AfrobeatsLib was designed to have a simple and sleek modern look that is able to compete with other streaming platforms on the market. It has modern edges with a simple colour scheme which also makes it easy for users to navigate throughout the site. As the site adopts the usage of a lot of images, it was important to make sure not to introduce too many colours for the scheme as it could potentially clash. The look of the site resembles high end music magazines with large images and minimal amounts of text.
 
 ### Colour
+
+For the colour scheme I opted for a simple shade of black and off white colour using a chalk tone for the majority of the body text. The bright pink was chosen to give familiarity to Apple Musics platform as a way of aligning to two as potential competitors.
+
+![Colour Scheme](docs/features/colour-scheme.png)
