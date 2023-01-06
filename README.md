@@ -212,13 +212,13 @@ The website consists of 6 main pages:
 ![Login opens Login Modal](docs/features/feature-login-modal.png)
 ![Register opens Register Modal](docs/features/feature-register-modal.png)
 
-## Hero Section
+### Hero Section
 - Informs user of what the site is about
 - Allows user to download app on App store or Google Play store (User story - 5, 16)
 
 ![Hero Section](docs/features/feature-hero.png)
 
-## Featured Albums and Artists
+### Featured Albums and Artists
 - Informs user of the latest feature albums and artists 
 
 ![Featured Albums](docs/features/feature-featured-albums.png)
