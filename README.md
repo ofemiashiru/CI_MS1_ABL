@@ -159,7 +159,8 @@ The website consists of 6 main pages:
 <img src="docs/wireframes/artists.png">
 </details>
 <details><summary>Genre</summary>
-<img src="docs/wireframes/genre.png">
+- After meeting with Mentor during meeting two it was suggested that this design change as it was deemed too similar to the artists page. Hence the finished product adopts a different structure to the initial wireframe.
+<img src="docs/wireframes/genre.png"> 
 </details>
 <details><summary>Events</summary>
 <img src="docs/wireframes/events.png">
@@ -191,3 +192,8 @@ The website consists of 6 main pages:
 - Adobe Color
 - Font Awesome
 - Favicon<span>.</span>io
+
+## Features
+
+### Logo and Navigation Bar
+- Navigation and Logo remains consistent on each page
