@@ -268,3 +268,13 @@ The website consists of 6 main pages:
 - Allow users to leave a comment on article (User story - 12)
 
 ![Leave a Comment on Article](docs/features/feature-news-leave-comment.png)
+
+### Contact
+- Allow users to contact AfrobeatsLib (User story - 10, 15)
+
+![Contact](docs/features/feature-contact.png)
+
+### Map
+- Allow users to be able to locate the business office
+
+![Contact Map](docs/features/feature-contact-map.png)
