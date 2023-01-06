@@ -153,26 +153,26 @@ The website consists of 6 main pages:
 ### Wireframes
 
 <details><summary>Home</summary>
-<img src="docs/wireframes/home.png">
+<img src="docs/wireframes/home.png" alt="home wireframe">
 </details>
 <details><summary>Artists</summary>
-<img src="docs/wireframes/artists.png">
+<img src="docs/wireframes/artists.png" alt="artists wireframe">
 </details>
 <details><summary>Genre</summary>
 - After meeting with Mentor during meeting two it was suggested that this design change as it was deemed too similar to the artists page. Hence the finished product adopts a different structure to the initial wireframe.
-<img src="docs/wireframes/genre.png"> 
+<img src="docs/wireframes/genre.png" alt="genre wireframe"> 
 </details>
 <details><summary>Events</summary>
-<img src="docs/wireframes/events.png">
+<img src="docs/wireframes/events.png" alt="events wireframe">
 </details>
 <details><summary>News</summary>
-<img src="docs/wireframes/news.png">
+<img src="docs/wireframes/news.png" alt="news wireframe">
 </details>
 <details><summary>News - Each Article</summary>
-<img src="docs/wireframes/news-article-pages.png">
+<img src="docs/wireframes/news-article-pages.png" alt="news - each article wireframe">
 </details>
 <details><summary>Contact</summary>
-<img src="docs/wireframes/contact.png">
+<img src="docs/wireframes/contact.png" alt="contact wireframe">
 </details>
 
 ## Technologies Used
@@ -195,9 +195,12 @@ The website consists of 6 main pages:
 
 ## Features
 
-### Logo and Navigation Bar
+### Logo Navigation and Search bar
 - Navigation and Logo remains consistent on each page
 - Navigation is fully responsive and collapses when window is resized
 - Navigation allows users to easily navigate from page to page
 - Logo in Navigation takes user back to the home page
+- Navigation also contains a search bar which will be an additional feature in future iterations of the site
 - Navigation indicates to user what page they are currently on
+
+![Logo Navigation and Search bar](docs/features/feature-navigation-bar.png)
