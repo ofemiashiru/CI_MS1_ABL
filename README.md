@@ -14,6 +14,7 @@
     1. [Target Audience](#target-audience)
     2. [User Requrements and Expectations](#user-requrements-and-expectations)
     3. [User Stories](#user-stories)
+    4. [Scope](#scope)
 3. [Design](#design)
     1. [Design Choices](#design-choices)
     2. [Colour](#colours)
@@ -97,6 +98,30 @@
 16. I want users to be able to download our App on App store and Google Play store
 17. I want users to sign up to our mailing list
 18. I want our site to be prepared to launch our own in house music player 
+
+## Scope
+
+The scope of the project in it’s first release is defined by the following features:
+
+- Simple navigation that clearly shows the user what page they are currently on.  
+- A footer on all pages that allows users to sign up to the mailing list and connect to social media platforms.
+- A detailed section on the home page (index.html) that shows the pricing for subscribing to the websites services.
+- Login and register links on all pages that display a modal to allow users to register or login.
+- Artist (artists.html) and genre (genre.html) page that allows users to browse artists by letter or genre.
+- Link to external youtube site for each artists music, making sure that the page opens in a new tab. 
+- Contact page with form to allow users to send queries. The form is functional and will not submit unless all fields are filled out.
+- An error page (404.html) that directs users back to the previous page they were on if visiting a page that does not exist.
+- An Events page (events.html) that allows users to see the latest events and navigate to their respective pages.
+- A News page (news.html) that shows all the latest news.
+- Google map embedded to display the location of the sites business office.
+- Clear and simple favicon icon to help users identify the site.
+
+Features to be built in future releases:
+
+- Multi-page form to purchase membership and the ability to sign up to monthly direct debit payments.
+- Booking system for training classes.
+- The ability to toggle which days you want to view in the pool timetable on mobile view.
+- A collapsible carousel on the About page on mobile view to switch view between cards.
 
 ## Design
 
