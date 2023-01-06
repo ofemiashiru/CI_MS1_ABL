@@ -75,4 +75,30 @@
 ### User Stories
 
 #### First-time User 
-1. 
+1. I want to locate favourite artists by letter or genre
+2. I want to know the different subscription prices
+3. I want to see the latest events 
+4. I want to see the latest news
+5. I want to be able to download the AfrobeatsLib app from the App store or Google Play store
+6. I want to be able to sign up to AfrobeatsLib
+7. I want to sign up to AfrobeatsLib Mailing list
+
+#### Returning User
+8. I want to see all the latest events and be able to visit their corresponding pages
+9. I want to see the latest featured albums and artists
+10. I want to be able to contact AfrobeatsLib
+11. I want to interact with AfrobeatsLib on their social media platform
+12. I want to leave a comment on the news articles
+
+#### Site Owner 
+13. I want users to be able to find and listen to their favourite Afrobeats artists
+14. I want users to be able to be kept up to date with latest events and news
+15. I want users to be able to contact us
+16. I want users to be able to download our App on App store and Google Play store
+17. I want users to sign up to our mailing list
+18. I want our site to be prepared to launch our own in house music player 
+
+## Design
+
+### Design Choices
+AfrobeatsLib was desing to have a simple and sleek modern look that is able to compete with other streaming platforms on the market. It has modern edges with a simple colour scheme which also makes it easy for users to navigate throughout the site 
