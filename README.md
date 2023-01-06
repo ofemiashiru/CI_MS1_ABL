@@ -257,3 +257,9 @@ The website consists of 6 main pages:
 - Allow users to see latest events and navigate to their respective pages (User story - 3, 8, 14)
 
 ![Events](docs/features/feature-events.png)
+
+### News and News - Each Article
+- Allow users to see the latest news (User story 4, 14)
+
+![News](docs/features/feature-news.png)
+![News - Each Article](docs/features/feature-news-each-article.png)
