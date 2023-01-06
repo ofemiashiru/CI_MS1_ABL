@@ -225,14 +225,20 @@ The website consists of 6 main pages:
 ![Featured Artists](docs/features/feature-featured-artists.png)
 
 ### Subscriptions
-- Informs users of the subscription pricing (User story - 2)
+- Informs users of the subscription pricing (User story - 2, 6)
 
 ![Subscription](docs/features/feature-subscriptions.png)
 
 ### Footer
-- Feature on all pages
+- Features on all pages
 - Consists of two sections, mailing list and social media links
-- User story - 11
+- User story - 7, 11, 17
 
 ![Footer](docs/features/feature-footer.png)
 
+### Music Player
+- Features on all pages
+- In house music player ready for development for future iterations of the site (currently disabled)
+- User story - 18
+
+![Music Player](docs/features/feature-music-player.png)
