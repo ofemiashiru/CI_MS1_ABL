@@ -134,3 +134,7 @@ AfrobeatsLib was designed to have a simple and sleek modern look that is able to
 For the colour scheme I opted for a simple shade of black and off white colour using a chalk tone for the majority of the body text. The bright pink was chosen to give familiarity to Apple Musics platform as a way of aligning to two as potential competitors.
 
 ![Colour Scheme](docs/features/colour-scheme.png)
+
+### Fonts
+
+The main body of the text uses Roboto with a fallback of sans-serif, however the brand text adopts the Bebas Neue font also with a fallback of sans-serif. The headings use a heavier font weight of Roboto throughout the site. Both fonts were imported using Google Fonts API.
