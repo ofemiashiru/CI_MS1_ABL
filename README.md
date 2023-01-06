@@ -263,3 +263,8 @@ The website consists of 6 main pages:
 
 ![News](docs/features/feature-news.png)
 ![News - Each Article](docs/features/feature-news-each-article.png)
+
+### Comment on Article
+- Allow users to leave a comment on article (User story - 12)
+
+![Leave a Comment on Article](docs/features/feature-news-leave-comment.png)
