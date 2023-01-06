@@ -219,7 +219,7 @@ The website consists of 6 main pages:
 ![Hero Section](docs/features/feature-hero.png)
 
 ### Featured Albums and Artists
-- Informs user of the latest feature albums and artists 
+- Informs user of the latest feature albums and artists (User story - 9) 
 
 ![Featured Albums](docs/features/feature-featured-albums.png)
 ![Featured Artists](docs/features/feature-featured-artists.png)
