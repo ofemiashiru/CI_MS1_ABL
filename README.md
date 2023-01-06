@@ -252,3 +252,8 @@ The website consists of 6 main pages:
 - Allows users to browse artust by genre (User story - 1, 13)
 
 ![Genre](docs/features/feature-genre.png)
+
+### Events
+- Allow users to see latest events and navigate to their respective pages (User story - 3, 8, 14)
+
+![Events](docs/features/feature-events.png)
