@@ -197,3 +197,7 @@ The website consists of 6 main pages:
 
 ### Logo and Navigation Bar
 - Navigation and Logo remains consistent on each page
+- Navigation is fully responsive and collapses when window is resized
+- Navigation allows users to easily navigate from page to page
+- Logo in Navigation takes user back to the home page
+- Navigation indicates to user what page they are currently on
