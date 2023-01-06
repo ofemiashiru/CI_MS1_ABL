@@ -223,3 +223,14 @@ The website consists of 6 main pages:
 
 ![Featured Albums](docs/features/feature-featured-albums.png)
 ![Featured Artists](docs/features/feature-featured-artists.png)
+
+### Subscriptions
+- Informs users of the subscription pricing (User story - 2)
+
+![Subscription](docs/features/feature-subscriptions.png)
+
+### Footer
+- Feature on all pages
+- Consists of two sections, mailing list and social media links
+- User story - 11
+
