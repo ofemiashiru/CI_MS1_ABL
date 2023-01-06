@@ -811,9 +811,9 @@ input[type=range]::-webkit-slider-thumb:active{
 
 .artist-square-overlay:hover::after{
     font-family: "Font Awesome 5 Free";
-    content: '\f0c1';
+    content: '\f04b';
     font-weight: 600;
-    font-size: 200%;
+    font-size: 240%;
     color: #FAFAFA;
     
     position: absolute;
