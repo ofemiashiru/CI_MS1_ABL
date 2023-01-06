@@ -278,3 +278,7 @@ The website consists of 6 main pages:
 - Allow users to be able to locate the business office
 
 ![Contact Map](docs/features/feature-contact-map.png)
+
+## Validation
+
+### HTML Validation
