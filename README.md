@@ -95,7 +95,7 @@
 13. I want users to be able to find and listen to their favourite Afrobeats artists
 14. I want users to be able to be kept up to date with latest events and news
 15. I want users to be able to contact us
-16. I want users to be able to download our App on App store and Google Play store
+16. I want users to be able to download our app on App store and Google Play store
 17. I want users to sign up to our mailing list
 18. I want our site to be prepared to launch our own in house music player 
 
@@ -211,3 +211,9 @@ The website consists of 6 main pages:
 
 ![Login opens Login Modal](docs/features/feature-login-modal.png)
 ![Register opens Register Modal](docs/features/feature-register-modal.png)
+
+## Hero Section
+- Informs user of what the site is about
+- Allows user to download app on App store or Google Play store (User story - 5, 16)
+
+![Hero Section](docs/features/feature-hero.png)
