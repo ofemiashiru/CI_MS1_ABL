@@ -173,3 +173,21 @@ The website consists of 6 main pages:
 <details><summary>Contact</summary>
 <img src="docs/wireframes/contact.png">
 </details>
+
+## Technologies Used
+
+### Languages
+- HTML
+- CSS
+
+### Frameworks & Tools
+- Bootstrap v4.5
+- Git
+- GitHub
+- Gitpod
+- Ezgif<span>.</span>com
+- Balsamiq
+- Google Fonts
+- Adobe Color
+- Font Awesome
+- Favicon<span>.</span>io
