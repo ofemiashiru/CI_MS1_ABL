@@ -149,3 +149,27 @@ The website consists of 6 main pages:
 - Events page which allows users to see the latest events and navigate to their corresponding sites
 - News page which allows users to see and keep up with the latest news
 - Contact page which allows users to contact the business and locate the office
+
+### Wireframes
+
+<details><summary>Home</summary>
+<img src="docs/wireframes/home.png">
+</details>
+<details><summary>Artists</summary>
+<img src="docs/wireframes/artists.png">
+</details>
+<details><summary>Genre</summary>
+<img src="docs/wireframes/genre.png">
+</details>
+<details><summary>Events</summary>
+<img src="docs/wireframes/events.png">
+</details>
+<details><summary>News</summary>
+<img src="docs/wireframes/news.png">
+</details>
+<details><summary>News - Each Article</summary>
+<img src="docs/wireframes/news-article-pages.png">
+</details>
+<details><summary>Contact</summary>
+<img src="docs/wireframes/contact.png">
+</details>
