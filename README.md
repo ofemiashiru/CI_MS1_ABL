@@ -108,7 +108,7 @@ The scope of the project in it’s first release is defined by the following fea
 - A detailed section on the home page (index.html) that shows the pricing for subscribing to the websites services.
 - Login and register links on all pages that display a modal to allow users to register or login.
 - Artist (artists.html) and genre (genre.html) page that allows users to browse artists by letter or genre.
-- Link to external youtube site for each artists music, making sure that the page opens in a new tab. 
+- Link to external YouTube site for each artists music, making sure that the page opens in a new tab/window. 
 - Contact page with form to allow users to send queries. The form is functional and will not submit unless all fields are filled out.
 - An error page (404.html) that directs users back to the previous page they were on if visiting a page that does not exist.
 - An Events page (events.html) that allows users to see the latest events and navigate to their respective pages.
@@ -118,10 +118,12 @@ The scope of the project in it’s first release is defined by the following fea
 
 Features to be built in future releases:
 
-- Multi-page form to purchase membership and the ability to sign up to monthly direct debit payments.
-- Booking system for training classes.
-- The ability to toggle which days you want to view in the pool timetable on mobile view.
-- A collapsible carousel on the About page on mobile view to switch view between cards.
+- In house music player, which is currently disabled, will be developed so that artist links will trigger the player instead of navigating to a YouTube link.
+- Currently the comments form on each article navigates to a placeholder - this will be developed to display comments under each article.
+- Search bar on navigation will be developed to help users quickly explore the catalogue of music on website.
+- Develop login and register modals to store users details and subscription information in a database. This will also lead to a users account page being developed based on whether users are artists or fans.
+- Mailing list form will successfully store visitors emails within a database for future alerts.
+
 
 ## Design
 
