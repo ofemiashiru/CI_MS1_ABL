@@ -17,7 +17,7 @@
     4. [Scope](#scope)
 3. [Design](#design)
     1. [Design Choices](#design-choices)
-    2. [Colour](#colours)
+    2. [Colour](#colour)
     3. [Fonts](#fonts)
     4. [Structure](#structure)
     5. [Wireframes](#wireframes)
@@ -124,8 +124,9 @@ Features to be built in future releases:
 - Develop login and register modals to store users details and subscription information in a database. This will also lead to a users account page being developed based on whether users are artists or fans.
 - Mailing list form will successfully store visitors emails within a database for future alerts.
 
-
 ## Design
 
 ### Design Choices
-AfrobeatsLib was desing to have a simple and sleek modern look that is able to compete with other streaming platforms on the market. It has modern edges with a simple colour scheme which also makes it easy for users to navigate throughout the site 
+AfrobeatsLib was designed to have a simple and sleek modern look that is able to compete with other streaming platforms on the market. It has modern edges with a simple colour scheme which also makes it easy for users to navigate throughout the site. As the site adopts the usage of a lot of images, it was important to make sure not to introduce too many colours for the scheme as it could potentially clash. The look of the site resembles high end music magazines with large images and minimal amounts of text.
+
+### Colour
