@@ -351,3 +351,17 @@ The WAVE WebAIM web accessibility tool was used to ensure the website met access
 <p>No errors. 1 Alert due to index.html being referenced twice on logo and home link</p>
 <img src="docs/validation/accessibility/validation-accessibility-news.png">
 </details>
+<details><summary>News - Each Article</summary>
+<p>No errors. 1 Alert due to index.html being referenced twice on logo and home link</p>
+<img width="300px" src="docs/validation/accessibility/validation-accessibility-news-article-one.png">
+<img width="300px" src="docs/validation/accessibility/validation-accessibility-news-article-two.png">
+<img width="300px" src="docs/validation/accessibility/validation-accessibility-news-article-three.png">
+<img width="300px" src="docs/validation/accessibility/validation-accessibility-news-article-four.png">
+<img width="300px" src="docs/validation/accessibility/validation-accessibility-news-article-five.png">
+<img width="300px" src="docs/validation/accessibility/validation-accessibility-news-article-six.png">
+<img width="300px" src="docs/validation/accessibility/validation-accessibility-news-article-seven.png">
+</details>
+<details><summary>Contact</summary>
+<p>No errors. 1 Alert due to index.html being referenced twice on logo and home link</p>
+<img src="docs/validation/accessibility/validation-accessibility-contact.png">
+</details>
