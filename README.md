@@ -322,8 +322,8 @@ All pages pass with no errors and no warnings.
 The W3C Jigsaw CSS Validation Service was used to validate the CSS of the website.
 After testing the whole sites CSS and my own custom CSS all pages passed with no errors, however, there were a number of warnings present that were related to the webkit css extensions used.
 <details><summary>whole site</summary>
-<img src="">
+<img src="docs/validation/css/validation-css-whole-site.png">
 </details>
 <details><summary>custom css (style.css)</summary>
-<img src="">
+<img src="docs/validation/css/validation-css-style.png">
 </details>
