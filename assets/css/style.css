@@ -193,7 +193,7 @@ input[type=password]:hover,
     left: 0;
     height: 100%;
     width: 100%;
-    background-color: rgba(0,0,0, 0.8);
+    background-color: rgba(0,0,0, 0.4);
   }
 
 .hero-container .jumbotron{
@@ -209,7 +209,17 @@ input[type=password]:hover,
 .jumbotron .top-header{
    font-size: 350%;
    font-weight: 500;
-   margin-bottom: 0;
+   background-color: rgba(0,0,0, 0.8);
+   max-width: fit-content;
+   margin: 0 auto;
+   padding: 0 10px;
+   border-top-left-radius: 10px;
+   border-top-right-radius: 10px;
+}
+
+.lead{
+    background-color: rgba(0,0,0, 0.8);
+    padding: 0 10px;
 }
 
 .hero-jumbo-row{
@@ -230,10 +240,10 @@ input[type=password]:hover,
 }
 
 .btn-android{
-    border: 1px solid #FAFAFA;
+    border: 1px solid #0d0d0d;
     font-size: 1.3rem;
     color: #FAFAFA;
-    background-color: transparent;
+    background-color: #0d0d0d;
 }
 
 .btn-android:hover{
@@ -1292,6 +1302,8 @@ input[type=range]::-webkit-slider-thumb:active{
 
     .jumbotron .top-header{
         font-size: 220%;
+        border-bottom-left-radius: 10px;
+        border-bottom-right-radius: 10px;
     }
 
     .lead{
