@@ -332,10 +332,10 @@ After testing the whole sites CSS and my own custom CSS all pages passed with no
 ### Accessibility
 The WAVE WebAIM web accessibility tool was used to ensure the website met accessibility standards. 
 <details><summary>Home</summary>
-No errors
-<img src="docs/validation/accessibility/">
+<p>No errors</p>
+<img src="docs/validation/accessibility/validation-accessibility-index.png">
 </details>
 <details><summary>Artists</summary>
-No errors. 1 Alert due to index.html being referenced twice on logo and home link
-<img src="docs/validation/accessibility/">
+<p>No errors. 1 Alert due to index.html being referenced twice on logo and home link</p>
+<img src="docs/validation/accessibility/validation-accessibility-artists.png">
 </details>
