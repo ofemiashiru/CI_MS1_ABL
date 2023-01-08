@@ -328,3 +328,6 @@ After testing the whole sites CSS and my own custom CSS all pages passed with no
 <details><summary>custom css (style.css)</summary>
 <img src="docs/validation/css/validation-css-style.png">
 </details>
+
+### Accessibility
+The WAVE WebAIM web accessibility tool was used to ensure the website met accessibility standards. 
