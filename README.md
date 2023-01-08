@@ -186,6 +186,7 @@ The website consists of 6 main pages:
 - Git
 - GitHub
 - Gitpod
+- TinyURL
 - Ezgif<span>.</span>com
 - Balsamiq
 - Google Fonts
