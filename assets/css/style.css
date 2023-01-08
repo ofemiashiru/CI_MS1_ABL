@@ -134,8 +134,8 @@ input[type=password]:hover,
 
 .navbar-nav .active{
     font-weight: 700;
-    color: #FAFAFA !important;
-    background-color: #0d0d0d;
+    border-bottom: 1px solid #0d0d0d;
+    max-width: fit-content;
 }
 
 .navbar-toggler{
