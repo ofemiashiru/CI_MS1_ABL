@@ -282,3 +282,25 @@ The website consists of 6 main pages:
 ## Validation
 
 ### HTML Validation
+
+<details><summary>Home</summary>
+<img src="docs/validation/validation-html-index.jpg">
+</details>
+<details><summary>Artists</summary>
+<img src="docs/validation/validation-html-about.jpg">
+</details>
+<details><summary>Genre</summary>
+<img src="docs/validation/validation-html-menu.jpg">
+</details>
+<details><summary>Events</summary>
+<img src="docs/validation/validation-html-gallery.jpg">
+</details>
+<details><summary>News</summary>
+<img src="docs/validation/validation-html-contact.jpg">
+</details>
+<details><summary>News Article Page</summary>
+<img src="docs/validation/validation-html-contact.jpg">
+</details>
+<details><summary>Contact</summary>
+<img src="docs/validation/validation-html-contact.jpg">
+</details>
