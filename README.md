@@ -343,3 +343,11 @@ The WAVE WebAIM web accessibility tool was used to ensure the website met access
 <p>No errors. 1 Alert due to index.html being referenced twice on logo and home link</p>
 <img src="docs/validation/accessibility/validation-accessibility-genre.png">
 </details>
+<details><summary>Events</summary>
+<p>No errors. 1 Alert due to index.html being referenced twice on logo and home link</p>
+<img src="docs/validation/accessibility/validation-accessibility-events.png">
+</details>
+<details><summary>News</summary>
+<p>No errors. 1 Alert due to index.html being referenced twice on logo and home link</p>
+<img src="docs/validation/accessibility/validation-accessibility-news.png">
+</details>
