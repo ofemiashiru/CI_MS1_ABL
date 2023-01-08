@@ -284,23 +284,35 @@ The website consists of 6 main pages:
 ### HTML Validation
 
 <details><summary>Home</summary>
-<img src="docs/validation/validation-html-index.jpg">
+<img src="docs/validation/html/validation-html-index.png">
 </details>
 <details><summary>Artists</summary>
-<img src="docs/validation/validation-html-about.jpg">
+<img src="docs/validation/html/validation-html-artists.png">
 </details>
 <details><summary>Genre</summary>
-<img src="docs/validation/validation-html-menu.jpg">
+<img src="docs/validation/html/validation-html-genre.png">
 </details>
 <details><summary>Events</summary>
-<img src="docs/validation/validation-html-gallery.jpg">
+<img src="docs/validation/html/validation-html-events.png">
 </details>
 <details><summary>News</summary>
-<img src="docs/validation/validation-html-contact.jpg">
+<img src="docs/validation/html/validation-html-news.png">
 </details>
-<details><summary>News Article Page</summary>
-<img src="docs/validation/validation-html-contact.jpg">
+<details><summary>News Article Pages</summary>
+<img width="600px" src="docs/validation/html/validation-html-news-article-one.png">
+<img width="600px" src="docs/validation/html/validation-html-news-article-two.png">
+<img width="600px" src="docs/validation/html/validation-html-news-article-three.png">
+<img width="600px" src="docs/validation/html/validation-html-news-article-four.png">
+<img width="600px" src="docs/validation/html/validation-html-news-article-five.png">
+<img width="600px" src="docs/validation/html/validation-html-news-article-six.png">
+<img width="600px" src="docs/validation/html/validation-html-news-article-seven.png">
 </details>
 <details><summary>Contact</summary>
-<img src="docs/validation/validation-html-contact.jpg">
+<img src="docs/validation/html/validation-html-contact.png">
+</details>
+<details><summary>404</summary>
+<img src="docs/validation/html/validation-html-404.png">
+</details>
+<details><summary>Message Sent</summary>
+<img src="docs/validation/html/validation-html-messagesent.png">
 </details>
