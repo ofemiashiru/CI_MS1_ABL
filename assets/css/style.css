@@ -226,37 +226,6 @@ input[type=password]:hover,
     margin: 0 auto;
 }
 
-.btn-apple{
-    border: 1px solid #0d0d0d;
-    font-size: 1.3rem;
-}
-
-.btn-apple:hover{
-    border: 1px solid #FAFAFA;
-}
-
-.btn-apple:active{
-    background-color:#EF2D56;
-}
-
-.btn-android{
-    border: 1px solid #0d0d0d;
-    font-size: 1.3rem;
-    color: #FAFAFA;
-    background-color: #0d0d0d;
-}
-
-.btn-android:hover{
-    color: #0d0d0d;
-    background-color:#FAFAFA;
-    border: 1px solid #FAFAFA;
-}
-
-.btn-android:active{
-    background-color:#EF2D56;
-    border: 1px solid rgba(250, 250, 250, 0.1);
-}
-
 /* Featured Section */
 
 /* Song Squares */
@@ -1234,7 +1203,7 @@ input[type=range]::-webkit-slider-thumb:active{
         margin-bottom: 70px;
     }
 
-    .btn-apple{
+    .btn-download{
         font-size: .9rem;
     }
     
@@ -1310,7 +1279,7 @@ input[type=range]::-webkit-slider-thumb:active{
         display: none;
     }
 
-    .btn-apple, .btn-android{
+    .btn-download{
         margin: 5px;
     }
 
