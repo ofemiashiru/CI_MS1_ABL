@@ -644,6 +644,10 @@ input[type=range]::-webkit-slider-thumb:active{
     opacity: initial;
 }
 
+#user-options legend{
+    font-size: 100%;
+}
+
 .user-type label{
     vertical-align: text-bottom;
     
