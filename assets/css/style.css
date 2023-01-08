@@ -326,7 +326,7 @@ input[type=password]:hover,
     margin: auto 0;
 }
 
-.update-text h1 {
+.update-text h2 {
     font-size: 450%;
 
     transition: 0.4s;
