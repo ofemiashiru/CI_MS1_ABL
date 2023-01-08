@@ -1049,13 +1049,14 @@ input[type=range]::-webkit-slider-thumb:active{
 
 .map-location iframe{
     width: 100%;
-    height: 355px;
+    height: 335px;
     border-width: 0;
 }
 
 .map-location .map-heading{
     letter-spacing: 5px;
     font-weight: 900;
+    font-size: 120%;
 }
 
 
