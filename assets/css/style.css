@@ -1008,7 +1008,7 @@ input[type=range]::-webkit-slider-thumb:active{
 }
 
 .article-full .article-body{
-    text-align: justify;
+    text-align: left;
     width: 50%;
     margin: 30px auto;
 }
