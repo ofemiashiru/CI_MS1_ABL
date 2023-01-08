@@ -159,7 +159,7 @@ The website consists of 6 main pages:
 <img src="docs/wireframes/artists.png" alt="artists wireframe">
 </details>
 <details><summary>Genre</summary>
-- After meeting with Mentor during meeting two it was suggested that this design change as it was deemed too similar to the artists page. Hence the finished product adopts a different structure to the initial wireframe.
+- After meeting with Mentor during mid-point project review, it was suggested that this design change as it was deemed too similar to the artists page. Hence the finished product adopts a different structure to the initial wireframe.
 <img src="docs/wireframes/genre.png" alt="genre wireframe"> 
 </details>
 <details><summary>Events</summary>
