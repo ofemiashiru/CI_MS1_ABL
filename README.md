@@ -424,7 +424,7 @@ Your browser does not support the video tag.
 
 <details><summary>Tablet</summary>
 <video controls>
-<source src="docs/responsiveness/responsiveness-desktop.mp4" type="video/mp4">
+<source src="docs/responsiveness/responsiveness-tablet.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
 
