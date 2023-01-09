@@ -491,6 +491,15 @@ The website was tested on the following browsers:
 
 
 8. I want to see all the latest events and be able to visit their corresponding pages
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Events Page| Click on each event| Each event should open new tab with corresponding event | Works as expected |
+
+<details><summary>Screenshots</summary>
+<img src="docs/user-story-testing/user-story-8.png">
+</details>
+
 9. I want to see the latest featured albums and artists
 10. I want to be able to contact AfrobeatsLib
 11. I want to interact with AfrobeatsLib on their social media platform
