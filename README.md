@@ -703,3 +703,6 @@ You can clone the repository by:
 5. Change the current working directory to where you wish to clone the directory
 6. Type ```git clone``` and paste in the URL from the clipboard e.g ```$ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY)```
 7. Press Enter to create your local clone in your chosen folder.
+
+## Credits
+Images not referenced below are owned by the Developer.
