@@ -892,3 +892,35 @@ All news articles used on news.html and each article page sourced from [Newsnow.
 - [Article Seven](assets/images/news/article-seven-image.webp) taken from [Ghanamusic.com](https://www.ghanamusic.com/news/top-stories/2022/12/19/a-sneak-peak-into-confirmed-artistes-how-your-next-door-neighbour-is-prepping-up-for-afronation-ghana/)
 
 ### Code
+
+- [Navbar with toggle and search bar](https://getbootstrap.com/docs/4.5/components/navbar/) taken from Bootstrap 4.5
+
+- [Modals](https://getbootstrap.com/docs/4.5/components/modal/) taken from Bootstrap 4.5
+
+- [Cards](https://getbootstrap.com/docs/4.5/components/card/) taken from Bootstrap 4.5
+
+- [Form compopnents](https://getbootstrap.com/docs/4.5/components/forms/) taken from Bootstrap 4.5
+
+- Used [Developer.mozilla.org](https://developer.mozilla.org/en-US/docs/Web/CSS/transform-function/rotate) to help rotate volume input on music player
+
+- Used [Nikitahl.com](https://nikitahl.com/style-range-input-css) to help style range input types
+
+- Used [w3schools.com](https://www.w3schools.com/css/css3_object-fit.asp) to fit news images on news.html
+
+- Used [oodlestechnologies.com](https://www.oodlestechnologies.com/blogs/how-to-swap-two-elements-using-css/) to help reposition .article-box-header to the top of news image on smaller screens for news.html
+
+- Used [w3schools.com](https://www.w3schools.com/cssref/sel_before.php) and [w3schools.com](https://www.w3schools.com/cssref/sel_after.php) for greater understand of the before and after psuedo classes
+
+- Used [Stackoverflow](https://stackoverflow.com/questions/20782368/use-font-awesome-icon-as-css-content) to use Font Awesome Icon as CSS content
+
+- Used [Smashingmagazine.com](https://www.smashingmagazine.com/2013/08/absolute-horizontal-vertical-centering-css/) to help center absolute elements vertically and horizontally
+
+- Used [w3schools.com](https://www.w3schools.com/howto/howto_css_blurred_background.asp) to use filter and blur backgrounds
+
+- Used [Davidmacd.com](https://www.davidmacd.com/blog/alternate-text-for-css-background-images.html) to understand how to add alternate text to background images
+
+- Used [Computerhope.com](https://www.computerhope.com/issues/ch000317.htm) to add a history button to 404.html, messagesent.html and comingsoon.html
+
+- Used [Compart](https://www.compart.com/en/unicode/U+00E1) to add appropriate Unicode for artist L&#225;g&#225;j&#225;
+
+- Used [w3schools.com](https://www.w3schools.com/tags/tag_fieldset.asp) to aid in creating a fieldset and legend for radio buttons
