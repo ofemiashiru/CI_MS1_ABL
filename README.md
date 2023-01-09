@@ -890,3 +890,5 @@ All news articles used on news.html and each article page sourced from [Newsnow.
 - [Article Six](assets/images/news/article-six-image.webp) taken from [Crackmagazine.net](https://crackmagazine.net/2022/12/burna-boy-releases-new-video-for-whiskey/)
 
 - [Article Seven](assets/images/news/article-seven-image.webp) taken from [Ghanamusic.com](https://www.ghanamusic.com/news/top-stories/2022/12/19/a-sneak-peak-into-confirmed-artistes-how-your-next-door-neighbour-is-prepping-up-for-afronation-ghana/)
+
+### Code
