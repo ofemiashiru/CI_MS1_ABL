@@ -878,9 +878,15 @@ The following images were used for events.html:
 All news articles used on news.html and each article page sourced from [Newsnow.co.uk](https://www.newsnow.co.uk/h/Entertainment+&+Arts/Music/Afrobeats) with each coming from:
 
 - [Article One](assets/images/news/article-one-image.webp) taken from [Bellanaija.com](https://www.bellanaija.com/2022/12/new-music-kelly-bran-ft-young-eno/)
+
 - [Article Two](assets/images/news/article-two-image.webp) taken from [Bellanaija.com](https://www.bellanaija.com/2022/12/barack-obama-favorite-music-of-2022/)
+
 - [Article Three](assets/images/news/article-three-image.webp) taken from [Soundcity](https://soundcity.tv/lover-boy-emo-grae-drops-new-single-freaky-ft-naira-marley/)
+
 - [Article Four](assets/images/news/article-four-image.webp) taken from [Bellanaija.com](https://www.bellanaija.com/2022/12/oxlade-camila-cabello-kulosa-remix/)
+
 - [Article Five](assets/images/news/article-five-image.webp) taken from [Ghanamusic.com](https://www.ghanamusic.com/news/top-stories/2022/12/09/vibe-with-sofie-sister-deborahs-new-afrobeat-single-we-dey/)
+
 - [Article Six](assets/images/news/article-six-image.webp) taken from [Crackmagazine.net](https://crackmagazine.net/2022/12/burna-boy-releases-new-video-for-whiskey/)
+
 - [Article Seven](assets/images/news/article-seven-image.webp) taken from [Ghanamusic.com](https://www.ghanamusic.com/news/top-stories/2022/12/19/a-sneak-peak-into-confirmed-artistes-how-your-next-door-neighbour-is-prepping-up-for-afronation-ghana/)
