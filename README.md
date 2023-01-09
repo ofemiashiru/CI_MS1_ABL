@@ -524,6 +524,15 @@ The website was tested on the following browsers:
 </details>
 
 11. I want to interact with AfrobeatsLib on their social media platform
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Stay Connected section on all pages/Footer| Click on social media links| Social media links should open new tabs with relevant link | Works as expected |
+
+<details><summary>Screenshots</summary>
+<img src="docs/user-story-testing/user-story-11.png">
+</details>
+
 12. I want to leave a comment on the news articles
 13. I want users to be able to find and listen to their favourite Afrobeats artists
 14. I want users to be able to be kept up to date with latest events and news
