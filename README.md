@@ -415,24 +415,15 @@ The website was tested on the following browsers:
 ### Responsiveness
 
 <details><summary>Mobile</summary>
-<video controls>
-<source src="docs/responsiveness/responsiveness-mobile.mp4" type="video/mp4">
-Your browser does not support the video tag.
-</video>
+
 </details>
 
 <details><summary>Tablet</summary>
-<video controls>
-<source src="docs/responsiveness/responsiveness-tablet.mp4" type="video/mp4">
-Your browser does not support the video tag.
-</video>
+
 </details>
 
 <details><summary>Desktop</summary>
-<video controls>
-<source src="docs/responsiveness/responsiveness-desktop.mp4" type="video/mp4">
-Your browser does not support the video tag.
-</video>
+
 </details>
 
 
