@@ -463,13 +463,22 @@ The website was tested on the following browsers:
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
-| Hero Section | Click on App store and Google Play link | Links should open new tab with relevant store | Works as expected |
+| Hero Section | Click on App store and Google Play buttons | Buttons should open new tab with relevant store | Works as expected |
 
 <details><summary>Screenshots</summary>
 <img src="docs/user-story-testing/user-story-5.png">
 </details>
 
 6. I want to be able to sign up to AfrobeatsLib
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Navigation Bar | Click on Login or Register buttons| Buttons should open up modals for Login and Register | Works as expected |
+
+<details><summary>Screenshots</summary>
+<img src="docs/user-story-testing/user-story-6.png">
+</details>
+
 7. I want to sign up to AfrobeatsLib Mailing list
 8. I want to see all the latest events and be able to visit their corresponding pages
 9. I want to see the latest featured albums and artists
