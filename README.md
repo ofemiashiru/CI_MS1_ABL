@@ -408,4 +408,5 @@ The website was tested on the following devices:
 The website was tested on the following browsers:
 - Google Chrome
 - Safari
-- 
+- Mozilla Firefox
+- Microsoft Edge
