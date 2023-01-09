@@ -794,68 +794,45 @@ The following images were used for artists.html and genre.html:
 - [Korede Bello](assets/images/artists/korede-bello.webp) taken from [Trendybeatz.com](https://trendybeatz.com/music-news/449/%E2%80%9Cmoney-and-fame-is-not-the-answer-to-everything%E2%80%9D-%E2%80%93-korede-bello)
 
 
-Ladipoe
-https://pitchfork.com/news/listen-to-ladipoes-new-ep-featuring-amaarae-rema-and-fireboy-dml/
+- [Ladipoe](assets/images/artists/ladipoe.webp) taken from [Pitchfork](https://pitchfork.com/news/listen-to-ladipoes-new-ep-featuring-amaarae-rema-and-fireboy-dml/)
 
-Ladysmith Black Mambazo
-https://tolitasmusings.blogspot.com/2011/05/live-review-ladysmith-black-mambazo.html
+- [Ladysmith Black Mambazo](assets/images/artists/ladysmith-b-mambazo.webp) taken from [Tolitasmusings.blogspot.com](https://tolitasmusings.blogspot.com/2011/05/live-review-ladysmith-black-mambazo.html)
 
+- [Lágbájá](assets/images/artists/lagbaja.webp) taken from [Greedyforbestmusic.com](https://www.greedyforbestmusic.com/journal/friends/lagbaja/)
 
-Lágbájá
-https://www.greedyforbestmusic.com/journal/friends/lagbaja/
+- [Magic System](assets/images/artists/magic-system.webp) taken from [Mla-agency.com](https://mla-agency.com/wp-content/uploads/2022/07/magic-system.jpeg)
 
-Magic System
-https://mla-agency.com/wp-content/uploads/2022/07/magic-system.jpeg
+- [Magixx](assets/images/artists/magixx.webp) taken from [Mixmag.net](https://mixmag.net/feature/get-to-know-magixx-interview-nigeria-lagos-afrobeat-afropop)
 
-Magixx
-https://mixmag.net/feature/get-to-know-magixx-interview-nigeria-lagos-afrobeat-afropop
+- [Major League DJz](assets/images/artists/majorleaguedjz.webp) taken from [Grmdaily.com](https://grmdaily.com/major-league-djz-brixton-o2-show-review/)
 
-Major League DJz
-https://grmdaily.com/major-league-djz-brixton-o2-show-review/
+- [M.I](assets/images/artists/M-I.webp) taken from [Thepitldn.com](https://www.thepitldn.com/pitnews/artist-spotlight-m-i-abanga)
 
-M.I
-https://www.thepitldn.com/pitnews/artist-spotlight-m-i-abanga
+- [Mr Eazi](assets/images/artists/mr-eazi.webp) taken from [Justnaija.com](https://justnaija.com/music/artistes/mr-eazi/)
 
-Mr Eazi
-https://justnaija.com/music/artistes/mr-eazi/
+-[Naira Marley](assets/images/artists/naira-marley.webp) taken from [Theguardian.com](https://www.theguardian.com/music/2020/apr/08/rapper-naira-marley-ibig-bum-qualifications-nigeria-marlians)
 
-Naira Marley
-https://www.theguardian.com/music/2020/apr/08/rapper-naira-marley-ibig-bum-qualifications-nigeria-marlians
+- [Niniola](assets/images/artists/niniola.webp) taken from [Wikipedia.org](https://en.wikipedia.org/wiki/Niniola)
 
-Niniola
-https://en.wikipedia.org/wiki/Niniola
+- [Nneka](assets/images/artists/nneka.webp) taken from [Theguardian.com](https://www.theguardian.com/music/2022/feb/13/nneka-love-supreme-sweet-sharp-and-serene)
 
-Nneka
-https://www.theguardian.com/music/2022/feb/13/nneka-love-supreme-sweet-sharp-and-serene
+- [Olamide](assets/images/artists/olamide.webp) taken from [Pulse.ng](https://www.pulse.ng/entertainment/music/olamide-set-to-release-new-album-uy-scuti/4gqhxek)
 
-Olamide
-https://www.pulse.ng/entertainment/music/olamide-set-to-release-new-album-uy-scuti/4gqhxek
+- [Omah Lay](assets/images/artists/omah-lay.webp) taken from [Earth-agency.com](https://earth-agency.com/artists/omah-lay/omah-lay-1/ )
 
+- [Pheelz](assets/images/artists/pheelz.webp) taken from [Simpleonline.ng](https://digital.simpleonline.ng/pheelz-mr-producer-the-rhythm-is-cool/)
 
-Omah Lay
-https://earth-agency.com/artists/omah-lay/omah-lay-1/ 
+- [Plantashun Boiz](assets/images/artists/plantashun-boiz.webp) taken from [Wuzupnigeria.ng](https://wuzupnigeria.ng/entertainment/video-plantashun-boiz-perform-at-sound-sultans-memorial-as-blackface-2baba-settle-beef)
 
-Pheelz
-https://digital.simpleonline.ng/pheelz-mr-producer-the-rhythm-is-cool/
+- [Rema](assets/images/artists/rema.webp) taken from [Nme.com](https://www.nme.com/blogs/nme-radar/rema-interview-afrorave-calm-down-jealousy-fka-twigs-3178061)
 
-Plantashun Boiz
-https://wuzupnigeria.ng/entertainment/video-plantashun-boiz-perform-at-sound-sultans-memorial-as-blackface-2baba-settle-beef
+- [Ruger](assets/images/artists/ruger.webp) taken from [Lindaikejisblog.com](https://www.lindaikejisblog.com/2022/9/singer-ruger-throws-massive-shade-as-he-announces-his-arrival-in-tanzania.html)
 
+- [Sade](assets/images/artists/sade.webp) taken from [Thefader](https://www.thefader.com/2015/01/16/sade-lovers-rock-cover-story-interview)
 
-Rema
-https://www.nme.com/blogs/nme-radar/rema-interview-afrorave-calm-down-jealousy-fka-twigs-3178061
+- [Seun Kuti](assets/images/artists/seun-kuti.webp) taken from [Theguardian.com](https://www.theguardian.com/world/2021/jan/19/system-rigged-seun-kuti-reviving-fela-political-party-nigeria)
 
-Ruger
-https://www.lindaikejisblog.com/2022/9/singer-ruger-throws-massive-shade-as-he-announces-his-arrival-in-tanzania.html
-
-Sade
-https://www.thefader.com/2015/01/16/sade-lovers-rock-cover-story-interview
-
-Seun Kuti
-https://www.theguardian.com/world/2021/jan/19/system-rigged-seun-kuti-reviving-fela-political-party-nigeria
-
-Seyi Sodimu
-https://www.brandiconimage.com/2012/12/seyi-sodimu-gives-wife-n10m-gl-450-benz.html
+- [Seyi Sodimu](assets/images/artists/seyi-sodimu.webp) taken from [Brandiconimage.com](https://www.brandiconimage.com/2012/12/seyi-sodimu-gives-wife-n10m-gl-450-benz.html)
 
 
 Tems
