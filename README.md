@@ -403,6 +403,7 @@ Google Lighthouse Tool was used to test the performance of the website.
 The website was tested on the following devices:
 - Apple Macbook Pro M1
 - Apple iPhone 11
+- Xiaomi Mi 11 Lite
 
 ### Browser compatability
 The website was tested on the following browsers:
