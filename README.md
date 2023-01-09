@@ -448,6 +448,17 @@ The website was tested on the following browsers:
 </details>
 
 4. I want to see the latest news
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| News Page | Navigate to News page and click article | Page opens and shows all news, each article navigates to relevant article | Works as expected |
+
+<details><summary>Screenshots</summary>
+<img src="docs/user-story-testing/user-story-4p1-14.png">
+<img src="docs/user-story-testing/user-story-4p2-14.png">
+</details>
+
+
 5. I want to be able to download the AfrobeatsLib app from the App store or Google Play store
 6. I want to be able to sign up to AfrobeatsLib
 7. I want to sign up to AfrobeatsLib Mailing list
