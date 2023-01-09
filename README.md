@@ -507,7 +507,9 @@ The website was tested on the following browsers:
 | Home Page and Artists Page| Click on page link to reveal featured albums and artists at top of page| Featured albums and artists should appear and be able to be clicked to navigate to corresponding album/artist | Works as expected |
 
 <details><summary>Screenshots</summary>
+<p>Featured Albums</p>
 <img src="docs/user-story-testing/user-story-9p1.png">
+<p>Featured Artists</p>
 <img src="docs/user-story-testing/user-story-9p2.png">
 </details>
 
