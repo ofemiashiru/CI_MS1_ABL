@@ -33,6 +33,7 @@
     5. [Device testing](#performing-tests-on-various-devices)
     6. [Browser compatibility](#browser-compatability)
     7. [Testing user stories](#testing-user-stories)
+    8. [Responsiveness](#responsiveness)
 8. [Bugs](#Bugs)
 9. [Deployment](#deployment)
 10. [Credits](#credits)
@@ -617,3 +618,18 @@ The website was tested on the following browsers:
 <details><summary>Screenshots</summary>
 <img src="docs/user-story-testing/user-story-18.png">
 </details>
+
+### Responsiveness
+
+
+
+## Bugs
+| **Bug** | **Fix** | 
+|-------------|------------|
+| 4 contrast errors when testing on WAVE webaim Highlighting the social links spans as the issue on all pages <br> ```<span class="sr-only">Facebook</span>``` <br> ```<span class="sr-only">Twitter</span>``` <br> ```<span class="sr-only">YouTube</span>``` <br> ```<span class="sr-only">Instagram</span>```| Removed each span and placed aria-label attributes within each parent anchor tag <br> ```<a href="https://www.facebook.com" target="_blank" aria-label="Facebook"><i class="fab fa-facebook-square"></i></a>```| 
+| Alerts on WAVE webaim highlighting the use of YouTube Links in featured albums section on index.html| Used TinyUrl to shorten links and update links on feature albums section| 
+| Alerts on WAVE webaim highlighting the skipping of headings on index.html| Changed headings from h5 to h1 on modals | 
+| Alerts on WAVE webaim highlighting missing fieldset around checkboxes or radio buttons on modals| Added fieldset and legend to the register modals around the radio buttons| 
+| Alerts on WAVE webaim highlighting the use of long alternative text on news.html| Shortened the alt text on news.html images| 
+| 1 contrast error when testing on WAVE webaim Highlighting the author and date as the issue| Changed the colour of the published-by class to a darker shade of grey|
+| Alerts on WAVE webaim highlighting the use of justified text| Changed body of each article to align left| 
