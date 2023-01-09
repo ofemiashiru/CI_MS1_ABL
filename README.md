@@ -759,26 +759,17 @@ The following images were used for artists.html and genre.html:
 
 - [Don jazzy](assets/images/artists/don-jazzy.webp) taken from [Twitter.com](https://twitter.com/mobilepunch/status/1596564069389156359)
 
+- [Ebenezer Obey](assets/images/artists/ebenezer-obey.webp) taken from [Leon Morris/Redferns](http://t1.gstatic.com/licensed-image?q=tbn:ANd9GcRLbOKGManzKI2mM5GdISJB8iW6-cfrF7PdWGvvlOs6sQAac09HgpSXKpD9-aCu4Ef-4O5N0xpn7oAeGcw)
 
-Ebenezer Obey
-http://t1.gstatic.com/licensed-image?q=tbn:ANd9GcRLbOKGManzKI2mM5GdISJB8iW6-cfrF7PdWGvvlOs6sQAac09HgpSXKpD9-aCu4Ef-4O5N0xpn7oAeGcw
+- [Fela Kuti](assets/images/artists/fela-kuti.webp) taken from [Bbc.co.uk](https://www.bbc.co.uk/programmes/articles/4K2RG0drxmnrvZl17YqFGjk/the-global-legacy-of-fela-kuti-s-defiant-dance-music)
 
+- [Femi Kuti](assets/images/artists/femi-kuti.webp) taken from [Theworld.org](https://theworld.org/stories/2021-04-12/femi-kuti-and-made-kuti-continue-afrobeat-legacy-two-part-album)
 
-Fela Kuti
-https://www.bbc.co.uk/programmes/articles/4K2RG0drxmnrvZl17YqFGjk/the-global-legacy-of-fela-kuti-s-defiant-dance-music
+- [Fireboy DML](assets/images/artists/fireboy-dml.webp) taken from [Pitchfork.com](https://pitchfork.com/news/listen-to-fireboy-dml-new-song-bandana/)
 
-Femi Kuti
-https://theworld.org/stories/2021-04-12/femi-kuti-and-made-kuti-continue-afrobeat-legacy-two-part-album
+- [Fuse ODG](assets/images/artists/fuse-odg.webp) taken from [Theguardian.com](https://www.theguardian.com/music/2019/mar/07/afrobeats-star-fuse-odg-i-love-myself-now-africa-has-done-that-for-me)
 
-Fireboy DML
-https://pitchfork.com/news/listen-to-fireboy-dml-new-song-bandana/
-
-Fuse ODG
-https://www.theguardian.com/music/2019/mar/07/afrobeats-star-fuse-odg-i-love-myself-now-africa-has-done-that-for-me
-
-
-Genevieve Nnaji
-https://www.selahafrik.com/2022/03/genevieve-nnaji-mental-health/
+- [Genevieve Nnaji](assets/images/artists/genevieve-nnaji.webp) taken from [Selahafrik.com](https://www.selahafrik.com/2022/03/genevieve-nnaji-mental-health/)
  
 Gyakie
 https://www.unorthodoxreviews.com/next-up-gyakie/
