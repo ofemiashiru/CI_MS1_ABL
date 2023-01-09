@@ -810,7 +810,7 @@ The following images were used for artists.html and genre.html:
 
 - [Mr Eazi](assets/images/artists/mr-eazi.webp) taken from [Justnaija.com](https://justnaija.com/music/artistes/mr-eazi/)
 
--[Naira Marley](assets/images/artists/naira-marley.webp) taken from [Theguardian.com](https://www.theguardian.com/music/2020/apr/08/rapper-naira-marley-ibig-bum-qualifications-nigeria-marlians)
+- [Naira Marley](assets/images/artists/naira-marley.webp) taken from [Theguardian.com](https://www.theguardian.com/music/2020/apr/08/rapper-naira-marley-ibig-bum-qualifications-nigeria-marlians)
 
 - [Niniola](assets/images/artists/niniola.webp) taken from [Wikipedia.org](https://en.wikipedia.org/wiki/Niniola)
 
@@ -834,35 +834,20 @@ The following images were used for artists.html and genre.html:
 
 - [Seyi Sodimu](assets/images/artists/seyi-sodimu.webp) taken from [Brandiconimage.com](https://www.brandiconimage.com/2012/12/seyi-sodimu-gives-wife-n10m-gl-450-benz.html)
 
+- [Tems](assets/images/artists/tems.webp) taken from [Rca-records.co.uk](https://www.rca-records.co.uk/artists/tems)
 
-Tems
-https://www.rca-records.co.uk/artists/tems
+- [Tiwa Savage](assets/images/artists/tiwa-savage.webp) taken from [Dailypost.ng](https://dailypost.ng/2016/04/28/tiwa-savage-slept-2face-don-jazzy-others-teebillz-reveals-instagram/)
 
-Tiwa Savage
-https://dailypost.ng/2016/04/28/tiwa-savage-slept-2face-don-jazzy-others-teebillz-reveals-instagram/
-https://dailypost.ng/wp-content/uploads/2015/12/Tiwa-Savage-1200x1200.png
+- [Tony Tetuila](assets/images/artists/tony-tetuila.webp) taken from [Bellanaija.com](https://www.bellanaija.com/2018/08/tony-tetuila-loses-mom-%F0%9F%92%94/)
 
-Tony Tetuila
-https://www.bellanaija.com/2018/08/tony-tetuila-loses-mom-%F0%9F%92%94/
+- [Victony](assets/images/artists/victony.webp) taken from [Livenation.co.uk](https://www.livenation.co.uk/artist-victony-1387695)
 
+- [Wizkid](assets/images/artists/wizkid.webp) taken from [Billboard.com](https://www.billboard.com/music/chart-beat/wizkid-2-sugar-hot-trending-songs-chart-1235175682/)
 
-Victony
-https://www.livenation.co.uk/artist-victony-1387695
+- [Yemi Alade](assets/images/artists/yemi-alade.webp) taken from [Wikipedia.org](https://en.wikipedia.org/wiki/Yemi_Alade)
 
+- [Yinka Ayefele](assets/images/artists/yinka-ayefele.webp) taken from [Newswirengr.com](https://newswirengr.com/2022/10/12/yinka-ayefele-biography-education-career-marriage-net-worth-achievements-and-controversy/)
 
-Wizkid
-https://www.billboard.com/music/chart-beat/wizkid-2-sugar-hot-trending-songs-chart-1235175682/
+- [Zinoleesky](assets/images/artists/zinoleesky.webp) taken from [Scala.co.uk](https://scala.co.uk/events/zinoleesky-live-at-scala/)
 
-Yemi Alade
-https://en.wikipedia.org/wiki/Yemi_Alade
-
-Yinka Ayefele
-https://newswirengr.com/2022/10/12/yinka-ayefele-biography-education-career-marriage-net-worth-achievements-and-controversy/
-
-
-Zinoleesky
-https://scala.co.uk/events/zinoleesky-live-at-scala/
-
-Zlatan
-https://thrillng.com/zlatan-ibile-zlatan-ibiles-biography-age-songs-career-and-net-worth/
-
+- [Zlatan](assets/images/artists/zlatan.webp) taken from [Thrilling.com](https://thrillng.com/zlatan-ibile-zlatan-ibiles-biography-age-songs-career-and-net-worth/)
