@@ -480,6 +480,16 @@ The website was tested on the following browsers:
 </details>
 
 7. I want to sign up to AfrobeatsLib Mailing list
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Stay Connected section on all pages/Footer| Fill in input boxes and click submit| Input boxes submitted only when both are filled in and opens response page | Works as expected |
+
+<details><summary>Screenshots</summary>
+<img src="docs/user-story-testing/user-story-7-17.png">
+</details>
+
+
 8. I want to see all the latest events and be able to visit their corresponding pages
 9. I want to see the latest featured albums and artists
 10. I want to be able to contact AfrobeatsLib
