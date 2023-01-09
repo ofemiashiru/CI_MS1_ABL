@@ -420,12 +420,30 @@ The website was tested on the following browsers:
 | Artists and Genre Page | Navigate to Artists or Genre page and use letter or genre links to locate artist | Page opens and links successfully narrow down location of artist | Works as expected |
 
 <details><summary>Screenshots</summary>
-<img src="docs/user-story-testing/user-story-1-13.png">
-<img src="docs/user-story-testing/user-story-1-13.png">
+<p>Artists</p>
+<img src="docs/user-story-testing/user-story-1-13-artists.jpg">
+<p>Genre</p>
+<img src="docs/user-story-testing/user-story-1-13-genre.jpg">
 </details>
 
 2. I want to know the different subscription prices
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Home Page | Scroll down to the subscriptions section and observe prices | Page scrolls to desired section and prices clearly visible | Works as expected |
+
+<details><summary>Screenshots</summary>
+<img src="docs/user-story-testing/user-story-2.png">
+
+
 3. I want to see the latest events 
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Events Page | Navigate to Events page and hover over desired events revealing info | Page opens and each event reveals info when hovered over | Works as expected |
+
+<details><summary>Screenshots</summary>
+<img src="docs/user-story-testing/user-story-3.png">
+
 4. I want to see the latest news
 5. I want to be able to download the AfrobeatsLib app from the App store or Google Play store
 6. I want to be able to sign up to AfrobeatsLib
