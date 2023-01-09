@@ -318,6 +318,9 @@ All pages pass with no errors and no warnings.
 <details><summary>Message Sent</summary>
 <img src="docs/validation/html/validation-html-messagesent.png">
 </details>
+<details><summary>Coming Soon</summary>
+<img src="docs/validation/html/validation-html-comingsoon.png">
+</details>
 
 ### CSS Validation
 The W3C Jigsaw CSS Validation Service was used to validate the CSS of the website.
