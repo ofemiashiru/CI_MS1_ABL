@@ -30,10 +30,10 @@
     2. [CSS Validation](#CSS-validation)
     3. [Accessibility](#accessibility)
     4. [Performance](#performance)
-    5. [Device testing](#performing-tests-on-various-devices)
-    6. [Browser compatibility](#browser-compatability)
-    7. [Testing user stories](#testing-user-stories)
-    8. [Responsiveness](#responsiveness)
+    5. [Responsiveness](#responsiveness)
+    6. [Device testing](#performing-tests-on-various-devices)
+    7. [Browser compatibility](#browser-compatability)
+    8. [Testing user stories](#testing-user-stories) 
 8. [Bugs](#Bugs)
 9. [Deployment](#deployment)
 10. [Credits](#credits)
@@ -412,6 +412,32 @@ The website was tested on the following browsers:
 - Mozilla Firefox
 - Microsoft Edge
 
+### Responsiveness
+
+<details><summary>Mobile</summary>
+<video controls>
+  <source src="docs/responsiveness/responsiveness-mobile.mov" type="video/mp4">
+  <source src="movie.ogg" type="video/ogg">
+Your browser does not support the video tag.
+</video>
+</details>
+
+<details><summary>Tablet</summary>
+<video width="420" controls>
+  <source src="movie.mp4" type="video/mp4">
+  <source src="movie.ogg" type="video/ogg">
+Your browser does not support the video tag.
+</video>
+</details>
+
+<details><summary>Desktop</summary>
+<video width="420" controls>
+  <source src="movie.mp4" type="video/mp4">
+  <source src="movie.ogg" type="video/ogg">
+Your browser does not support the video tag.
+</video>
+</details>
+
 ### Testing user stories
 
 1. I want to locate favourite artists by letter or genre
@@ -618,58 +644,6 @@ The website was tested on the following browsers:
 <img src="docs/user-story-testing/user-story-18.png">
 </details>
 
-### Responsiveness
-
-<details><summary>Home</summary>
-<video width="420" controls>
-  <source src="movie.mp4" type="video/mp4">
-  <source src="movie.ogg" type="video/ogg">
-Your browser does not support the video tag.
-</video>
-</details>
-
-<details><summary>Artists</summary>
-<video width="420" controls>
-  <source src="movie.mp4" type="video/mp4">
-  <source src="movie.ogg" type="video/ogg">
-Your browser does not support the video tag.
-</video>
-</details>
-<details><summary>Genre</summary>
-<video width="420" controls>
-  <source src="movie.mp4" type="video/mp4">
-  <source src="movie.ogg" type="video/ogg">
-Your browser does not support the video tag.
-</video>
-</details>
-<details><summary>Events</summary>
-<video width="420" controls>
-  <source src="movie.mp4" type="video/mp4">
-  <source src="movie.ogg" type="video/ogg">
-Your browser does not support the video tag.
-</video>
-</details>
-<details><summary>News</summary>
-<video width="420" controls>
-  <source src="movie.mp4" type="video/mp4">
-  <source src="movie.ogg" type="video/ogg">
-Your browser does not support the video tag.
-</video>
-</details>
-<details><summary>News - Each Article</summary>
-<video width="420" controls>
-  <source src="movie.mp4" type="video/mp4">
-  <source src="movie.ogg" type="video/ogg">
-Your browser does not support the video tag.
-</video>
-</details>
-<details><summary>Contact</summary>
-<video width="420" controls>
-  <source src="movie.mp4" type="video/mp4">
-  <source src="movie.ogg" type="video/ogg">
-Your browser does not support the video tag.
-</video>
-</details>
 
 
 ## Bugs
