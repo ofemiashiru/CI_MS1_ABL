@@ -563,7 +563,7 @@ input[type=password]:hover,
 }
 
 .play-bar-container .play-bar{
-    -webkit-appearance: none;
+    appearance: none;
     width: 50%;
     height: 5px;
     cursor: pointer;
@@ -608,7 +608,8 @@ input[type=range]::-webkit-slider-thumb:active{
     position: absolute;
     top: -15px;
     right: 47px;
-    color: #FAFAFA
+    color: #FAFAFA;
+    display: none;
 }
 
 .volume-bar{
