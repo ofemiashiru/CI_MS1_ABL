@@ -924,3 +924,10 @@ All news articles used on news.html and each article page sourced from [Newsnow.
 - Used [Compart](https://www.compart.com/en/unicode/U+00E1) to add appropriate Unicode for artist L&#225;g&#225;j&#225;
 
 - Used [w3schools.com](https://www.w3schools.com/tags/tag_fieldset.asp) to aid in creating a fieldset and legend for radio buttons
+
+## Acknowledgements
+
+I would like to take the opportunity to thank:
+- Mo Shami
+- Iris Smok
+- and the Teaching and Non-teaching Personnel at Code Insitute
