@@ -424,7 +424,7 @@ The website was tested on the following browsers:
 <p>Artists</p>
 <img src="docs/user-story-testing/user-story-1-13-artists.png">
 <p>Genre</p>
-<img src="docs/user-story-testing/user-story-1-13-genre.jpg">
+<img src="docs/user-story-testing/user-story-1-13-genre.png">
 </details>
 
 2. I want to know the different subscription prices
