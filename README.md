@@ -415,7 +415,7 @@ The website was tested on the following browsers:
 ### Responsiveness
 
 <details><summary>Mobile</summary>
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/F_STsHg6YBw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </details>
 
 <details><summary>Tablet</summary>
