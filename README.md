@@ -706,3 +706,7 @@ You can clone the repository by:
 
 ## Credits
 Images not referenced below are owned by the Developer.
+
+### Media
+
+[Hero image](assets/images/pexels-yan-krukov-9008836.webp) taken from [Pexels.com](https://www.pexels.com/photo/a-man-between-women-singing-and-dancing-on-the-stage-9008836/)
