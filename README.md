@@ -416,27 +416,25 @@ The website was tested on the following browsers:
 
 <details><summary>Mobile</summary>
 <video controls>
-  <source src="docs/responsiveness/responsiveness-mobile.mov" type="video/mp4">
-  <source src="movie.ogg" type="video/ogg">
+<source src="docs/responsiveness/responsiveness-mobile.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
 </details>
 
 <details><summary>Tablet</summary>
-<video width="420" controls>
-  <source src="movie.mp4" type="video/mp4">
-  <source src="movie.ogg" type="video/ogg">
+<video controls>
+<source src="docs/responsiveness/responsiveness-tablet.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
 </details>
 
 <details><summary>Desktop</summary>
-<video width="420" controls>
-  <source src="movie.mp4" type="video/mp4">
-  <source src="movie.ogg" type="video/ogg">
+<video controls>
+<source src="docs/responsiveness/responsiveness-desktop.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
 </details>
+
 
 ### Testing user stories
 
