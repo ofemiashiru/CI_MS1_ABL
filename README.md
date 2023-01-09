@@ -620,6 +620,56 @@ The website was tested on the following browsers:
 
 ### Responsiveness
 
+<details><summary>Home</summary>
+<video width="420" controls>
+  <source src="movie.mp4" type="video/mp4">
+  <source src="movie.ogg" type="video/ogg">
+Your browser does not support the video tag.
+</video>
+</details>
+
+<details><summary>Artists</summary>
+<video width="420" controls>
+  <source src="movie.mp4" type="video/mp4">
+  <source src="movie.ogg" type="video/ogg">
+Your browser does not support the video tag.
+</video>
+</details>
+<details><summary>Genre</summary>
+<video width="420" controls>
+  <source src="movie.mp4" type="video/mp4">
+  <source src="movie.ogg" type="video/ogg">
+Your browser does not support the video tag.
+</video>
+</details>
+<details><summary>Events</summary>
+<video width="420" controls>
+  <source src="movie.mp4" type="video/mp4">
+  <source src="movie.ogg" type="video/ogg">
+Your browser does not support the video tag.
+</video>
+</details>
+<details><summary>News</summary>
+<video width="420" controls>
+  <source src="movie.mp4" type="video/mp4">
+  <source src="movie.ogg" type="video/ogg">
+Your browser does not support the video tag.
+</video>
+</details>
+<details><summary>News - Each Article</summary>
+<video width="420" controls>
+  <source src="movie.mp4" type="video/mp4">
+  <source src="movie.ogg" type="video/ogg">
+Your browser does not support the video tag.
+</video>
+</details>
+<details><summary>Contact</summary>
+<video width="420" controls>
+  <source src="movie.mp4" type="video/mp4">
+  <source src="movie.ogg" type="video/ogg">
+Your browser does not support the video tag.
+</video>
+</details>
 
 
 ## Bugs
@@ -634,3 +684,22 @@ The website was tested on the following browsers:
 | Alerts on WAVE webaim highlighting the use of justified text| Changed body of each article to align left| 
 
 ## Deployment
+
+Deployed using GitHub Pages using the following steps:
+1. Whilst in GitHub repository navigate to the Settings tab
+2. On the left hand menu select Pages
+3. Scroll to "Branch" tap none to show the different options and select "main"
+4. Click save and the site will be published. You will see "Your site is live at https://ofemiashiru.github.io/CI_MS1_ABL/"
+
+You can also fork the repository by:
+1. Navigating to the GitHub repository
+2. Click on "Fork" button in top right hand corner (Please note you must be signed in to Fork a repository)
+
+You can clone the repository by:
+1. Navigating to GitHub repository 
+2. Locate the "Code" button above the file list and click it 
+3. Select if you prefer to clone using HTTPS, SSH, or Github CLI and click the copy button to copy the URL to your clipboard
+4. Open Git Bash
+5. Change the current working directory to where you wish to clone the directory
+6. Type ```git clone``` and paste in the URL from the clipboard e.g ```$ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY)```
+7. Press Enter to create your local clone in your chosen folder.
