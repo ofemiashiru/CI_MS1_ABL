@@ -771,39 +771,28 @@ The following images were used for artists.html and genre.html:
 
 - [Genevieve Nnaji](assets/images/artists/genevieve-nnaji.webp) taken from [Selahafrik.com](https://www.selahafrik.com/2022/03/genevieve-nnaji-mental-health/)
  
-Gyakie
-https://www.unorthodoxreviews.com/next-up-gyakie/
+- [Gyakie](assets/images/artists/gyakie.webp) taken from [Unorthodoxreviews.com](https://www.unorthodoxreviews.com/next-up-gyakie/)
 
-Harrysong
-https://www.plugged.co.ke/nigerian-star-harrysong-teams-up-with-fireboy-dml-and-olamide-releasing-she-knows/
+- [Harrysong](assets/images/artists/harrysong.webp) taken from [Plugged.co.ke](https://www.plugged.co.ke/nigerian-star-harrysong-teams-up-with-fireboy-dml-and-olamide-releasing-she-knows/)
 
-Humblesmith
-https://www.starzone.com.ng/wp-content/uploads/2022/01/FB_IMG_16406099148407597.jpg
+- [Humblesmith](assets/images/artists/humblesmith.webp) taken from [Starzone.com.ng](https://www.starzone.com.ng/wp-content/uploads/2022/01/FB_IMG_16406099148407597.jpg)
 
-Ice Prince
-https://nataal.com/ice-prince
+- [Ice Prince](assets/images/artists/ice-prince.webp) taken from [Nataal.com](https://nataal.com/ice-prince)
 
-Iyanya
-https://audiomack.com/iyanya
+- [Iyanya](assets/images/artists/iyanya.webp) taken from [Audiomack.com](https://audiomack.com/iyanya)
 
-Joeboy
-https://en.wikipedia.org/wiki/Joeboy
+- [Joeboy](assets/images/artists/joeboy.webp) taken from [Wikipedia.org](https://en.wikipedia.org/wiki/Joeboy)
 
+- [K1 De Ultimate](assets/images/artists/k1-de-ultimate.webp) takend from [Wikipedia.org](https://en.wikipedia.org/wiki/K1_De_Ultimate)
 
-K1 De Ultimate
-https://en.wikipedia.org/wiki/K1_De_Ultimate
+- [Kcee](assets/images/artists/kcee.webp) taken from [Audiomack.com](https://audiomack.com/badmankcee)
 
-Kcee
-https://audiomack.com/badmankcee
+- [King Sunny Ade](assets/images/artists/king-sunny-ade.webp) taken from [Dailypost.ng](https://dailypost.ng/2015/04/28/juju-musician-king-sunny-ade-bereaved-loses-manager/)
 
-King Sunny Ade
-https://dailypost.ng/2015/04/28/juju-musician-king-sunny-ade-bereaved-loses-manager/
+- [Kizz Daniel](assets/images/artists/kizz-daniel.webp) taken from [21stcenturychronicle.com](https://21stcenturychronicle.com/kizz-daniel-drops-new-anthem-odo/)
 
-Kizz Daniel
-https://21stcenturychronicle.com/kizz-daniel-drops-new-anthem-odo/
+- [Korede Bello](assets/images/artists/korede-bello.webp) taken from [Trendybeatz.com](https://trendybeatz.com/music-news/449/%E2%80%9Cmoney-and-fame-is-not-the-answer-to-everything%E2%80%9D-%E2%80%93-korede-bello)
 
-Korede Bello
-https://trendybeatz.com/music-news/449/%E2%80%9Cmoney-and-fame-is-not-the-answer-to-everything%E2%80%9D-%E2%80%93-korede-bello
 
 Ladipoe
 https://pitchfork.com/news/listen-to-ladipoes-new-ep-featuring-amaarae-rema-and-fireboy-dml/
