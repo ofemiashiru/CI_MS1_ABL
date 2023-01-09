@@ -851,3 +851,22 @@ The following images were used for artists.html and genre.html:
 - [Zinoleesky](assets/images/artists/zinoleesky.webp) taken from [Scala.co.uk](https://scala.co.uk/events/zinoleesky-live-at-scala/)
 
 - [Zlatan](assets/images/artists/zlatan.webp) taken from [Thrilling.com](https://thrillng.com/zlatan-ibile-zlatan-ibiles-biography-age-songs-career-and-net-worth/)
+
+
+The following images were used for events.html:
+
+- [Love Amapiano & Afrobeats Fridays](assets/images/events/love-amapiano-and-afrobeats-fridays.webp) taken from [Eventbrite.co.uk](https://www.eventbrite.co.uk/e/love-amapiano-afrobeats-fridays-tickets-476994301797)
+
+- [Afro Caribbean New Year's Eve Party](assets/images/events/afro-caribbean-new-years-eve-party.webp) taken from [Fatsoma.com](https://www.fatsoma.com/e/41ooc5yc/afro-caribbean-new-year-s-eve-party-at-98-club)
+
+- [Amapiano Nights](assets/images/events/amapiano-nights.webp) taken from [Eventbrite.co.uk](https://www.eventbrite.co.uk/e/amapiano-nights-vibes-on-vibes-tickets-463993335557)
+
+- [GROWN & SEXY Saturdays](assets/images/events/grown-and-sexy.webp) taken from [Eventbrite.co.uk](https://www.eventbrite.co.uk/e/grown-sexy-saturdays-tickets-482155910307)
+
+- [Luxé Winter - New Years Special](assets/images/events/luxe-winter-new-years-special.webp) taken from [Eventbrite.co.uk](https://www.eventbrite.co.uk/e/luxe-winter-new-years-special-tickets-449600516247)
+
+- [The Afrowales Explosion](assets/images/events/the-afrowales-explosion.webp) taken from [Skiddle.com](https://www.skiddle.com/whats-on/Cardiff/Revolution/The-Afrowales-Explosion/36215389/)
+
+- [Diaspora Nights](assets/images/events/diaspora-nights.webp) taken from [Eventbrite.co.uk](https://www.eventbrite.co.uk/e/diaspora-nights-afrobeats-afrohouse-amapiano-tickets-466855045007)
+
+- [Afrobeats VS Bashment VS Rap](assets/images/events/afrobeats-vs-bashment-vs-rap.webp) taken from [Fatsoma.com](https://www.fatsoma.com/e/dck8bwkp/afrobeats-vs-bashment-vs-rap)
