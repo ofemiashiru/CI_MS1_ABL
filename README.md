@@ -534,6 +534,17 @@ The website was tested on the following browsers:
 </details>
 
 12. I want to leave a comment on the news articles
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| News - Each article Page| Click link to view artcle, scroll down, enter information and click post comment| Input boxes submitted only when all are filled in and opens response page | Works as expected |
+
+<details><summary>Screenshots</summary>
+<img src="docs/user-story-testing/user-story-12p1.png">
+<img src="docs/user-story-testing/user-story-12p2.png">
+</details>
+
+
 13. I want users to be able to find and listen to their favourite Afrobeats artists
 14. I want users to be able to be kept up to date with latest events and news
 15. I want users to be able to contact us
