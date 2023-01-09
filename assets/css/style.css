@@ -817,11 +817,6 @@ input[type=range]::-webkit-slider-thumb:active{
     right:10px;
 }
 
-.top-link-container .btn{
-    border: 2px solid #EF2D56;
-}
-
-
 /* Genre Page */
 
 .genre-container{

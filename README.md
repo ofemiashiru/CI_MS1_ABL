@@ -434,15 +434,17 @@ The website was tested on the following browsers:
 
 <details><summary>Screenshots</summary>
 <img src="docs/user-story-testing/user-story-2.png">
+</details>
 
+3. I want to see the latest events
 
-3. I want to see the latest events 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
 | Events Page | Navigate to Events page and hover over desired events revealing info | Page opens and each event reveals info when hovered over | Works as expected |
 
 <details><summary>Screenshots</summary>
 <img src="docs/user-story-testing/user-story-3.png">
+</details>
 
 4. I want to see the latest news
 5. I want to be able to download the AfrobeatsLib app from the App store or Google Play store
