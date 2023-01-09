@@ -609,3 +609,11 @@ The website was tested on the following browsers:
 </details>
 
 18. I want our site to be prepared to launch our own in house music player 
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Music Player fixed at the bottom on all pages| Check all pages to see if Music player is present| All pages should have the Music Player present but disabled ready for future implementation | Works as expected |
+
+<details><summary>Screenshots</summary>
+<img src="docs/user-story-testing/user-story-18.png">
+</details>
