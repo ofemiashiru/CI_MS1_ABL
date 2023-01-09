@@ -546,9 +546,57 @@ The website was tested on the following browsers:
 
 
 13. I want users to be able to find and listen to their favourite Afrobeats artists
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Artists and Genre Page | Navigate to Artists or Genre page and use letter or genre links to locate artist | Page opens and links successfully narrow down location of artist | Works as expected |
+
+<details><summary>Screenshots</summary>
+<p>Artists</p>
+<img src="docs/user-story-testing/user-story-1-13-artists.png">
+<p>Genre</p>
+<img src="docs/user-story-testing/user-story-1-13-genre.png">
+</details>
+
 14. I want users to be able to be kept up to date with latest events and news
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| News Page | Navigate to News page and click article | Page opens and shows all news, each article navigates to relevant article | Works as expected |
+
+<details><summary>Screenshots</summary>
+<img src="docs/user-story-testing/user-story-4p1-14.png">
+<img src="docs/user-story-testing/user-story-4p2-14.png">
+</details>
+
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Events Page | Navigate to Events page and hover over desired events revealing info | Page opens and each event reveals info when hovered over | Works as expected |
+
+<details><summary>Screenshots</summary>
+<img src="docs/user-story-testing/user-story-3.png">
+</details>
+
 15. I want users to be able to contact us
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Contact Page| Click on contact page link enter information and click send message| Input boxes submitted only when all are filled in and opens response page | Works as expected |
+
+<details><summary>Screenshots</summary>
+<img src="docs/user-story-testing/user-story-10.png">
+</details>
+
 16. I want users to be able to download our app on App store and Google Play store
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Hero Section | Click on App store and Google Play buttons | Buttons should open new tab with relevant store | Works as expected |
+
+<details><summary>Screenshots</summary>
+<img src="docs/user-story-testing/user-story-5.png">
+</details>
 
 17. I want users to sign up to our mailing list
 
