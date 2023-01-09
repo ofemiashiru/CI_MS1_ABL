@@ -633,3 +633,5 @@ The website was tested on the following browsers:
 | Alerts on WAVE webaim highlighting the use of long alternative text on news.html| Shortened the alt text on news.html images| 
 | 1 contrast error when testing on WAVE webaim Highlighting the author and date as the issue| Changed the colour of the published-by class to a darker shade of grey|
 | Alerts on WAVE webaim highlighting the use of justified text| Changed body of each article to align left| 
+
+## Deployment
