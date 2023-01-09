@@ -410,3 +410,5 @@ The website was tested on the following browsers:
 - Safari
 - Mozilla Firefox
 - Microsoft Edge
+
+### Testing user stories
