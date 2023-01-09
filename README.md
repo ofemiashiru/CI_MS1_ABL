@@ -521,7 +521,7 @@ The website was tested on the following browsers:
 
 <details><summary>Screenshots</summary>
 <img src="docs/user-story-testing/user-story-10.png">
-
+</details>
 
 11. I want to interact with AfrobeatsLib on their social media platform
 12. I want to leave a comment on the news articles
