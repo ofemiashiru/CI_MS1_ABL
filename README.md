@@ -160,7 +160,6 @@ The website consists of 6 main pages:
 <img src="docs/wireframes/artists.png" alt="artists wireframe">
 </details>
 <details><summary>Genre</summary>
-<p>After meeting with Mentor during mid-point project review, it was suggested that this design change as it was deemed too similar to the artists page. Hence the finished product adopts a different structure to the initial wireframe.</p>
 <img src="docs/wireframes/genre.png" alt="genre wireframe"> 
 </details>
 <details><summary>Events</summary>
