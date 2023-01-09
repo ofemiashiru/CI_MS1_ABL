@@ -387,13 +387,13 @@ Google Lighthouse Tool was used to test the performance of the website.
 <img src="docs/validation/performance/lighthouse-performance-news.png">
 </details>
 <details><summary>News - Each Article</summary>
-<img width="200px" src="docs/validation/performance/lighthouse-performance-news-article-one.png">
-<img width="200px" src="docs/validation/performance/lighthouse-performance-news-article-two.png">
-<img width="200px" src="docs/validation/performance/lighthouse-performance-news-article-three.png">
-<img width="200px" src="docs/validation/performance/lighthouse-performance-news-article-four.png">
-<img width="200px" src="docs/validation/performance/lighthouse-performance-news-article-five.png">
-<img width="200px" src="docs/validation/performance/lighthouse-performance-news-article-six.png">
-<img width="200px" src="docs/validation/performance/lighthouse-performance-news-article-seven.png">
+<img width="250px" src="docs/validation/performance/lighthouse-performance-news-article-one.png">
+<img width="250px" src="docs/validation/performance/lighthouse-performance-news-article-two.png">
+<img width="250px" src="docs/validation/performance/lighthouse-performance-news-article-three.png">
+<img width="250px" src="docs/validation/performance/lighthouse-performance-news-article-four.png">
+<img width="250px" src="docs/validation/performance/lighthouse-performance-news-article-five.png">
+<img width="250px" src="docs/validation/performance/lighthouse-performance-news-article-six.png">
+<img width="250px" src="docs/validation/performance/lighthouse-performance-news-article-seven.png">
 </details>
 <details><summary>Contact</summary>
 <img src="docs/validation/performance/lighthouse-performance-contact.png">
