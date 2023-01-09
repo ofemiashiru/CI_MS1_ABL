@@ -604,14 +604,6 @@ input[type=range]::-webkit-slider-thumb:active{
     right: 0;
 }
 
-.volume-container .volume-label {
-    position: absolute;
-    top: -15px;
-    right: 47px;
-    color: #FAFAFA;
-    display: none;
-}
-
 .volume-bar{
     appearance: none;
     top:30px;
