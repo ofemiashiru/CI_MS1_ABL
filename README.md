@@ -499,5 +499,15 @@ The website was tested on the following browsers:
 14. I want users to be able to be kept up to date with latest events and news
 15. I want users to be able to contact us
 16. I want users to be able to download our app on App store and Google Play store
+
 17. I want users to sign up to our mailing list
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Stay Connected section on all pages/Footer| Fill in input boxes and click submit| Input boxes submitted only when both are filled in and opens response page | Works as expected |
+
+<details><summary>Screenshots</summary>
+<img src="docs/user-story-testing/user-story-7-17.png">
+</details>
+
 18. I want our site to be prepared to launch our own in house music player 
