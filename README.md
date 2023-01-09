@@ -374,7 +374,7 @@ Google Lighthouse Tool was used to test the performance of the website.
 <details><summary>Home</summary>
 <img src="docs/validation/performance/lighthouse-performance-index.png">
 </details>
-<details><summary>Artists*</summary>
+<details><summary>Artists</summary>
 <img src="docs/validation/performance/lighthouse-performance-artists.png">
 </details>
 <details><summary>Genre*</summary>
