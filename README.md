@@ -413,16 +413,28 @@ The website was tested on the following browsers:
 - Microsoft Edge
 
 ### Responsiveness
-
+The website is completely responsive and has been tested on mobile, tablet and desktop:
 <details><summary>Mobile</summary>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/F_STsHg6YBw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<video controls>
+<source src="docs/responsiveness/responsiveness-mobile.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
 </details>
 
 <details><summary>Tablet</summary>
+<video controls>
+<source src="docs/responsiveness/responsiveness-desktop.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
 
 </details>
 
 <details><summary>Desktop</summary>
+<video controls>
+<source src="docs/responsiveness/responsiveness-desktop.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
 
 </details>
 
