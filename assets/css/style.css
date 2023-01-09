@@ -563,7 +563,7 @@ input[type=password]:hover,
 }
 
 .play-bar-container .play-bar{
-    appearance: none;
+    -webkit-appearance: none;
     width: 50%;
     height: 5px;
     cursor: pointer;
@@ -572,7 +572,7 @@ input[type=password]:hover,
 }
 
 input[type=range]::-webkit-slider-thumb{
-    appearance: none;
+    -webkit-appearance: none;
     background-color: #0d0d0d;
     width: 15px;
     height: 15px;
@@ -586,7 +586,7 @@ input[type=range]::-webkit-slider-thumb{
 }
 
 input[type=range]::-webkit-slider-thumb:hover{
-    appearance: none;
+    -webkit-appearance: none;
     background-color: #FAFAFA;
     border-color: #0d0d0d;
 }

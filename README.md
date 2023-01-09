@@ -398,3 +398,14 @@ Google Lighthouse Tool was used to test the performance of the website.
 <details><summary>Contact</summary>
 <img src="docs/validation/performance/lighthouse-performance-contact.png">
 </details>
+
+### Performing tests on various devices 
+The website was tested on the following devices:
+- Apple Macbook Pro M1
+- Apple iPhone 11
+
+### Browser compatability
+The website was tested on the following browsers:
+- Google Chrome
+- Safari
+- 
