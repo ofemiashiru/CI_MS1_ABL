@@ -501,6 +501,16 @@ The website was tested on the following browsers:
 </details>
 
 9. I want to see the latest featured albums and artists
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Home Page and Artists Page| Click on page link to reveal featured albums and artists at top of page| Featured albums and artists should appear and be able to be clicked to navigate to corresponding album/artist | Works as expected |
+
+<details><summary>Screenshots</summary>
+<img src="docs/user-story-testing/user-story-9p1.png">
+<img src="docs/user-story-testing/user-story-9p2.png">
+</details>
+
 10. I want to be able to contact AfrobeatsLib
 11. I want to interact with AfrobeatsLib on their social media platform
 12. I want to leave a comment on the news articles
