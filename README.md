@@ -412,3 +412,32 @@ The website was tested on the following browsers:
 - Microsoft Edge
 
 ### Testing user stories
+
+1. I want to locate favourite artists by letter or genre
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Artists and Genre Page | Navigate to Artists or Genre page and use letter or genre links to locate artist | Page opens and links successfully narrow down location of artist | Works as expected |
+
+<details><summary>Screenshots</summary>
+<img src="docs/user-story-testing/user-story-1-13.png">
+<img src="docs/user-story-testing/user-story-1-13.png">
+</details>
+
+2. I want to know the different subscription prices
+3. I want to see the latest events 
+4. I want to see the latest news
+5. I want to be able to download the AfrobeatsLib app from the App store or Google Play store
+6. I want to be able to sign up to AfrobeatsLib
+7. I want to sign up to AfrobeatsLib Mailing list
+8. I want to see all the latest events and be able to visit their corresponding pages
+9. I want to see the latest featured albums and artists
+10. I want to be able to contact AfrobeatsLib
+11. I want to interact with AfrobeatsLib on their social media platform
+12. I want to leave a comment on the news articles
+13. I want users to be able to find and listen to their favourite Afrobeats artists
+14. I want users to be able to be kept up to date with latest events and news
+15. I want users to be able to contact us
+16. I want users to be able to download our app on App store and Google Play store
+17. I want users to sign up to our mailing list
+18. I want our site to be prepared to launch our own in house music player 
