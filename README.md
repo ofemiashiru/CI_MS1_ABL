@@ -367,4 +367,7 @@ The WAVE WebAIM web accessibility tool was used to ensure the website met access
 </details>
 
 ### Performance 
-Google Lighthouse Tools was used to test the performance of the website. 
+Google Lighthouse Tool was used to test the performance of the website. 
+<details><summary>Home</summary>
+<img src="docs/validation/performance/lighthouse-performance-index.png">
+</details>
