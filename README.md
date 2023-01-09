@@ -709,4 +709,203 @@ Images not referenced below are owned by the Developer.
 
 ### Media
 
-[Hero image](assets/images/pexels-yan-krukov-9008836.webp) taken from [Pexels.com](https://www.pexels.com/photo/a-man-between-women-singing-and-dancing-on-the-stage-9008836/)
+[Hero image](assets/images/pexels-yan-krukov-9008836.webp) on index.html, taken from [Pexels.com](https://www.pexels.com/photo/a-man-between-women-singing-and-dancing-on-the-stage-9008836/)
+
+The following images used for Featured Albums section on index.html, taken from [Uproxx.com](https://uproxx.com/music/best-afrobeats-albums-2022-list/)
+
+- [Black Sherif album cover](assets/images/featured_songs/black-sherif-the-villain-i-never-was.webp)
+
+- [Asake album cover](assets/images/featured_songs/asake.webp)
+
+- [Burna Boy album cover](assets/images/featured_songs/burna-boy-love-damini-large.webp)
+
+- [Naira Marley album cover](assets/images/featured_songs/naira-marley-gods-timing-the-best-copy.webp)
+
+- [Blaq Bonez album cover](assets/images/featured_songs/blaqbonez-young-preacher.webp)
+
+- [Adekunle Gold album cover](assets/images/featured_songs/adekunle-gold-catch-me-if-you-can.webp)
+
+[Left middle image](assets/images/afro_nation_2019.webp) on index.html, taken from [Tiketmaster.co.uk](https://discover.ticketmaster.co.uk/music/photos-afro-nation-portugal-46269/)
+
+[Music player image](assets/images/wizkid-more-love-less-ego.webp) on all pages, taken from [Uproxx.com](https://uproxx.com/music/best-afrobeats-albums-2022-list/)
+
+The following images were used for artists.html and genre.html:
+
+- [9ice](assets/images/artists/9ice.webp) taken from [Bellanaija.com](https://www.bellanaija.com/2017/06/9ice-debuts-new-look-new-photos/)
+
+- [2Baba](assets/images/artists/2baba.webp) taken from [Okaymusic.com](https://okaymusic.com/collections/2baba)
+
+- [Adekunle Gold](assets/images/artists/adekunle-gold.webp) taken from [Hungertv.com](https://www.hungertv.com/editorial/5-minutes-with-adekunle-gold-the-nigerian-afropop-singer-quitting-his-nine-to-five-to-pursue-music/)
+
+- [Adewale Ayuba](assets/images/artists/adewale-ayuba.webp) taken from [Justnews.ng](https://justnews.ng/toast-to-corporate-fuji-singer-adewale-ayuba-as-he-turns-55/)
+
+- [Asake](assets/images/artists/asake.webp) taken from [Biographyweb.org](https://www.biographyweb.org/artists/asake/)
+
+- [Ayra Starr](assets/images/artists/ayra-starr.webp) taken from [Wikipedia.org](https://en.wikipedia.org/wiki/Ayra_Starr)
+
+- [Bayanni](assets/images/artists/bayanni.webp) taken from [Musictown.com.ng](https://musictown.com.ng/bayanni-biography-real-name-songs-albums/)
+
+- [Black Sherif](assets/images/artists/black-sherif.webp) taken from [Okayafrica.com](https://okayafrica.com/black-sherif-ghana-interview/)
+
+- [Burna Boy](assets/images/artists/burna-boy.webp) taken from [Teenvogue.com](https://www.teenvogue.com/story/5-best-new-songs-this-week-burna-boy-doechii-emotional-oranges-and-more)
+
+- [Cina Soul](assets/images/artists/cina-soul.webp) taken from [Musicinafrica.net](https://www.musicinafrica.net/directory/cina-soul)
+
+- [C. K. Mann](assets/images/artists/ck-mann.webp) taken from [Mrbongo.bandcamp.com](https://mrbongo.bandcamp.com/album/funky-highlife)
+
+- [Davido](assets/images/artists/davido.webp) taken from [Theguardian.com](https://www.theguardian.com/music/2020/dec/01/davido-nigerian-pop-star-fem-end-sars)
+
+- [D’Banj](assets/images/artists/dbanj.webp) taken from [Lindaikejisblog.com](https://www.lindaikejisblog.com/2022/12/dbanjs-lawyer-issues-statement-following-singers-arrest-and-detention.html)
+
+- [Don jazzy](assets/images/artists/don-jazzy.webp) taken from [Twitter.com](https://twitter.com/mobilepunch/status/1596564069389156359)
+
+
+Ebenezer Obey
+http://t1.gstatic.com/licensed-image?q=tbn:ANd9GcRLbOKGManzKI2mM5GdISJB8iW6-cfrF7PdWGvvlOs6sQAac09HgpSXKpD9-aCu4Ef-4O5N0xpn7oAeGcw
+
+
+Fela Kuti
+https://www.bbc.co.uk/programmes/articles/4K2RG0drxmnrvZl17YqFGjk/the-global-legacy-of-fela-kuti-s-defiant-dance-music
+
+Femi Kuti
+https://theworld.org/stories/2021-04-12/femi-kuti-and-made-kuti-continue-afrobeat-legacy-two-part-album
+
+Fireboy DML
+https://pitchfork.com/news/listen-to-fireboy-dml-new-song-bandana/
+
+Fuse ODG
+https://www.theguardian.com/music/2019/mar/07/afrobeats-star-fuse-odg-i-love-myself-now-africa-has-done-that-for-me
+
+
+Genevieve Nnaji
+https://www.selahafrik.com/2022/03/genevieve-nnaji-mental-health/
+ 
+Gyakie
+https://www.unorthodoxreviews.com/next-up-gyakie/
+
+Harrysong
+https://www.plugged.co.ke/nigerian-star-harrysong-teams-up-with-fireboy-dml-and-olamide-releasing-she-knows/
+
+Humblesmith
+https://www.starzone.com.ng/wp-content/uploads/2022/01/FB_IMG_16406099148407597.jpg
+
+Ice Prince
+https://nataal.com/ice-prince
+
+Iyanya
+https://audiomack.com/iyanya
+
+Joeboy
+https://en.wikipedia.org/wiki/Joeboy
+
+
+K1 De Ultimate
+https://en.wikipedia.org/wiki/K1_De_Ultimate
+
+Kcee
+https://audiomack.com/badmankcee
+
+King Sunny Ade
+https://dailypost.ng/2015/04/28/juju-musician-king-sunny-ade-bereaved-loses-manager/
+
+Kizz Daniel
+https://21stcenturychronicle.com/kizz-daniel-drops-new-anthem-odo/
+
+Korede Bello
+https://trendybeatz.com/music-news/449/%E2%80%9Cmoney-and-fame-is-not-the-answer-to-everything%E2%80%9D-%E2%80%93-korede-bello
+
+Ladipoe
+https://pitchfork.com/news/listen-to-ladipoes-new-ep-featuring-amaarae-rema-and-fireboy-dml/
+
+Ladysmith Black Mambazo
+https://tolitasmusings.blogspot.com/2011/05/live-review-ladysmith-black-mambazo.html
+
+
+Lágbájá
+https://www.greedyforbestmusic.com/journal/friends/lagbaja/
+
+Magic System
+https://mla-agency.com/wp-content/uploads/2022/07/magic-system.jpeg
+
+Magixx
+https://mixmag.net/feature/get-to-know-magixx-interview-nigeria-lagos-afrobeat-afropop
+
+Major League DJz
+https://grmdaily.com/major-league-djz-brixton-o2-show-review/
+
+M.I
+https://www.thepitldn.com/pitnews/artist-spotlight-m-i-abanga
+
+Mr Eazi
+https://justnaija.com/music/artistes/mr-eazi/
+
+Naira Marley
+https://www.theguardian.com/music/2020/apr/08/rapper-naira-marley-ibig-bum-qualifications-nigeria-marlians
+
+Niniola
+https://en.wikipedia.org/wiki/Niniola
+
+Nneka
+https://www.theguardian.com/music/2022/feb/13/nneka-love-supreme-sweet-sharp-and-serene
+
+Olamide
+https://www.pulse.ng/entertainment/music/olamide-set-to-release-new-album-uy-scuti/4gqhxek
+
+
+Omah Lay
+https://earth-agency.com/artists/omah-lay/omah-lay-1/ 
+
+Pheelz
+https://digital.simpleonline.ng/pheelz-mr-producer-the-rhythm-is-cool/
+
+Plantashun Boiz
+https://wuzupnigeria.ng/entertainment/video-plantashun-boiz-perform-at-sound-sultans-memorial-as-blackface-2baba-settle-beef
+
+
+Rema
+https://www.nme.com/blogs/nme-radar/rema-interview-afrorave-calm-down-jealousy-fka-twigs-3178061
+
+Ruger
+https://www.lindaikejisblog.com/2022/9/singer-ruger-throws-massive-shade-as-he-announces-his-arrival-in-tanzania.html
+
+Sade
+https://www.thefader.com/2015/01/16/sade-lovers-rock-cover-story-interview
+
+Seun Kuti
+https://www.theguardian.com/world/2021/jan/19/system-rigged-seun-kuti-reviving-fela-political-party-nigeria
+
+Seyi Sodimu
+https://www.brandiconimage.com/2012/12/seyi-sodimu-gives-wife-n10m-gl-450-benz.html
+
+
+Tems
+https://www.rca-records.co.uk/artists/tems
+
+Tiwa Savage
+https://dailypost.ng/2016/04/28/tiwa-savage-slept-2face-don-jazzy-others-teebillz-reveals-instagram/
+https://dailypost.ng/wp-content/uploads/2015/12/Tiwa-Savage-1200x1200.png
+
+Tony Tetuila
+https://www.bellanaija.com/2018/08/tony-tetuila-loses-mom-%F0%9F%92%94/
+
+
+Victony
+https://www.livenation.co.uk/artist-victony-1387695
+
+
+Wizkid
+https://www.billboard.com/music/chart-beat/wizkid-2-sugar-hot-trending-songs-chart-1235175682/
+
+Yemi Alade
+https://en.wikipedia.org/wiki/Yemi_Alade
+
+Yinka Ayefele
+https://newswirengr.com/2022/10/12/yinka-ayefele-biography-education-career-marriage-net-worth-achievements-and-controversy/
+
+
+Zinoleesky
+https://scala.co.uk/events/zinoleesky-live-at-scala/
+
+Zlatan
+https://thrillng.com/zlatan-ibile-zlatan-ibiles-biography-age-songs-career-and-net-worth/
+
