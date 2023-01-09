@@ -374,3 +374,27 @@ Google Lighthouse Tool was used to test the performance of the website.
 <details><summary>Home</summary>
 <img src="docs/validation/performance/lighthouse-performance-index.png">
 </details>
+<details><summary>Artists</summary>
+<img src="docs/validation/performance/lighthouse-performance-artists.png">
+</details>
+<details><summary>Genre</summary>
+<img src="docs/validation/performance/lighthouse-performance-genre.png">
+</details>
+<details><summary>Events</summary>
+<img src="docs/validation/performance/lighthouse-performance-events.png">
+</details>
+<details><summary>News</summary>
+<img src="docs/validation/performance/lighthouse-performance-news.png">
+</details>
+<details><summary>News - Each Article</summary>
+<img width="200px" src="docs/validation/performance/lighthouse-performance-news-article-one.png">
+<img width="200px" src="docs/validation/performance/lighthouse-performance-news-article-two.png">
+<img width="200px" src="docs/validation/performance/lighthouse-performance-news-article-three.png">
+<img width="200px" src="docs/validation/performance/lighthouse-performance-news-article-four.png">
+<img width="200px" src="docs/validation/performance/lighthouse-performance-news-article-five.png">
+<img width="200px" src="docs/validation/performance/lighthouse-performance-news-article-six.png">
+<img width="200px" src="docs/validation/performance/lighthouse-performance-news-article-seven.png">
+</details>
+<details><summary>Contact</summary>
+<img src="docs/validation/performance/lighthouse-performance-contact.png">
+</details>
