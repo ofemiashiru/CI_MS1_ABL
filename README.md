@@ -870,3 +870,7 @@ The following images were used for events.html:
 - [Diaspora Nights](assets/images/events/diaspora-nights.webp) taken from [Eventbrite.co.uk](https://www.eventbrite.co.uk/e/diaspora-nights-afrobeats-afrohouse-amapiano-tickets-466855045007)
 
 - [Afrobeats VS Bashment VS Rap](assets/images/events/afrobeats-vs-bashment-vs-rap.webp) taken from [Fatsoma.com](https://www.fatsoma.com/e/dck8bwkp/afrobeats-vs-bashment-vs-rap)
+
+- [Kojo Funds Live - AfroSupper](assets/images/events/kojo-funds-live-afrosupper.webp) taken from [Fatsoma.com](https://www.fatsoma.com/afrobeatsnbrunch/promotions/qwsavfmj/kojo-funds-live-afrosupper-surrey-jan-28th)
+
+- [4Fingaz Live](assets/images/events/4fingaz-live.webp) taken from [Eventbrite.co.uk](https://www.eventbrite.co.uk/e/4fingaz-live-tickets-485341849537)
