@@ -422,7 +422,7 @@ The website was tested on the following browsers:
 
 <details><summary>Screenshots</summary>
 <p>Artists</p>
-<img src="docs/user-story-testing/user-story-1-13-artists.jpg">
+<img src="docs/user-story-testing/user-story-1-13-artists.png">
 <p>Genre</p>
 <img src="docs/user-story-testing/user-story-1-13-genre.jpg">
 </details>
