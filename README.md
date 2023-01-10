@@ -867,7 +867,7 @@ All news articles used on news.html and each article page sourced from [Newsnow.
 
 - Used [oodlestechnologies.com](https://www.oodlestechnologies.com/blogs/how-to-swap-two-elements-using-css/) to help reposition .article-box-header to the top of news image on smaller screens for news.html
 
-- Used [w3schools.com](https://www.w3schools.com/cssref/sel_before.php) and [w3schools.com](https://www.w3schools.com/cssref/sel_after.php) for greater understand of the before and after psuedo classes
+- Used [w3schools.com - ::before](https://www.w3schools.com/cssref/sel_before.php) and [w3schools.com ::after](https://www.w3schools.com/cssref/sel_after.php) resources for greater understand of the before and after psuedo classes
 
 - Used [Stackoverflow](https://stackoverflow.com/questions/20782368/use-font-awesome-icon-as-css-content) to use Font Awesome Icon as CSS content
 
