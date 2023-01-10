@@ -415,29 +415,11 @@ The website was tested on the following browsers:
 ### Responsiveness
 The website is completely responsive and has been tested on mobile, tablet and desktop:
 
-- Mobile
+- [Mobile Responsiveness](https://ofemiashiru.github.io/CI_MS1_ABL/docs/responsiveness/responsiveness-mobile.mp4)
 
-<video controls>
-<source src="docs/responsiveness/responsiveness-mobile.mp4" type="video/mp4">
-Your browser does not support the video tag.
-</video>
+- [Tablet Responsiveness](https://ofemiashiru.github.io/CI_MS1_ABL/docs/responsiveness/responsiveness-tablet.mp4)
 
-
-- Tablet
-
-<video controls>
-<source src="docs/responsiveness/responsiveness-tablet.mp4" type="video/mp4">
-Your browser does not support the video tag.
-</video>
-
-
-- Desktop
-
-<video controls>
-<source src="docs/responsiveness/responsiveness-desktop.mp4" type="video/mp4">
-Your browser does not support the video tag.
-</video>
-
+- [Desktop Responsiveness](https://ofemiashiru.github.io/CI_MS1_ABL/docs/responsiveness/responsiveness-desktop.mp4)
 
 
 ### Testing user stories
