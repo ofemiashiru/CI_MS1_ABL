@@ -416,13 +416,15 @@ The website was tested on the following browsers:
 The website is completely responsive and has been tested on mobile, tablet and desktop:
 
 <details><summary>Mobile</summary>
-<img src="docs/responsiveness/respsonsiveness-mobile.gif" alt="Mobile Responsiveness">
+<img src="docs/respsonsiveness/respsonsiveness-mobile.gif" alt="Mobile Responsiveness">
 </details>
 
 <details><summary>Tablet</summary>
+<img src="docs/respsonsiveness/respsonsiveness-tablet.gif" alt="Tablet Responsiveness">
 </details>
 
 <details><summary>Desktop</summary>
+<img src="docs/respsonsiveness/respsonsiveness-desktop.gif" alt="Desktop Responsiveness">
 </details>
 
 
