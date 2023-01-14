@@ -329,12 +329,11 @@ comingsoon.html [results](https://validator.w3.org/nu/?doc=https%3A%2F%2Fofemias
 ### CSS Validation
 The W3C Jigsaw CSS Validation Service was used to validate the CSS of the website.
 After testing the whole sites CSS and my own custom CSS all pages passed with no errors, however, there were a number of warnings present that were related to the webkit css extensions used.
-<details><summary>whole site</summary>
-<img src="docs/validation/css/validation-css-whole-site.png">
-</details>
-<details><summary>custom css (style.css)</summary>
-<img src="docs/validation/css/validation-css-style.png">
-</details>
+
+whole site [results](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fofemiashiru.github.io%2FCI_MS1_ABL%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en) - No Errors Found
+
+custom css [results](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fofemiashiru.github.io%2FCI_MS1_ABL%2Fassets%2Fcss%2Fstyle.css&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en) - No Errors Found
+
 
 ### Accessibility
 The WAVE WebAIM web accessibility tool was used to ensure the website met accessibility standards. 
