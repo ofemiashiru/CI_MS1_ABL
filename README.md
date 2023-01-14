@@ -337,6 +337,40 @@ custom css [results](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%
 
 ### Accessibility
 The WAVE WebAIM web accessibility tool was used to ensure the website met accessibility standards. 
+
+index.html [results](https://wave.webaim.org/report#/https://ofemiashiru.github.io/CI_MS1_ABL/index.html) - No Errors Found
+
+artists.html [results](https://wave.webaim.org/report#/https://ofemiashiru.github.io/CI_MS1_ABL/artists.html) - No Errors Found, 1 Alert due to index.html being referenced twice on logo and home link.
+
+genre.html [results](https://wave.webaim.org/report#/https://ofemiashiru.github.io/CI_MS1_ABL/genre.html) - No Errors Found, 1 Alert due to index.html being referenced twice on logo and home link.
+
+events.html [results](https://wave.webaim.org/report#/https://ofemiashiru.github.io/CI_MS1_ABL/events.html) - No Errors Found, 1 Alert due to index.html being referenced twice on logo and home link.
+
+news.html [results](https://wave.webaim.org/report#/https://ofemiashiru.github.io/CI_MS1_ABL/news.html) - No Errors Found, 1 Alert due to index.html being referenced twice on logo and home link.
+
+article-one.html [results](https://wave.webaim.org/report#/https://ofemiashiru.github.io/CI_MS1_ABL/article-one.html) - No Errors Found, 1 Alert due to index.html being referenced twice on logo and home link.
+
+article-two.html [results](https://wave.webaim.org/report#/https://ofemiashiru.github.io/CI_MS1_ABL/article-two.html) - No Errors Found, 1 Alert due to index.html being referenced twice on logo and home link.
+
+article-three.html [results](https://wave.webaim.org/report#/https://ofemiashiru.github.io/CI_MS1_ABL/article-three.html) - No Errors Found, 1 Alert due to index.html being referenced twice on logo and home link.
+
+article-four.html [results](https://wave.webaim.org/report#/https://ofemiashiru.github.io/CI_MS1_ABL/article-four.html) - No Errors Found, 1 Alert due to index.html being referenced twice on logo and home link.
+
+article-five.html [results](https://wave.webaim.org/report#/https://ofemiashiru.github.io/CI_MS1_ABL/article-five.html) - No Errors Found, 1 Alert due to index.html being referenced twice on logo and home link.
+
+article-six.html [results](https://wave.webaim.org/report#/https://ofemiashiru.github.io/CI_MS1_ABL/article-six.html) - No Errors Found, 1 Alert due to index.html being referenced twice on logo and home link.
+
+article-seven.html [results](https://wave.webaim.org/report#/https://ofemiashiru.github.io/CI_MS1_ABL/article-seven.html) - No Errors Found, 1 Alert due to index.html being referenced twice on logo and home link.
+
+contact.html [results](https://wave.webaim.org/report#/https://ofemiashiru.github.io/CI_MS1_ABL/contact.html) - No Errors Found, 1 Alert due to index.html being referenced twice on logo and home link.
+
+404.html [results](https://wave.webaim.org/report#/https://ofemiashiru.github.io/CI_MS1_ABL/404.html) - No Errors Found, 1 Alert due to index.html being referenced twice on logo and home link.
+
+messagesent.html [results](https://wave.webaim.org/report#/https://ofemiashiru.github.io/CI_MS1_ABL/messagesent.html) - No Errors Found, 1 Alert due to index.html being referenced twice on logo and home link.
+
+comingsoon.html [results](https://wave.webaim.org/report#/https://ofemiashiru.github.io/CI_MS1_ABL/comingsoon.html) - No Errors Found, 1 Alert due to index.html being referenced twice on logo and home link.
+
+
 <details><summary>Home</summary>
 <p>No errors</p>
 <img src="docs/validation/accessibility/validation-accessibility-index.png">
