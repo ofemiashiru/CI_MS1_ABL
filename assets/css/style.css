@@ -32,8 +32,7 @@ input[type=password]:hover,
 }
 
 .featured-container-no-hero{
-    margin-top: 120px;
-    margin-bottom: 120px;
+    padding-top: 100px;
 }
 
 .featured-artists-section{
@@ -391,6 +390,7 @@ input[type=password]:hover,
 /* Stay connected Section */
 
 .stay-connected-container{
+    margin-top: 150px;
     margin-bottom: 170px;
 }
 
@@ -744,7 +744,7 @@ input[type=range]::-webkit-slider-thumb:active{
     padding-right: 30px;
 }
 .section-artist{
-    margin-bottom: 100px;
+    padding-top: 100px;
 }
 
 .section-artist h2{
@@ -827,6 +827,10 @@ input[type=range]::-webkit-slider-thumb:active{
     position: fixed;
     float: left;
     width: 25%;  
+}
+
+.all-genres{
+    padding-top: 100px;
 }
 
 .genre-list{
@@ -1428,10 +1432,6 @@ input[type=range]::-webkit-slider-thumb:active{
         left: -5px;
         font-size: .6rem;
         width: max-content;
-    }
-
-    .featured-container-no-hero{
-        margin-top: 100px;
     }
 
     .top-link-container{
