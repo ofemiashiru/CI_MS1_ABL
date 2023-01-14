@@ -644,6 +644,15 @@ The website is completely responsive and has been tested on mobile, tablet and d
 <img src="docs/user-story-testing/user-story-18.png">
 </details>
 
+19. I do not want users to use browser back button if they are looking for a page that does not exist 
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| 404 Page| Enter incorrect URI in address bar|404 page should appear with Header and footer as well as button that prompts user go back to previous page | Works as expected |
+
+<details><summary>Screenshots</summary>
+<img src="docs/user-story-testing/user-story-19.png">
+</details>
 
 
 ## Bugs
