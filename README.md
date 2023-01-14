@@ -371,41 +371,6 @@ messagesent.html [results](https://wave.webaim.org/report#/https://ofemiashiru.g
 comingsoon.html [results](https://wave.webaim.org/report#/https://ofemiashiru.github.io/CI_MS1_ABL/comingsoon.html) - No Errors Found, 1 Alert due to index.html being referenced twice on logo and home link.
 
 
-<details><summary>Home</summary>
-<p>No errors</p>
-<img src="docs/validation/accessibility/validation-accessibility-index.png">
-</details>
-<details><summary>Artists</summary>
-<p>No errors. 1 Alert due to index.html being referenced twice on logo and home link</p>
-<img src="docs/validation/accessibility/validation-accessibility-artists.png">
-</details>
-<details><summary>Genre</summary>
-<p>No errors. 1 Alert due to index.html being referenced twice on logo and home link</p>
-<img src="docs/validation/accessibility/validation-accessibility-genre.png">
-</details>
-<details><summary>Events</summary>
-<p>No errors. 1 Alert due to index.html being referenced twice on logo and home link</p>
-<img src="docs/validation/accessibility/validation-accessibility-events.png">
-</details>
-<details><summary>News</summary>
-<p>No errors. 1 Alert due to index.html being referenced twice on logo and home link</p>
-<img src="docs/validation/accessibility/validation-accessibility-news.png">
-</details>
-<details><summary>News - Each Article</summary>
-<p>No errors. 1 Alert due to index.html being referenced twice on logo and home link</p>
-<img width="300px" src="docs/validation/accessibility/validation-accessibility-news-article-one.png">
-<img width="300px" src="docs/validation/accessibility/validation-accessibility-news-article-two.png">
-<img width="300px" src="docs/validation/accessibility/validation-accessibility-news-article-three.png">
-<img width="300px" src="docs/validation/accessibility/validation-accessibility-news-article-four.png">
-<img width="300px" src="docs/validation/accessibility/validation-accessibility-news-article-five.png">
-<img width="300px" src="docs/validation/accessibility/validation-accessibility-news-article-six.png">
-<img width="300px" src="docs/validation/accessibility/validation-accessibility-news-article-seven.png">
-</details>
-<details><summary>Contact</summary>
-<p>No errors. 1 Alert due to index.html being referenced twice on logo and home link</p>
-<img src="docs/validation/accessibility/validation-accessibility-contact.png">
-</details>
-
 ### Performance 
 Google Lighthouse Tool was used to test the performance of the website. 
 <details><summary>Home</summary>
