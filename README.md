@@ -284,6 +284,11 @@ The website consists of 6 main pages:
 
 ![Contact Map](docs/features/feature-contact-map.png)
 
+### 404 Page
+- Allow users to navigate back to site without the use of back button on browser when visiting a page that does not exist (User story - 19)
+
+![404 page](docs/features/feature-404.png)
+
 ## Validation
 
 ### HTML Validation
