@@ -175,6 +175,9 @@ The website consists of 6 main pages:
 <details><summary>Contact</summary>
 <img src="docs/wireframes/contact.png" alt="contact wireframe">
 </details>
+<details><summary>404</summary>
+<img src="docs/wireframes/404.png" alt="404 wireframe">
+</details>
 
 ## Technologies Used
 
