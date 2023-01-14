@@ -293,43 +293,38 @@ The website consists of 6 main pages:
 
 ### HTML Validation
 The W3C Markup Validation Service was used to validate the HTML of the website. 
-All pages pass with no errors and no warnings.
-<details><summary>Home</summary>
-<img src="docs/validation/html/validation-html-index.png">
-</details>
-<details><summary>Artists</summary>
-<img src="docs/validation/html/validation-html-artists.png">
-</details>
-<details><summary>Genre</summary>
-<img src="docs/validation/html/validation-html-genre.png">
-</details>
-<details><summary>Events</summary>
-<img src="docs/validation/html/validation-html-events.png">
-</details>
-<details><summary>News</summary>
-<img src="docs/validation/html/validation-html-news.png">
-</details>
-<details><summary>News Article Pages</summary>
-<img width="600px" src="docs/validation/html/validation-html-news-article-one.png">
-<img width="600px" src="docs/validation/html/validation-html-news-article-two.png">
-<img width="600px" src="docs/validation/html/validation-html-news-article-three.png">
-<img width="600px" src="docs/validation/html/validation-html-news-article-four.png">
-<img width="600px" src="docs/validation/html/validation-html-news-article-five.png">
-<img width="600px" src="docs/validation/html/validation-html-news-article-six.png">
-<img width="600px" src="docs/validation/html/validation-html-news-article-seven.png">
-</details>
-<details><summary>Contact</summary>
-<img src="docs/validation/html/validation-html-contact.png">
-</details>
-<details><summary>404</summary>
-<img src="docs/validation/html/validation-html-404.png">
-</details>
-<details><summary>Message Sent</summary>
-<img src="docs/validation/html/validation-html-messagesent.png">
-</details>
-<details><summary>Coming Soon</summary>
-<img src="docs/validation/html/validation-html-comingsoon.png">
-</details>
+
+index.html [results](https://validator.w3.org/nu/?doc=https%3A%2F%2Fofemiashiru.github.io%2FCI_MS1_ABL%2Findex.html) - No Errors Found
+
+artists.html [results](https://validator.w3.org/nu/?doc=https%3A%2F%2Fofemiashiru.github.io%2FCI_MS1_ABL%2Fartists.html) - No Errors Found
+
+genre.html [results](https://validator.w3.org/nu/?doc=https%3A%2F%2Fofemiashiru.github.io%2FCI_MS1_ABL%2Fgenre.html) - No Errors Found
+
+events.html [results](https://validator.w3.org/nu/?doc=https%3A%2F%2Fofemiashiru.github.io%2FCI_MS1_ABL%2Fevents.html) - No Errors Found
+
+news.html [results](https://validator.w3.org/nu/?doc=https%3A%2F%2Fofemiashiru.github.io%2FCI_MS1_ABL%2Fnews.html) - No Errors Found
+
+article-one.html [results](https://validator.w3.org/nu/?doc=https%3A%2F%2Fofemiashiru.github.io%2FCI_MS1_ABL%2Farticle-one.html) - No Errors Found
+
+article-two.html [results](https://validator.w3.org/nu/?doc=https%3A%2F%2Fofemiashiru.github.io%2FCI_MS1_ABL%2Farticle-two.html) - No Errors Found
+
+article-three.html [results](https://validator.w3.org/nu/?doc=https%3A%2F%2Fofemiashiru.github.io%2FCI_MS1_ABL%2Farticle-three.html) - No Errors Found
+
+article-four.html [results](https://validator.w3.org/nu/?doc=https%3A%2F%2Fofemiashiru.github.io%2FCI_MS1_ABL%2Farticle-four.html) - No Errors Found
+
+article-five.html [results](https://validator.w3.org/nu/?doc=https%3A%2F%2Fofemiashiru.github.io%2FCI_MS1_ABL%2Farticle-five.html) - No Errors Found
+
+article-six.html [results](https://validator.w3.org/nu/?doc=https%3A%2F%2Fofemiashiru.github.io%2FCI_MS1_ABL%2Farticle-six.html) - No Errors Found
+
+article-seven.html [results](https://validator.w3.org/nu/?doc=https%3A%2F%2Fofemiashiru.github.io%2FCI_MS1_ABL%2Farticle-seven.html) - No Errors Found
+
+contact.html [results](https://validator.w3.org/nu/?doc=https%3A%2F%2Fofemiashiru.github.io%2FCI_MS1_ABL%2Fcontact.html) - No Errors Found
+
+404.html [results](https://validator.w3.org/nu/?doc=https%3A%2F%2Fofemiashiru.github.io%2FCI_MS1_ABL%2F404.html) - No Errors Found
+
+messagesent.html [results](https://validator.w3.org/nu/?doc=https%3A%2F%2Fofemiashiru.github.io%2FCI_MS1_ABL%2Fmessagesent.html) - No Errors Found
+
+comingsoon.html [results](https://validator.w3.org/nu/?doc=https%3A%2F%2Fofemiashiru.github.io%2FCI_MS1_ABL%2Fcomingsoon.html) - No Errors Found
 
 ### CSS Validation
 The W3C Jigsaw CSS Validation Service was used to validate the CSS of the website.
