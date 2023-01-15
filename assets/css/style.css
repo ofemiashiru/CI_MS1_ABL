@@ -831,7 +831,8 @@ input[type=range]::-webkit-slider-thumb:active{
 .genre-nav{
     position: fixed;
     float: left;
-    width: 25%;  
+    width: 25%;
+    z-index: 2;  
 }
 
 .all-genres{
