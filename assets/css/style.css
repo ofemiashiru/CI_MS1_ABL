@@ -103,11 +103,6 @@ input[type=password]:hover,
     margin-top: 50px;
 }
 
-.empty-div{
-    height: 100px;
-    clear: both;
-}
-
 /* Navigation Bar */
 
 .navbar{
@@ -825,23 +820,20 @@ input[type=range]::-webkit-slider-thumb:active{
 /* Genre Page */
 
 .genre-container{
-    position: relative;
+    display: flex;
+    flex-wrap: wrap;
 }
 
 .genre-nav{
-    position: fixed;
-    float: left;
+    position: sticky;
+    height: 100%;
     width: 25%;
-    z-index: 2;  
+    top: 0;
+    padding-right: 10px;
 }
 
 .all-genres{
     padding-top: 100px;
-}
-
-.genre-list{
-    list-style-type: none;
-    padding-left: 0;
 }
 
 .genre-list a{
@@ -850,12 +842,8 @@ input[type=range]::-webkit-slider-thumb:active{
 }
 
 .genre-by-artists{
-    float: right;
     width: 75%;
-    padding: 0 20px;
-
 }
-
 
 /* Events page */
 
