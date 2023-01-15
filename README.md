@@ -901,6 +901,8 @@ All news articles used on news.html and each article page sourced from [Newsnow.
 
 - Used [w3schools.com](https://www.w3schools.com/tags/tag_fieldset.asp) to aid in creating a fieldset and legend for radio buttons
 
+- Used [developer.mozilla.org](https://developer.mozilla.org/en-US/docs/Web/CSS/position) to aid in creating side nav bar on genre page
+
 ## Acknowledgements
 
 I would like to take the opportunity to thank:
