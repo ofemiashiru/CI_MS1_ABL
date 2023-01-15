@@ -909,6 +909,10 @@ input[type=range]::-webkit-slider-thumb:active{
     color: var(--white);
 }
 
+.top-link-on-genre{
+    display: none;
+}
+
 /* News Page */
 
 .news-row {
@@ -1393,6 +1397,10 @@ input[type=range]::-webkit-slider-thumb:active{
 
     .misc-container{
         padding-top: 80px;
+    }
+
+    .top-link-on-genre{
+        display: block;
     }
 
     .misc-container .misc-image {
