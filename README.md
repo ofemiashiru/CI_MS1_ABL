@@ -437,7 +437,7 @@ The website is completely responsive and has been tested on mobile, tablet and d
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
-| Artists and Genre Page | Navigate to Artists or Genre page and use letter or genre links to locate artist | Page opens and links successfully narrow down location of artist | Works as expected |
+| Artists and Genre Page | Navigate to Artists or Genre page and use letter or genre links to locate artist | Page opens and links successfully narrow down location of desired artist | Works as expected |
 
 <details><summary>Screenshots</summary>
 <p>Artists</p>
@@ -460,7 +460,7 @@ The website is completely responsive and has been tested on mobile, tablet and d
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
-| Events Page | Navigate to Events page and hover over desired events revealing info | Page opens and each event reveals info when hovered over | Works as expected |
+| Events Page | Navigate to Events page and hover over desired events revealing information | Page opens and each event reveals information when hovered over | Works as expected |
 
 <details><summary>Screenshots</summary>
 <img src="docs/user-story-testing/user-story-3.png">
@@ -470,7 +470,7 @@ The website is completely responsive and has been tested on mobile, tablet and d
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
-| News Page | Navigate to News page and click article | Page opens and shows all news, each article navigates to relevant article | Works as expected |
+| News Page | Navigate to News page and click article box | Page opens and shows all news, each article box navigates to relevant article when clicked | Works as expected |
 
 <details><summary>Screenshots</summary>
 <img src="docs/user-story-testing/user-story-4p1-14.png">
@@ -502,7 +502,7 @@ The website is completely responsive and has been tested on mobile, tablet and d
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
-| Stay Connected section on all pages/Footer| Fill in input boxes and click submit| Input boxes submitted only when both are filled in and opens response page | Works as expected |
+| Stay Connected section on all pages(Footer)| Fill in input boxes and click submit| Input boxes submitted only when all are filled in and opens response page | Works as expected |
 
 <details><summary>Screenshots</summary>
 <img src="docs/user-story-testing/user-story-7-17.png">
@@ -513,7 +513,7 @@ The website is completely responsive and has been tested on mobile, tablet and d
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
-| Events Page| Click on each event| Each event should open new tab with corresponding event | Works as expected |
+| Events Page| Click on each event| Each event should open a new tab with connected event | Works as expected |
 
 <details><summary>Screenshots</summary>
 <img src="docs/user-story-testing/user-story-8.png">
@@ -546,7 +546,7 @@ The website is completely responsive and has been tested on mobile, tablet and d
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
-| Stay Connected section on all pages/Footer| Click on social media links| Social media links should open new tabs with relevant link | Works as expected |
+| Stay Connected section on all pages (Footer)| Click on social media links in Stay Connected section| Social media links should open new tabs with relevant pages | Works as expected |
 
 <details><summary>Screenshots</summary>
 <img src="docs/user-story-testing/user-story-11.png">
@@ -568,7 +568,7 @@ The website is completely responsive and has been tested on mobile, tablet and d
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
-| Artists and Genre Page | Navigate to Artists or Genre page and use letter or genre links to locate artist | Page opens and links successfully narrow down location of artist | Works as expected |
+| Artists and Genre Page | Navigate to Artists or Genre page and use letter or genre links to locate artist | Page opens and links successfully narrow down location of desired artist | Works as expected |
 
 <details><summary>Screenshots</summary>
 <p>Artists</p>
@@ -591,7 +591,7 @@ The website is completely responsive and has been tested on mobile, tablet and d
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
-| Events Page | Navigate to Events page and hover over desired events revealing info | Page opens and each event reveals info when hovered over | Works as expected |
+| Events Page | Navigate to Events page and hover over desired events revealing information | Page opens and each event reveals information when hovered over | Works as expected |
 
 <details><summary>Screenshots</summary>
 <img src="docs/user-story-testing/user-story-3.png">
@@ -621,7 +621,7 @@ The website is completely responsive and has been tested on mobile, tablet and d
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
-| Stay Connected section on all pages/Footer| Fill in input boxes and click submit| Input boxes submitted only when both are filled in and opens response page | Works as expected |
+| Stay Connected section on all pages/Footer| Fill in input boxes and click submit| Input boxes submitted only when all are filled in and opens response page | Works as expected |
 
 <details><summary>Screenshots</summary>
 <img src="docs/user-story-testing/user-story-7-17.png">
@@ -641,7 +641,7 @@ The website is completely responsive and has been tested on mobile, tablet and d
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
-| 404 Page| Enter incorrect URI in address bar|404 page should appear with Header and footer as well as button that prompts user go back to previous page | Works as expected |
+| 404 Page| Enter incorrect URI in address bar|404 page should appear with Header and footer as well as a button that prompts user to go back to previous page | Works as expected |
 
 <details><summary>Screenshots</summary>
 <img src="docs/user-story-testing/user-story-19.png">
