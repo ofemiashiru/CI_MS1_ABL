@@ -908,4 +908,4 @@ All news articles used on news.html and each article page sourced from [Newsnow.
 I would like to take the opportunity to thank:
 - Mo Shami for coninued mentorship, guidance and support throughout this project. 
 - Iris Smok for continued encouragement whilst working on this project.
-- and all the Teaching and Non-teaching Personnel at Code Insitute.
+- and all the Teaching and Non-teaching Personnel at Code Institute.
