@@ -338,7 +338,7 @@ custom css [results](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%
 ### Accessibility
 The WAVE WebAIM web accessibility tool was used to ensure the website met accessibility standards. 
 
-index.html [results](https://wave.webaim.org/report#/https://ofemiashiru.github.io/CI_MS1_ABL/index.html) - No Errors Found
+index.html [results](https://wave.webaim.org/report#/https://ofemiashiru.github.io/CI_MS1_ABL/index.html) - No Errors Found, 1 Alert due to index.html being referenced twice on logo and home link.
 
 artists.html [results](https://wave.webaim.org/report#/https://ofemiashiru.github.io/CI_MS1_ABL/artists.html) - No Errors Found, 1 Alert due to index.html being referenced twice on logo and home link.
 
